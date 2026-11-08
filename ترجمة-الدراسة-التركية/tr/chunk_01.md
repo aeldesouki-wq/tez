@@ -2,11 +2,11 @@
 
 Hamd âlemlerin Rabbi olan Allah'a, salât ve selâm efendimiz Muhammed'e, onun âline ve ashâbının tamamına olsun. Bundan sonra:
 
-Elinizdeki çalışma, İstanbul Üniversitesi Sosyal Bilimler Enstitüsü Temel İslâm Bilimleri Anabilim Dalı İslâm Hukuku Bilim Dalı'nda doktora derecesi almak amacıyla hazırlanmış bir tezdir. Konusu, Burhâneddin en-Nesefî'nin *Şerhu'n-Nikâti'l-erbaʿîniyye* adlı eserinin tahkiki ve incelenmesidir. Bu konuyu seçmemizde eserin fukahâ metoduna göre cedel ilmindeki yeri, metnini kuşatan ve ancak müellifin kendi şerhiyle gereği gibi aydınlatılabilecek kapalılık ve bu şerhin üzerinde çalışılmamış bir yazma olarak kalmış olması belirleyici olmuştur.
+Elinizdeki çalışma, İstanbul Üniversitesi Sosyal Bilimler Enstitüsü Temel İslâm Bilimleri Anabilim Dalı İslâm Hukuku Bilim Dalında doktora derecesi almak amacıyla hazırlanmış bir tezdir. Konusu, Burhâneddin en-Nesefî'nin *Şerhu'n-Nikâti'l-erbaʿîniyye* adlı eserinin tahkiki ve incelenmesidir. Bu konuyu seçmemde şu hususlar belirleyici olmuştur: eserin fukahâ metoduna göre cedel ilmindeki yeri, metnini kuşatan ve ancak müellifin kendi şerhiyle gereği gibi aydınlatılabilecek kapalılık, bir de bu şerhin üzerinde çalışılmamış bir yazma olarak kalmış olması.
 
 Çalışma birtakım güçlüklerden de âzâde olmamıştır. Bunların en çetini, metnin ıstılahlarla örülü dili ve iç içe geçmiş terdîdleri; müellifin biyografisine dair kaynakların azlığı; yazma nüshaların farklı yerlere dağılmış olması ve açık istinsah tarihlerinden yoksun bulunmasıdır.
 
-Araştırmanın bütün aşamalarında ilminden, yönlendirmelerinden ve görüşlerinden istifade ettiğim danışman hocam Prof. Dr. Şükrü Özen'e; tez izleme komitesi ve tez savunma jürisi üyelerine [isimler yazılacak]; İstanbul Üniversitesi'ne; yazmalarına ulaşmamı kolaylaştıran Süleymaniye Kütüphanesi, Nuruosmaniye Kütüphanesi ve diğer kütüphanelerin görevlilerine en içten teşekkürlerimi sunarım. Bu çalışmayı rızasına hâlis kılmasını ve ilim talebelerine faydalı eylemesini Allah'tan niyaz ederim.
+Araştırmanın bütün aşamalarında ilminden, yönlendirmelerinden ve görüşlerinden istifade ettiğim danışman hocam Prof. Dr. Şükrü Özen'e; tez izleme komitesi ve tez savunma jürisi üyelerine [isimler yazılacak]; İstanbul Üniversitesine; yazmalarına ulaşmamı kolaylaştıran Süleymaniye Kütüphanesi, Nuruosmaniye Kütüphanesi ve diğer kütüphanelerin görevlilerine en içten teşekkürlerimi sunarım. Bu çalışmayı rızasına hâlis kılmasını ve ilim talebelerine faydalı eylemesini Allah'tan niyaz ederim.
 
 **Abdelrahman ELDESOUKI**
 
@@ -43,23 +43,24 @@ Araştırmanın bütün aşamalarında ilminden, yönlendirmelerinden ve görü�
 **İSAM** TDV İslâm Araştırmaları Merkezi
 
 **İSNAD** İSNAD Atıf Sistemi
+
 # GİRİŞ
 
-Fukahâ metoduna göre cedel ilmi, yahut hilâf ilmi, fıkıh usulünün ve fıkhî ihtilafların kucağında doğmuş; çok geçmeden kendine özgü konusu ve kurallarıyla müstakil bir disiplin hâline gelmiş, nihayet VII. (XIII.) yüzyılda bizzat kendisi için öğrenilen ve nazarın girdiği her ilimde bir alet olarak kullanılan, soyut ve sûrî bir sanata dönüşmüştür. Hanefîlerin bu süreçte belirgin bir yeri vardır. Bu yer, sonradan Rükneddin el-Amîdî'ye (ö. 615/1218) nisbetle Amîdî metodu (*et-tarîkatü'l-Amîdiyye*) diye anılan yöntemde zirvesine ulaşmıştır. Amîdî'den sonra bu metodun bayraktarlığını Burhâneddin Muhammed b. Muhammed b. Muhammed en-Nesefî (ö. 687/1289) üstlenmiştir. Nesefî, metodun esaslarını *el-Fusûl*, *Menşeʾü'n-nazar* ve *et-Terâcîh*'te ortaya koymuş, onu *en-Nikâtü'z-zarûriyyetü'l-erbaʿîniyye*'de kapsamlı biçimde uygulamıştır. Ardından hayatının son yıllarında bu nüktelere dönerek onlardan neyi kastettiğini açıklayan ve kendilerine yöneltilen tenkitleri bertaraf eden bir şerh yazmıştır. İşte bu tezin tahkik ve inceleme konusu olan eser, söz konusu şerhin ta kendisidir.
+Fukahâ metoduna göre cedel ilmi, yahut hilâf ilmi, fıkıh usulünün ve fıkhî ihtilafların kucağında doğmuş; çok geçmeden kendine özgü konusu ve kurallarıyla müstakil bir disiplin hâline gelmiş, nihayet VII. (XIII.) yüzyılda bizzat kendisi için öğrenilen ve nazarın girdiği her ilimde bir alet olarak kullanılan, soyut ve sûrî bir sanata dönüşmüştür. Bu süreçte Hanefîlerin belirgin bir ağırlığı olmuş; bu ağırlık, sonradan Rükneddin el-Amîdî'ye (ö. 615/1218) nisbetle Amîdî metodu (*et-tarîkatü'l-Amîdiyye*) diye anılan yöntemde zirveye ulaşmıştır. Amîdî'den sonra bu metodun bayraktarlığını Burhâneddin Muhammed b. Muhammed b. Muhammed en-Nesefî (ö. 687/1289) üstlenmiştir. Nesefî, metodun esaslarını *el-Fusûl*, *Menşeʾü'n-nazar* ve *et-Terâcîh*'te ortaya koymuş, onu *en-Nikâtü'z-zarûriyyetü'l-erbaʿîniyye*'de kapsamlı biçimde uygulamıştır. Ardından hayatının son yıllarında bu nüktelere dönerek onlardan neyi kastettiğini açıklayan ve kendilerine yöneltilen tenkitleri bertaraf eden bir şerh yazmıştır. İşte bu tezin tahkik ve inceleme konusu olan eser, söz konusu şerhin ta kendisidir.
 
 ## A. Araştırmanın Konusu
 
-Bu araştırmanın konusu, Burhâneddin en-Nesefî'nin *Şerhu'n-Nikâti'l-erbaʿîniyye* adlı eserinin tahkiki ve incelenmesidir. Eser, müellifin *en-Nikâtü'z-zarûriyyetü'l-erbaʿîniyye* diye bilinen ve birçok nüshasında *el-Üstukussât* adını taşıyan kendi metni üzerine yazdığı şerhtir. Nesefî bu metne Hanefîler ile Şâfiîler arasındaki kırk ihtilaflı meseleyi almıştır. Meseleleri her birinde on mesele bulunan, birbirinden ayrı dört seferde yazmış ve her onlukta fıkıh bablarının sırasını takip etmiştir. Her meseleyi "zarûrî" olarak nitelediği bir nükteye dayandırmıştır; ona göre zarûrî nükte, "hasmın men' etmesine imkân bulunmayan öncüllerden mürekkep" olandır. Nükteler yayılıp onlara yöneltilen tenkitler çoğalınca ve bazı talebeler bunlardan bir kısmını ait oldukları meselelerin dışına taşıyınca Nesefî hayatının son yıllarında bu şerhi kaleme almıştır. Eseri, Şerefeddin Hârûn b. Şemseddin el-Cüveynî'nin (ö. 685/1286) inceleyeceği eserler arasına koymuş ve bu şerhte "sahihin fâsidden, makbulün merdûttan ayırt edileceği hususları" tahrir etmeyi amaçlamıştır.
+Bu araştırmanın konusu, Burhâneddin en-Nesefî'nin *Şerhu'n-Nikâti'l-erbaʿîniyye* adlı eserinin tahkiki ve incelenmesidir. Eser, müellifin *en-Nikâtü'z-zarûriyyetü'l-erbaʿîniyye* diye bilinen ve birçok nüshasında *el-Üstukussât* adını taşıyan kendi metni üzerine yazdığı şerhtir. Nesefî bu metinde Hanefîler ile Şâfiîler arasındaki ihtilaflı meselelerden kırkına yer vermiştir. Bu meseleleri her seferinde on mesele olmak üzere birbirinden ayrı dört defada yazmış, her onlu grupta fıkıh bablarının sırasını takip etmiştir. Her meseleyi "zarûrî" olarak nitelediği bir nükteye dayandırmıştır; ona göre zarûrî nükte, "hasmın men' etmesine imkân bulunmayan öncüllerden mürekkep" olandır. Nükteler yayılıp onlara yöneltilen tenkitler çoğalınca ve bazı talebeler bunlardan bir kısmını ait oldukları meselelerin dışına taşıyınca Nesefî hayatının son yıllarında bu şerhi kaleme almıştır. Eseri, Şerefeddin Hârûn b. Şemseddin el-Cüveynî'nin (ö. 685) inceleyeceği eserler arasına koymuş ve bu şerhte "sahihin fâsidden, makbulün merdûttan ayırt edileceği hususları" tahrir etmeyi amaçlamıştır.
 
-Tez, inceleme ve tahkikli metin olmak üzere iki kısımdan oluşmaktadır. İnceleme kısmında giriş, cedel ilminin gelişimi ve nükte telifinin ortaya çıkışına dair bir ön bölüm, müellifin hayatı ve eserleri yer almaktadır. Ardından eser; adı, müellife nisbeti, telif sebebi, müellifin eserleri arasındaki yeri, yapısı ve terminolojik cihazı, istidlal metodu, itiraz ve cevap nazariyesi, dili ve ilmî değeri bakımından tahlil edilmekte; son olarak yazma nüshaları tanıtılmakta ve tahkikte izlenen yöntem açıklanmaktadır.
+Tez, inceleme ve tahkikli metin olmak üzere iki kısımdan oluşur. İnceleme kısmı giriş, cedel ilminin gelişimi ve nükte telifinin ortaya çıkışına dair bir ön bölüm ile müellifin hayatı ve eserlerini kapsar. Ardından eser; adı, müellife nisbeti, telif sebebi, müellifin eserleri arasındaki yeri, yapısı ve terminolojik cihazı, istidlal metodu, itiraz ve cevap nazariyesi, dili ve ilmî değeri bakımından tahlil edilmekte, son olarak da yazma nüshaları tanıtılıp tahkikte izlenen yöntem açıklanmaktadır.
 
 ## B. Araştırmanın Önemi ve Konunun Seçilme Sebepleri
 
 Bu araştırmanın önemi ve konunun seçilmesine yol açan sebepler şu hususlarda kendini göstermektedir:
 
-1.  Eser, müellifin kendi metni üzerine yazdığı şerhtir. Bu özellik onu, nüktelerin ve sahibinin maksadının anlaşılmasında en güvenilir kaynak kılmaktadır. Buna karşılık metnin kendisi her tarafa yayılmış ve üzerine Şemseddin es-Semerkandî, Mahmûd b. İbrâhim el-Hârizmî, Mes'ûd b. Ali el-Hârizmî, Çârperdî ve Sa'deddin Ali es-Semerkandî'nin şerhleri gibi pek çok şerh yazılmıştır. Oysa tespit edebildiğimiz kadarıyla müellifin kendi şerhi ilmî bir tahkikle neşredilmemiştir.
+1.  Eser, müellifin kendi metni üzerine yazdığı şerhtir. Bu özellik onu, nüktelerin ve sahibinin maksadının anlaşılmasında en güvenilir kaynak kılmaktadır. Metnin kendisi ise her tarafa yayılmış, üzerine Şemseddin es-Semerkandî, Mahmûd b. İbrâhim el-Hârizmî, Mes'ûd b. Ali el-Hârizmî, Çârperdî ve Sa'deddin Ali es-Semerkandî'nin şerhleri gibi pek çok şerh yazılmıştır; buna karşılık müellifin kendi şerhi, tespit edebildiğimiz kadarıyla, ilmî bir tahkikle neşredilmemiştir.
 
-2.  Eser, Nesefî'nin geliştirdiği cedeldeki Amîdî metodunun en geniş ve bütünlüklü uygulamasıdır. Zira kırk meselede fıkıh bablarını dört defa baştan sona taramaktadır. Bu yüzden Nesefî'nin nazarî eserleri *el-Fusûl* ve *Menşeʾü'n-nazar*'da ortaya koyduğu teorik kuralların sınandığı laboratuvar sayılır.
+2.  Eser, Nesefî'nin geliştirdiği Amîdî cedel metodunun en geniş ve bütünlüklü uygulamasıdır. Zira kırk meselede fıkıh bablarını dört defa baştan sona taramaktadır. Bu yüzden Nesefî'nin nazarî eserleri *el-Fusûl* ve *Menşeʾü'n-nazar*'da ortaya koyduğu teorik kuralların sınandığı laboratuvar sayılır.
 
 3.  Eser, cedel ilminin VII. (XIII.) yüzyılda geçirdiği dönüşümün mahiyetini gözler önüne sermektedir. Bu dönemde cedel, illet, münâsebet ve devrâna dayanan usulî uygulamadan; medâriyet, telâzüm, tenâfî, takdir ve "nefsü'l-emr" kavramlarından oluşan sûrî ve mantıkî bir terminolojiye geçmiştir.
 
@@ -69,11 +70,11 @@ Bu araştırmanın önemi ve konunun seçilmesine yol açan sebepler şu hususla
 
 6.  Nesefî, ilmî kadrinin yüceliğine, talebelerinin çokluğuna ve eserlerinin çeşitliliğine rağmen hayatı yeterince tahrir edilmemiş, eserleri bütünüyle tespit edilmemiş bir âlimdir. Ona nisbet edilen bazı eserlerin aidiyeti konusunda da kataloglarda açık bir karışıklık görülmektedir.
 
-7.  Konunun fıkıh usulü ve hilâf ilmindeki uzmanlık alanımla irtibatlı olması ve büyük kısmı hâlâ yazma hâlinde bulunan Hanefî cedel mirasının ihyasına katkıda bulunma arzusu.
+7.  Konunun fıkıh usulü ve hilâf ilmindeki uzmanlık alanımızla irtibatlı olması ve büyük kısmı hâlâ yazma hâlinde bulunan Hanefî cedel mirasının ihyasına katkıda bulunma arzusu.
 
 ## C. Araştırmanın Problemi
 
-Bu araştırmanın temel problemi şudur: *en-Nikâtü'l-erbaʿîniyye* metni –meşhur olmasına, medreselerde okutulmasına ve birden çok şerhinin bulunmasına rağmen– son derece veciz ve soyut bir metindir. Nükteleri iç içe geçmiş terdîdî ve istilzâmî kalıplar içinde ifade edilmiş olup sahibinin bunlardan neyi kastettiğini, yine onun kendi açıklaması olmaksızın doğru biçimde kavramak mümkün değildir. Nitekim müellif şerhinin hutbesinde talebeler arasında "onları bilmeyen ve bilmediğini de bilmeyen" kimseler bulunduğunu nakletmektedir. Buna rağmen bu metnin en güvenilir anahtarı olan müellif şerhi hâlâ tahkik edilmemiş bir yazma olarak durmakta ve müstakil bir incelemeye konu olmamış bulunmaktadır. Bu temel problemden bir dizi alt problem doğmaktadır:
+Bu araştırmanın temel problemi şudur: *en-Nikâtü'l-erbaʿîniyye* metni –meşhur olmasına, medreselerde okutulmasına ve birden çok şerhinin bulunmasına rağmen– son derece veciz ve soyut bir metindir. Nükteleri iç içe geçmiş terdîdî ve istilzâmî kalıplar içinde ifade edilmiş olup sahibinin bunlardan neyi kastettiğini, yine onun kendi açıklaması olmaksızın doğru biçimde kavramak mümkün değildir. Nitekim müellif şerhinin hutbesinde talebeler arasında "onları bilmeyen ve bilmediğini de bilmeyen" kimseler bulunduğunu nakletmektedir. Buna rağmen bu metnin en güvenilir anahtarı olan müellif şerhi hâlâ tahkik edilmemiş bir yazma hâlindedir ve müstakil bir incelemeye de konu olmamıştır. Bu temel problemden bir dizi alt problem doğmaktadır:
 
 -   Ad ve nisbet problemi: Metnin ve şerhin adları yazma nüshalarda *el-Üstukussât*, *en-Nikâtü'l-erbaʿîniyye*, *en-Nikâtü'z-zarûriyye* ve *Şerhu'n-Nüketi'l-erbaʿîn* arasında farklılık göstermektedir. Terâcim kitapları şerhten neredeyse hiç söz etmez; nüshalarından birinin üzerine de Çârperdî'nin adı yazılmıştır. Bu durum eserin adının tahrir edilmesini ve müellife nisbetinin sıhhatine dair delillerin ortaya konmasını gerektirmektedir.
 
@@ -109,9 +110,9 @@ Araştırma şu temel soruya cevap aramaktadır: Burhâneddin en-Nesefî'nin kı
 
 ## E. Araştırmanın Hedefleri
 
-Araştırma şu hedefleri gerçekleştirmeyi amaçlamaktadır:
+Araştırmanın hedefleri şunlardır:
 
-1.  *Şerhu'n-Nikâti'l-erbaʿîniyye* metnini, İslâm Araştırmaları Merkezi'nin (İSAM) metin tahkiki yöntemine uygun olarak üç yazma nüshaya dayanan ilmî bir tahkikle neşretmek.
+1.  *Şerhu'n-Nikâti'l-erbaʿîniyye* metnini, İslâm Araştırmaları Merkezinin (İSAM) metin tahkiki yöntemine uygun olarak üç yazma nüshaya dayanan ilmî bir tahkikle neşretmek.
 
 2.  İslâm ilim mirasında cedel kavramının gelişimini takip etmek, bu ilmin ortaya çıkışına dair görüşleri sunmak ve nükte telifinin bu gelişim içindeki yerini belirlemek.
 
@@ -129,11 +130,11 @@ Araştırma şu hedefleri gerçekleştirmeyi amaçlamaktadır:
 
 ## F. Araştırmanın Sınırları
 
--   Konu sınırı: Tahkik ve inceleme, Nesefî'nin kendi metni üzerine yazdığı şerhle sınırlıdır. Metin üzerine müellif dışındakilerin yazdığı şerhlerin ise yalnızca yazma nüshaları tanıtılmakla yetinilmiş, bunlar incelenmemiştir. Ebherî, Mevsılî ve Urmevî ile yapılan karşılaştırma da nüktenin inşası ve terkibiyle sınırlı tutulmuştur.
+-   Konu sınırı: Tahkik ve inceleme, Nesefî'nin kendi metni üzerine yazdığı şerhle sınırlıdır. Metin üzerine müellif dışındakilerin yazdığı şerhler ise incelenmemiş, yalnızca yazma nüshalarının tanıtılmasıyla yetinilmiştir. Ebherî, Mevsılî ve Urmevî ile yapılan karşılaştırma da nüktenin inşası ve terkibiyle sınırlı tutulmuştur.
 
--   Zaman sınırı: Ön bölüm, IV. (X.) yüzyıldan VII. (XIII.) yüzyıla kadarki cedel tanımlarını ele almaktadır. Tarihî inceleme ise müellifin yaşadığı dönemle (yaklaşık 600-687) sınırlıdır.
+-   Zaman sınırı: Ön bölüm, IV. (X.) yüzyıldan VII. (XIII.) yüzyıla kadar olan cedel tanımlarını ele almaktadır. Tarihî inceleme ise müellifin yaşadığı dönemle (yaklaşık 600-687) sınırlıdır.
 
--   Yazma kaynaklar sınırı: Tahkikte şerhin, Üçüncü Bölüm'de tanıtılan (أ), (ب) ve (ج) nüshaları olmak üzere üç yazma nüshası esas alınmıştır.
+-   Yazma kaynaklar sınırı: Tahkikte şerhin, Üçüncü Bölümde tanıtılan (أ), (ب) ve (ج) nüshaları olmak üzere üç yazma nüshası esas alınmıştır.
 
 ## G. Araştırmanın Yöntemi
 
@@ -141,13 +142,13 @@ Araştırmanın mahiyeti, birden çok yöntemin bir arada kullanılmasını gere
 
 -   Tarihî yöntem: Cedel tanımlarının eskiden yeniye kronolojik olarak sıralanıp takip edilmesinde, bu ilmin ortaya çıkışına dair görüşlerin sunulmasında ve müellifin biyografisinin terâcim, tabakāt ve katalog eserlerinden hareketle inşa edilip bu eserlerdeki rivayetlerin tenkit ve mukayese edilmesinde kullanılmıştır.
 
--   Tasvirî-tahlilî yöntem: Eserin tanıtılmasında; yapısının, terimlerinin, istidlal araçlarının ve itiraz-cevap metodunun tahlilinde, eser hakkındaki genel hükümlerden değil, bizzat metnin kendisinden hareketle kullanılmıştır.
+-   Tasvirî-tahlilî yöntem: Eserin tanıtılmasında ve yapısının, terimlerinin, istidlal araçlarının ve itiraz-cevap metodunun tahlilinde kullanılmış; bu yapılırken eser hakkındaki genel hükümlerden değil, bizzat metnin kendisinden hareket edilmiştir.
 
--   Mukayeseli yöntem: Ebherî, Mevsılî, Urmevî ve Nesefî'de nüktenin inşasının karşılaştırılmasında ve Nesefî'nin *el-Fusûl* ve *Menşeʾü'n-nazar*'da nazarî olarak ortaya koyduğu esaslarla nüktelerde uyguladığı arasında mukayese yapılmasında kullanılmıştır.
+-   Mukayeseli yöntem: Ebherî, Mevsılî, Urmevî ve Nesefî'de nüktenin inşasının karşılaştırılmasında ve Nesefî'nin *el-Fusûl* ve *Menşeʾü'n-nazar*'da nazarî olarak ortaya koyduğu esaslarla nüktelerde uyguladıklarının mukayese edilmesinde bu yönteme başvurulmuştur.
 
--   İstatistikle desteklenmiş tümevarımsal yöntem: Şerhte sıkça geçen "ve le-in kāle" (eğer derse), "fe-nekūlü" (deriz ki) ve "ev nekūlü" (ya da deriz ki) kalıpları ile mutâlebe ve teslim kalıpları gibi cedelî ifadelerin istikrâ edilip geçtikleri yerlerin sayılmasında ve bunlardan hareketle müellifin metodunun özelliklerine dair çıkarımlarda bulunulmasında kullanılmıştır.
+-   İstatistikle desteklenmiş tümevarımsal yöntem: Şerhte sıkça geçen "*ve le-in kāle*" (eğer derse), "*fe-nekūlü*" (deriz ki) ve "*ev nekūlü*" (ya da deriz ki) kalıpları ile mutâlebe ve teslim kalıpları gibi cedelî ifadelerin istikrâ edilip geçtikleri yerlerin sayılmasında ve bunlardan hareketle müellifin metodunun özelliklerine dair çıkarımlarda bulunulmasında kullanılmıştır.
 
--   Tahkik yöntemi: Metnin tahkikinde İslâm Araştırmaları Merkezi'nin (İSAM) *İSAM Tahkikli Neşir Kılavuzu*'nda belirlenen yöntem esas alınmıştır.[^1] Buna göre, Üçüncü Bölüm'de ayrıntılı olarak açıklandığı üzere, üç nüsha karşılaştırılmış, tercih edilen metin tespit edilmiş ve nüsha farkları dipnotlarda gösterilmiştir.
+-   Tahkik yöntemi: Metnin tahkikinde İslâm Araştırmaları Merkezinin (İSAM) *İSAM Tahkikli Neşir Kılavuzu*'nda belirlenen yöntem esas alınmıştır.[^1] Buna göre, Üçüncü Bölümde ayrıntılı olarak açıklandığı üzere, üç nüsha karşılaştırılmış, tercih edilen metin tespit edilmiş ve nüsha farkları dipnotlarda gösterilmiştir.
 
 -   Belgeleme: Türkiye'deki İslâmî ilimler çalışmalarında esas alınan İSNAD Atıf Sistemi uygulanmıştır. Kaynağın künyesi ilk geçtiği yerde tam olarak verilmiş, sonraki atıflarda müellif adı ve kısaltılmış eser adıyla yetinilmiş, tam künyeler kaynakçada gösterilmiştir. Çalışmanın tamamında Latin rakamları (1, 2, 3) kullanılmış, şahısların vefat tarihleri de çoğunlukla adlarının geçtiği yerde belirtilmiştir.
 
@@ -157,13 +158,13 @@ Araştırmanın konusuyla ilgili çalışmaları üç grupta toplamak mümkünd�
 
 ### 1. Cedel İlmi ve Tarihine Dair Çalışmalar
 
--   Larry B. Miller'ın *Islamic Disputation Theory* adlı çalışması. Bu çalışma aslen 1984 yılında Princeton Üniversitesi'nde savunulmuş bir doktora tezi olup[^2] 2020 yılında yayımlanmıştır.[^3] IV. (X.) yüzyıldan VIII. (XIV.) yüzyıla kadar cedel tarihi üzerine yazılmış en kapsamlı çalışmalardan biridir. Miller burada cedelin kelâm ilminin kucağında doğduğunu, fakihlerin onu daha sonra kelâmdan aldığını ileri sürmüş; Nesefî'ye de özel bir ilgi göstererek onu münâzaraya dair belirli kanunlar formüle eden ilk kişi saymıştır. Bununla birlikte genel bir tarih çalışması olup *en-Nikât* ve şerhi onun hedefleri arasında yer almamaktadır.
+-   Larry B. Miller'ın *Islamic Disputation Theory* adlı çalışması. Aslen 1984 yılında Princeton Üniversitesinde savunulmuş bir doktora tezi olan[^2] eser 2020 yılında yayımlanmıştır.[^3] IV. (X.) yüzyıldan VIII. (XIV.) yüzyıla kadar cedel tarihi üzerine yazılmış en kapsamlı çalışmalardan biridir. Miller burada cedelin kelâm ilminin kucağında doğduğunu, fakihlerin onu daha sonra kelâmdan aldığını ileri sürmüş; Nesefî'ye de özel bir ilgi göstererek onu münâzaraya dair belirli kanunlar formüle eden ilk kişi saymıştır. Ne var ki bu, genel bir tarih çalışmasıdır; *en-Nikât* ve şerhi onun hedefleri arasında yer almaz.
 
 -   Walter E. Young'ın *The Dialectical Forge* adlı çalışması.[^4] Young bu eserinde Miller'ın tezini tartışmış, erken dönem fıkhî cedelin aslî olduğunu ve fıkhî münâzaraların usul ve cedel kurallarının birlikte şekillendiği zemin olduğunu ortaya koymuştur. Çalışma, bu ilmin doğuşunun tarihini ortaya koyma konusunda temel bir başvuru kaynağıdır; ancak bu ilmin tarihinin erken safhalarında kalmaktadır.
 
--   Mehmet Kadri Karabela'nın McGill Üniversitesi'nde hazırladığı,[^5] klasik dönem sonrası İslâm düşünce tarihinde cedel ve argümantasyon teorisinin gelişimini konu alan doktora tezi. Tez, Nesefî'den sonraki dönemle, yani âdâbü'l-bahs ilmi ve şerhleriyle ilgilenmektedir.
+-   Mehmet Kadri Karabela'nın McGill Üniversitesinde hazırladığı,[^5] klasik dönem sonrası İslâm düşünce tarihinde cedel ve argümantasyon teorisinin gelişimini konu alan doktora tezi. Tez, Nesefî'den sonraki dönemle, yani âdâbü'l-bahs ilmi ve şerhleriyle ilgilenmektedir.
 
--   Mohammad Syifa Amin Widigdo'nun, cedelin kökenine dair Arap-İslâm menşeli olduğu ile Yunan etkisi taşıdığı yönündeki görüşleri yeniden ele aldığı makalesi.[^6]
+-   Mohammad Syifa Amin Widigdo'nun, cedelin kökenine dair, onun Arap-İslâm menşeli olduğunu ya da Yunan etkisi taşıdığını savunan görüşleri yeniden ele aldığı makalesi.[^6]
 
 -   Prof. Dr. Şükrü Özen'in hilâf ilminin ortaya çıkışı ve Ebû Zeyd ed-Debûsî'nin *Teʾsîsü'n-nazar* adlı eseri üzerine yazdığı yüksek lisans tezi[^7] ile *Türkiye Diyanet Vakfı İslâm Ansiklopedisi*'nde kaleme aldığı "Hilâf" maddesi.[^8] Bu iki çalışma, bu ilmin tarihi ve safhaları hakkında Türkçe yazılmış en önemli çalışmalar arasındadır.
 
@@ -189,7 +190,7 @@ Araştırmanın konusuyla ilgili çalışmaları üç grupta toplamak mümkünd�
 
 ### 4. Bu Çalışmanın Katkısı
 
-Bu çalışmalara bakıldığında, bunların cedelin genel tarihini ele aldıkları, Nesefî'nin biyografisini yazdıkları ya da onun nazarî eserlerini tahkik edip inceledikleri görülmektedir. Ulaşabildiğimiz kadarıyla Nesefî'nin nükteleri üzerine yazdığı şerhi müstakil olarak tahkik ve tahlil konusu yapan bir çalışmaya rastlanmamıştır. Bu itibarla bu çalışmanın katkıları şunlardır: şerhin metninin üç yazma nüshaya dayanılarak tahkiki; adının tahrir edilmesi ve nisbetinin ispatı; yapısının, terminolojik cihazının ve istidlal araçlarının metnin içinden çıkarılan ve istatistikle desteklenen bir tahlille incelenmesi; müellifinin ortaya koyduğu nazarî esaslarla ilişkisinin ortaya konması; VII. (XIII.) yüzyıldaki nükte telifi bağlamına yerleştirilmesi. Bunlara ek olarak sabit, râcih, kayıp ve nisbeti asılsız olanlarıyla birlikte otuz yedi eseri kapsayan tasnifli bir Nesefî eserleri listesi sunulmakta ve *en-Nikât*'ın diğer şerhlerinin nüshaları tanıtılmaktadır.
+Bu çalışmalara bakıldığında, bunların cedelin genel tarihini ele aldıkları, Nesefî'nin biyografisini yazdıkları ya da onun nazarî eserlerini tahkik edip inceledikleri görülmektedir. Ulaşabildiğimiz kadarıyla Nesefî'nin nükteleri üzerine yazdığı şerhi müstakil olarak tahkik ve tahlil konusu yapan bir çalışmaya rastlanmamıştır. Bu itibarla çalışmamızın katkıları şunlardır: şerhin metninin üç yazma nüshaya dayanılarak tahkiki; adının tahrir edilmesi ve nisbetinin ispatı; yapısının, terminolojik cihazının ve istidlal araçlarının metnin içinden çıkarılan ve istatistikle desteklenen bir tahlille incelenmesi; müellifinin ortaya koyduğu nazarî esaslarla ilişkisinin ortaya konması; VII. (XIII.) yüzyıldaki nükte telifi bağlamına yerleştirilmesi. Bunlara ek olarak sabit, râcih, kayıp ve nisbeti asılsız olanlarıyla birlikte otuz yedi eseri kapsayan tasnifli bir Nesefî eserleri listesi sunulmakta ve *en-Nikât*'ın diğer şerhlerinin nüshaları tanıtılmaktadır.
 
 ## I. Araştırmanın Kaynakları
 
@@ -319,4 +320,6 @@ BELİRSİZLİKLER / KAYNAKTAKİ SORUNLAR:
 - Dn. 9'da "ط1" → "1. Basım" olarak korundu.
 - Başlık harflendirmesi: هـ → E, و → F, ز → G, ح → H, ط → I, ي → J (STYLE_GUIDE §4).
 - ROLE A (ceviri) düzeltmeleri: reviews/chunk_01_A.md.
+- ROLE B (terim): العميدي → "Rükneddin el-Amîdî / Amîdî" (GLOSSARY B1, TDV "AMÎDÎ, Rükneddin") korundu. Arapçada yalnız hicrî verilen tarihlere eklenen milâdî karşılıklar: Amîdî 615/1218 ve Nesefî 687/1289 TDV İA madde başlıklarıyla kesin; Hârûn el-Cüveynî 685/1286 için ayrı TDV maddesi yok, GLOSSARY B1 (d. işaretsiz) esas alınarak korundu — lead isterse "(ö. 685)" yapılabilir. Ayrıntı: reviews/chunk_01_B.md.
+- ROLE C (biçim-dil): Hârûn el-Cüveynî tarihi lead talimatıyla Arapçadaki gibi yalnız hicrî "(ö. 685)" yapıldı (yukarıdaki ROLE B notu bu noktada geçersiz). TDK gereği kurum adlarına gelen ekler kesmesiz yazıldı (Üniversitesine, Merkezinin, Bilim Dalında, Bölümde); chunk_04b'de "Üniversitesi'n…" biçimleri var, bütün tezde birleştirilmeli. Kısaltmalar listesinde metinde kullanılan "bk., thk., vr." yok (Arapça listede de yok; eklenmedi, yazar karar vermeli). Ayrıntı: reviews/chunk_01_C.md.
 -->

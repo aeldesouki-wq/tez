@@ -14,15 +14,15 @@ Istılahî anlamlar lugavî asıllarıyla sıkı bir bağ içinde olduğundan, �
 
 Lugavî anlamlar üzerinde düşünen kişi, ictihad faaliyetinin bunlardan ayrı düşünülemeyeceğini görür. Zira bu faaliyetin temeli husumet ve karşılıklı delil getirmedir. Muhâcce ise ancak sağlam ve muhkem olduğu takdirde selim ve sahih olur; bu muhâccede her iki taraf, sonunda hasmını yere sermek ve ona galip gelmek için karşısındakini görüşünden döndürmeye (fetl) çalışır.
 
-Bu anlamlar, ıstılahî tanımlar ele alındığında daha da belirginleşecektir. Zira tanımların her birinin, zikredilen bu lugavî anlamlardan biriyle ya da bir kısmıyla ilişkili olduğunu göreceğiz. Tanımları mümkün olduğunca derleyip kronolojik sırayla ele almaya ve tahlil etmeye çalışacağım. Böylece İslâm düşüncesinin yüzyıllar boyunca cedele bakışının nasıl geliştiği ortaya çıkacak, tanımlar aracılığıyla da cedel ilminin geçirdiği intikal aşamalarını, nihayet yerleşip müstakil bir ilim hâline geldiği noktaya kadar ortaya koyabileceğiz.
+Bu anlamlar, ıstılahî tanımlar ele alındığında daha da belirginleşecektir. Zira tanımların her birinin, zikredilen bu lugavî anlamlardan biriyle ya da bir kısmıyla ilişkili olduğunu göreceğiz. Tanımları mümkün olduğunca derleyip kronolojik sırayla ele almaya ve tahlil etmeye çalışacağım. Böylece İslâm düşüncesinin yüzyıllar boyunca cedele bakışının nasıl geliştiği anlaşılacak, tanımlar aracılığıyla da cedel ilminin geçirdiği intikal aşamalarını, nihayet yerleşip müstakil bir ilim hâline geldiği noktaya kadar ortaya koyabileceğiz.
 
 ## B. Filozof ve Usûlcülere Göre Cedel İlmi Tanımlarının ve Ona Yakın Kavramların Kronolojik Sırası
 
-Fıkhî ve usûlî ihtilafları tartışmayı konu edinen hilâf ilmi, bu ilmin doğuşunun tarihi ele alınırken görüleceği üzere, Şâfiî ve diğerlerinin yazılarında hicrî II. (VIII.) yüzyılda gibi çok erken bir dönemde mevcuttu. Aristoteles'in mantık kitaplarının tercüme edilmesiyle bazı Müslüman âlimler mantığın bazı kurallarını, başında fıkıh usûlünün geldiği şer'î ilimlere sokmaya başladılar. Hilâf ilmi de bundan etkilendi; bazı âlimler şer'î nasların yanı sıra delillendirmeyi (hicâc) güçlendirmek için mantık ilminin kurallarını kullanmaya koyuldular. Bu durum, temel dayanak yalnızca mantık ve aklî kurallar hâline gelinceye kadar genişlemeye devam etti. Tanımların ve gelişimlerinin takibi bu açıdan son derece önemlidir; çünkü bu takip, söz konusu ilmi ele alan ekolleri, bu ekollerin ilmin mahiyetine nasıl baktıklarını ve ilmin, pek çok yönden diğer ilimlerle ortaklık arz etse de onlardan ayrışmış, kendi başına ayakta duran bir ilim hâline gelinceye kadar nasıl geliştiğini gözler önüne serer. Bu sebeple filozofların ve fakihlerin cedel ilmine dair tanımlarını kronolojik sırayla burada açıklamaya çalışacağım; böylece kavramın yüzyıllar boyunca geçirdiği fiilî gelişimi tespit etme imkânı bulacağız.
+Fıkhî ve usûlî ihtilafları tartışmayı konu edinen hilâf ilmi, bu ilmin doğuşunun tarihi ele alınırken görüleceği üzere, İmam Şâfiî ve diğerlerinin yazılarında hicrî II. (VIII.) yüzyıl gibi çok erken bir dönemde mevcuttu. Aristoteles'in mantık kitaplarının tercüme edilmesiyle bazı Müslüman âlimler mantığın bazı kurallarını, başında fıkıh usûlünün geldiği şer'î ilimlere sokmaya başladılar. Hilâf ilmi de bundan etkilendi; bazı âlimler şer'î nasların yanı sıra delillendirmeyi (hicâc) güçlendirmek için mantık ilminin kurallarını kullanmaya koyuldular. Bu durum, temel dayanak yalnızca mantık ve aklî kurallar hâline gelinceye kadar genişlemeye devam etti. Tanımların ve gelişimlerinin takibi bu açıdan son derece önemlidir; çünkü bu takip, söz konusu ilmi ele alan ekolleri, bu ekollerin ilmin mahiyetine nasıl baktıklarını ve ilmin, pek çok yönden diğer ilimlerle ortaklık arz etse de onlardan ayrışmış, kendi başına ayakta duran bir ilim hâline gelinceye kadar nasıl geliştiğini gözler önüne serer. Bu sebeple filozofların ve fakihlerin cedel ilmine dair tanımlarını kronolojik sırayla burada açıklamaya çalışacağım; böylece kavramın yüzyıllar boyunca geçirdiği fiilî gelişimi tespit etme imkânı bulacağız.
 
 ### 1. Hicrî IV. (X.) Yüzyıl
 
-"Muallim-i Sânî" Ebû Nasr el-Fârâbî (ö. 339/950), ilgilendiği Aristoteles mirasına dayanarak İslâm felsefe geleneğinde cedel kavramının kurallarını ilk ortaya koyanlardan biri sayılır. Fârâbî cedelî kıyası, burhânî olmayan meşhur öncüller üzerine kurulu kıyasla sınırlamış ve cedel ilminin mahiyetini şöyle tanımlamıştır: "İnsanın, kendisi sayesinde, meşhur öncüllerden, konusu küllî olan ve korunmasını üstlenen bir mücîbden soru yoluyla teslim aldığı bir vaz'ı –nakîzin iki cüzünden hangisi denk gelirse– iptal etmeye yönelik bir kıyas kurma gücünü ve konusu küllî olan, iptal edilmesini üstlenen bir sâile arz ettiği her vaz'ı –nakîzin iki cüzünden hangisi denk gelirse– koruma gücünü elde ettiği sanat."[^24] Bu tanımdan şunlar anlaşılmaktadır:
+"Muallim-i Sânî" Ebû Nasr el-Fârâbî (ö. 339/950), ilgilendiği Aristoteles mirasına dayanarak İslâm felsefe geleneğinde cedel kavramının kurallarını ilk ortaya koyanlardan biri sayılır. Fârâbî cedelî kıyası, burhânî olmayan meşhur öncüller üzerine kurulu kıyasla sınırlamış ve cedel ilminin mahiyetini şöyle tanımlamıştır: "İnsanın, kendisi sayesinde, meşhur öncüllerden, korunmasını üstlenen bir mücîbden soru yoluyla teslim aldığı, konusu küllî olan bir vaz'ı –nakîzin iki cüzünden hangisi denk gelirse– iptal etmeye yönelik bir kıyas kurma gücünü ve iptal edilmesini üstlenen bir sâile arz ettiği, konusu küllî olan her vaz'ı –nakîzin iki cüzünden hangisi denk gelirse– koruma gücünü elde ettiği sanat."[^24] Bu tanımdan şunlar anlaşılmaktadır:
 
 -   Fârâbî'ye göre cedel, kazanılmış kuralları olan mantıkî bir sanattır (*sınâʿa*); salt fıtrî bir fiil değildir.
 
@@ -58,9 +58,9 @@ Abdülkāhir el-Bağdâdî ise *ʿİyârü'n-nazar*'da cedelde kullanılan nazar
 
 Cedelin iki kişi arasında cereyan ettiği ve hüccetin, onunla karşı tarafa vurulmadan önce sağlamlaştırılmasına dayandığı fikrine önemli bir geçiş olarak, İmam Ebû Muhammed Ali b. Hazm el-Endelüsî'nin (ö. 456/1064) cedeli şöyle tanımladığı nakledilir: "Cedel ve cidâl, ihtilaf eden iki kişiden her birinin kendi hüccetini ya da hücceti olduğunu düşündüğü şeyi haber vermesidir. Bunlardan biri haklı, diğeri haksız olabilir; bu ya lafzında ya murâdında yahut her ikisinde olur. Her ikisinin lafızlarında ve anlamlarında birlikte haklı olmalarına ise imkân yoktur."[^29]
 
-İbn Hazm, hakikatlerin bilinmesine götüren cidâl mertebeleri ve münâzaranın keyfiyeti hakkındaki bölümde, bu tanımın bir açıklaması sayılabilecek, aynı zamanda sonraları münâzara âdâbı olarak bilinen alanın başlangıcı da kabul edilebilecek hususlar ortaya koymuştur. Onun tespit ettiği hususlar arasında şunlar bulunur: Cidâl ancak iki kişi arasında olur; ayrıca kesin burhân, diğerinin haklı olduğunu vehmetmesine karşılık bunlardan birinin delili olmalıdır yahut diğeri münâzarayı ancak hakikate vâkıf olmadığı için talep etmiş olmalıdır. Ona göre övülen münâzara budur.[^30] Burada şunlar dikkat çekmektedir:
+İbn Hazm, kitabının hakikatlerin bilinmesine götüren cidâl mertebeleri ve münâzaranın keyfiyeti hakkındaki bölümünde, bu tanımın bir açıklaması sayılabilecek, aynı zamanda sonraları münâzara âdâbı olarak bilinen alanın başlangıcı da kabul edilebilecek hususlar ortaya koymuştur. Onun tespit ettiği hususlar arasında şunlar bulunur: Cidâl ancak iki kişi arasında olur; ayrıca kesin burhân, diğerinin haklı olduğunu vehmetmesine karşılık bunlardan birinin delili olmalıdır yahut diğeri münâzarayı ancak hakikate vâkıf olmadığı için talep etmiş olmalıdır. Ona göre övülen münâzara budur.[^30] Burada şunlar dikkat çekmektedir:
 
--   İbn Hazm cedelin tanımını, bir sanat ya da düşünce olmaktan çıkarıp ihtilaf eden kişiler arasında gerçek ya da zannedilen bir hüccetle yapılan bir haber verme olarak ele almıştır. Bu, cedel ilmini hüccetlerin ileri sürüldüğü, iki veya daha fazla kişi arasındaki bir etkileşim olmaya taşımıştır.
+-   İbn Hazm cedelin tanımını, bir sanat ya da düşünce olmaktan çıkarıp ihtilaf eden kişiler arasında gerçek ya da zannedilen bir hüccetle yapılan bir haber verme olarak ele almıştır. Bu, cedel ilmini hüccetlerin ileri sürüldüğü, iki veya daha fazla kişi arasındaki bir etkileşim hâline getirmiştir.
 
 -   İbn Hazm burada cedelin, gerçekte sahih olmayan, yalnızca onu ileri sürenin zannında hüccet olan bir hüccete dayanabileceğine işaret etmiştir. Hatta kişi, mugālata ya da şagab (kargaşa çıkarma) kabilinden, kendi bilgisine göre hüccet olmadığı hâlde onu bir hüccet olarak kasten ileri sürebilir. Bu da, daha sonra İbn Akīl'de belirginleşecek olan "şüphe" kavramının öncülü olabilir.
 
@@ -88,7 +88,7 @@ Bâcî'den sonra İmâmü'l-Haremeyn Ebü'l-Meâlî el-Cüveynî'nin (ö. 478/10
 
 -   Ona göre cedel zâhir (dışa yansıyan) bir süreçtir; cedel sürecinden maksat, nazarın ve düşüncenin gerektirdiği şeyi tedâfu' ve tenâfî yoluyla ortaya koymaktır.
 
--   Cüveynî'nin "tedâfu'" ve "tenâfî" terimlerini kullanması yeni ve önemli bir katkıdır. Çünkü bu, söz konusu iki terimin Cüveynî'nin zamanında, yani Amîdî ve Nesefî'den yaklaşık iki asır önce kullanılmakta olduğunu göstermektedir.
+-   Cüveynî'nin "tedâfu'" ve "tenâfî" terimlerini kullanması yeni ve önemli bir katkıdır. Çünkü bu, iki terimin Cüveynî'nin zamanında, yani Amîdî ve Nesefî'den yaklaşık iki asır önce kullanılmakta olduğunu göstermektedir.
 
 ### 3. Hicrî VI-VIII. (XII-XIV.) Yüzyıllar
 
@@ -108,7 +108,7 @@ Hicrî VII. (XIII.) yüzyılda Râzî (ö. 606/1210) münâzarayı şöyle tanı
 
 -   Ona göre mücâdelenin gayesi, münâzaa kavramından anlaşılan karşılıklı galebe çalma çabasıdır.
 
-İmâdüddin Ebû Hâmid Muhammed b. Yûnus b. Menaa el-Mevsılî eş-Şâfiî (ö. 608) münâzarayı şöyle tanımlamıştır: "Münâzara, 'mudârebe' gibi, nazardan türemiş bir mufâaledir. Nazar ise hakkında nazar edilen hükmün sâbit olup olmadığına, onun delilini araştırmak suretiyle göz atmaktır. Eğer sübûtunun deliline rastlarsa sübûtuna, nefyinin deliline rastlarsa nefyine hükmeder."[^37] Mevsılî şu hususları ortaya koymuştur:
+İmâdüddin Ebû Hâmid Muhammed b. Yûnus b. Menaa el-Mevsılî eş-Şâfiî (ö. 608) münâzarayı şöyle tanımlamıştır: "Münâzara, 'mudârebe' gibi, nazardan türemiş bir mufâaledir. Nazar ise hakkında nazar edilen hükmün sâbit olup olmadığını, onun delilini araştırmak suretiyle incelemektir (tatallu'). Eğer sübûtunun deliline rastlarsa sübûtuna, nefyinin deliline rastlarsa nefyine hükmeder."[^37] Mevsılî şu hususları ortaya koymuştur:
 
 -   Münâzara, ortaklığa dayanan bir mufâaledir; dolayısıyla yalnızca tek kişi üzerine kurulmaz.
 
@@ -138,19 +138,19 @@ Nesefî'nin tanımı en kısası olmakla birlikte en yoğun olanıdır ve şu ö
 
 -   "Doğruyu ortaya koymak için" ifadesi, Nesefî ile filozoflar arasındaki ikinci ayrılık noktasıdır. Ona göre münâzaranın gayesi salt galebe çalmak değil, doğruyu ortaya koymaktır. Bu, aynı zamanda Ferrâ, Bâcî ve İbn Akīl'in yaklaşımından da bir ayrılıştır.
 
--   Buna göre Nesefî'nin tanımı, önceki bütün tanımlardan doğru gördüğü unsurları bir araya getiren bir tanımdır. Bu tanım, cedel ve münâzara ilmini herhangi bir ilme uygulanabilir müstakil bir ilim hâline getirmektedir; Semerkandî de daha sonra âdâbü'l-bahs ve'l-münâzara ilmini bu temel üzerine bina etmiştir.
+-   Buna göre Nesefî'nin tanımı, önceki bütün tanımlardan doğru gördüğü unsurları bir araya getiren bir tanımdır. Bu tanım, cedel ve münâzara ilmini herhangi bir ilme uygulanabilir müstakil bir ilim hâline getirir; Semerkandî de daha sonra âdâbü'l-bahs ve'l-münâzara ilmini bu temel üzerine bina etmiştir.
 
 ## C. Cedel İlminin Doğuşunun Tarihi
 
-Bir ilmin doğuşunun tarihini yazmak, kaleme alınabilecek en güç konulardan biridir; hele ki o ilme dair tasavvur, daha önce açıklanan tanımlardan anlaşıldığı üzere, bir yüzyıldan diğerine ve bir ekolden diğerine farklılık gösteriyorsa. Bu güçlük, söz konusu ilmin tarihini yazmakla ilgilenen âlimler arasında görüş ayrılığına yol açmıştır. Bazıları ihtilafa ve muhâcceye dayanan cedelî pratiğe bakarak doğuşu çok erken bir döneme, hatta İslâm öncesine götürür ve onu fıtratla iç içe görür. Bazıları onu kelâmî ihtilaftan doğmuş sayar ve varlığını İslâm içindeki farklı fırkaların ve ondan ayrı dinlerin varlığına bağlar. Diğerleri ise İslâm medeniyeti ile Yunan medeniyeti arasındaki etkileşim yönüne bakarak, Yunan felsefesi ve mantığından etkilendiğini düşündükleri İslâmî cedelin tarihini bu açıdan yazmışlardır. Böylece doğuşun tarihine dair ekoller ve görüşler çeşitlenmiştir. Burada, her ekolün etrafında döndüğü fikrin aslını araştırarak doğuştan söz eden bütün görüşleri bir araya getirmeye ve delillerden anlaşıldığı ölçüde uygun bir tercihe ulaşmaya çalışacağım.
+Bir ilmin doğuşunun tarihini yazmak, kaleme alınabilecek en güç konulardan biridir; hele ki o ilme dair tasavvur, daha önce açıklanan tanımlardan anlaşıldığı üzere, bir yüzyıldan diğerine ve bir ekolden diğerine farklılık gösteriyorsa. Bu güçlük, bu ilmin tarihini yazmakla ilgilenen âlimler arasında görüş ayrılığına yol açmıştır. Bazıları ihtilafa ve muhâcceye dayanan cedelî pratiğe bakarak doğuşu çok erken bir döneme, hatta İslâm öncesine götürür ve onu fıtratla iç içe görür. Bazıları onu kelâmî ihtilaftan doğmuş sayar ve varlığını İslâm içindeki farklı fırkaların ve ondan ayrı dinlerin varlığına bağlar. Diğerleri ise İslâm medeniyeti ile Yunan medeniyeti arasındaki etkileşim yönüne bakarak, Batı felsefesi ve mantığından etkilendiğini düşündükleri İslâmî cedelin tarihini bu açıdan yazmışlardır. Böylece doğuşun tarihine dair ekoller ve görüşler çeşitlenmiştir. Burada, her ekolün etrafında döndüğü fikrin aslını araştırarak doğuştan söz eden bütün görüşleri bir araya getirmeye ve delillerden anlaşıldığı ölçüde uygun bir tercihe ulaşmaya çalışacağım.
 
 ### 1. Cedelin Arap, İslâmî ve Nassa Dayalı Kökleri
 
-Bu görüşün sahiplerine göre cedel, ya da daha doğru bir ifadeyle, çekişme ve hüccet ileri sürmeyi içeren cedelî pratik, İslâm'dan önce Araplar arasında doğmuştur. Nitekim Şeyh Muhammed Ebû Zehre *Târîhu ilmi'l-cedel* adlı kitabının girişinde, dinî cedelin Yahudilerle müşrikler, Hıristiyanlarla müşrikler ve yine müşriklerle hanîfler arasında cereyan ettiğini gösteren örnekler nakletmiştir; Zerdüştîlik, Mâniheizm, Mazdekîlik ve Sâbiîlik gibi başka toplulukların varlığı ise cabası. Arap Yarımadası'ndaki bütün bu dinî çeşitlilik, cedel ilminin doğuşuna elverişli, verimli bir ortam meydana getirmiştir.[^40]
+Bu görüşün sahiplerine göre cedel, ya da daha doğru bir ifadeyle, çekişme ve hüccet ileri sürmeyi içeren cedelî pratik, İslâm'dan önce Araplar arasında doğmuştur. Nitekim Şeyh Muhammed Ebû Zehre *Târîhu ilmi'l-cedel* adlı kitabının girişinde, dinî cedelin Yahudilerle müşrikler, Hıristiyanlarla müşrikler ve yine müşriklerle hanîfler arasında cereyan ettiğini gösteren örnekler nakletmiştir; Zerdüştlük, Mâniheizm, Mazdekizm ve Sâbiîlik gibi başka toplulukların varlığı ise cabası. Arap Yarımadası'ndaki bütün bu dinî çeşitlilik, cedel ilminin doğuşuna elverişli, verimli bir ortam meydana getirmiştir.[^40]
 
-Bunun yanı sıra Araplar Câhiliye döneminde şiir sanatları aracılığıyla edebî muhâcce ve sözlü rekabet biçimlerini tanımışlardır. "Hicâ" ile "münâfere ve mufâhare" örnekleri de bunu göstermektedir; şairler, nesep ve övünç vesilesi olan geçmiş başarılara dayanan hüccetler kullanarak kabile şereflerini ortaya koymada birbirleriyle yarışırlardı. Ukbe b. Ebû Muayt'ın Hz. Peygamber'e meydan okumak ve risâletini inkâr etmek amacıyla yönelttiği aciz bırakmaya yönelik sorular da buna eklenebilir. Bütün bunlar, hüccete hüccetle karşılık verme kavramının ilk biçimi ve ilk habercisi (irhâs) sayılabilir.[^41]
+Bunun yanı sıra Araplar Câhiliye döneminde şiir sanatları aracılığıyla edebî muhâcce ve sözlü rekabet biçimlerini tanımışlardır. "Hicâ" ile "münâfere ve mufâhare" örnekleri de bunu göstermektedir; şairler, neseplere ve övünülecek geçmiş başarılara (meâsir) dayanan hüccetler kullanarak kabile şereflerini ortaya koymada birbirleriyle yarışırlardı. Ukbe b. Ebû Muayt'ın Hz. Peygamber'e meydan okumak ve risâletini inkâr etmek amacıyla yönelttiği aciz bırakmaya yönelik sorular da buna eklenebilir. Bütün bunlar, hüccete hüccetle karşılık verme kavramının ilk biçimi ve ilk habercisi (irhâs) sayılabilir.[^41]
 
-Bu yaklaşımı destekleyen hususlardan biri de şudur: Kur'an'da "c-d-l" kökü ve türevleri 29 yerde, "hüccet" kelimesi ve türevleri 27 yerde, hüccet anlamında kullanılan "sultân" lafzı ise 32 yerde geçmektedir. Kur'an'da cedel, üç yer dışında bütün yerlerde yerilmiştir. Ayrıca Kur'an, meleklerin Âdem hakkında Allah Teâlâ ile cedelini ve peygamberlerin kavimlerinden inkâr edenlerle cedelini nakletmiş; sonraları cedel âlimlerinin kitaplarında gelişecek olan cedelî soru ve cevaplar da onda yer almıştır.[^42]
+Bu yaklaşımı destekleyen hususlardan birinin de şu olduğu söylenebilir: Kur'an'da "c-d-l" kökü ve türevleri 29 yerde, "hüccet" kelimesi ve türevleri 27 yerde, hüccet anlamında kullanılan "sultân" lafzı ise 32 yerde geçmektedir. Kur'an'da cedel, üç yer dışında bütün yerlerde yerilmiştir. Ayrıca Kur'an, meleklerin Âdem hakkında Allah Teâlâ ile cedelini ve peygamberlerin kavimlerinden inkâr edenlerle cedelini nakletmiş; sonraları cedel âlimlerinin kitaplarında gelişecek olan cedelî soru ve cevaplar da onda yer almıştır.[^42]
 
 Bu görüşe göre, cedelin fıtratta mündemiç olduğunu düşündüren bu eski cedelî pratikler –nitekim Allah Teâlâ, "O gün her nefis kendini savunmak için mücâdele ederek gelir" buyurmuştur–[^43] İslâmî cedel ilminin ve onun sahâbe döneminde, ardından sonraki yüzyıllarda gelen kelâmcılar ve fakihler arasındaki tezahürlerinin çıkış noktasını oluşturmuştur.
 
@@ -169,15 +169,15 @@ Larry B. Miller, cedel ilminin kurallarının yalnızca kelâm ilminde oluştuğ
 
 -   Bağdâdî'nin (ö. 429) *ʿİyârü'n-nazar* adlı kitabını[^47] inceleyen kişi, müellifin hutbesinde bu ilimde kendisinden önce eser yazmış kelâmcıları ve fakihleri sıraladığını görür. Onun kelâmcılarla başlaması, cedel ilmine müstakil bir kitap tahsis etmeye ilk başlayanların kelâmcılar olduğuna bir işaret olabilir –ve Miller'in de görüşünü buna dayandırmış olması muhtemeldir–. Nitekim Bağdâdî, kelâmcılardan cedel alanında ilk eser yazanın İbnü'r-Râvendî (ö. 298) olduğunu, ondan sonra Kâ'bî el-Belhî'nin (ö. 319), ardından da Ebü'l-Hasan el-Eş'arî'nin geldiğini zikretmiştir.
 
--   Fakihlerden cedel alanında ilk eser yazanlara bakıldığında ise Bağdâdî, Ebû Bekir el-Kaffâl eş-Şâşî'nin (ö. 365) sorular, örnekler ve delil türleri hakkında açık bir kitap telif ettiğini belirtmiştir. Bu kitap bize ulaşmamış olsa da çok erken bir girişimdir. Bağdâdî'nin onu bu kadar dakik biçimde ancak inceledikten sonra tasvir ettiği kesindir. İbnü'r-Râvendî ile Kaffâl eş-Şâşî'nin yazdıkları arasındaki zaman farkının büyük olmadığı dikkate alındığında bu durum, Miller'in fakihlerin cedel ilminde eser yazmaya kelâmcılardan sonra başladıkları iddiasını belki de çürütmektedir. Buna göre Bağdâdî'nin sözü, Young'ın temsil ettiği bir sonraki görüşü destekliyor olabilir.
+-   Fakihlerden cedel alanında ilk eser yazanlara bakıldığında ise Bağdâdî, Ebû Bekir el-Kaffâl eş-Şâşî'nin (ö. 365) sorular, örnekler ve delil türleri hakkında açık bir kitap telif ettiğini belirtmiştir. Bu kitap bize ulaşmamış olsa da çok erken bir girişimdir. Bağdâdî'nin onu bu kadar dakik biçimde ancak inceledikten sonra tasvir ettiği kesindir. İbnü'r-Râvendî ile Kaffâl eş-Şâşî'nin yazdıkları arasındaki zaman farkının büyük olmadığı dikkate alındığında bu durum, Miller'in fakihlerin cedel ilminde eser yazmaya kelâmcılardan sonra başladıkları iddiasını belki de çürütmektedir. Buna göre Bağdâdî'nin sözü, aşağıda ele alınacak olan, Young'ın temsil ettiği görüşü destekliyor olabilir.
 
 ### 3. Yunan Etkisi ve Abbâsî Dönemi Tercüme Hareketi
 
 Buna karşılık akademik bir yaklaşım, sistemli İslâmî cedelin, Abbâsî döneminde tercüme hareketi yoluyla İslâm mirasında yayılan Yunan etkilerinin bir ürünü olduğu görüşündedir. Nitekim müsteşrik Josef van Ess, erken dönem İslâm kelâmının mantığı olarak cedelin esas itibarıyla Stoacı mantık üzerine kurulduğunu ileri sürer. Bunu Stoacı ve İslâmî terimler arasındaki sözlüksel ve metodolojik benzerliğe dayandırır ve kelâmî bahislerde "delil" ile "medlûl" kavramları arasındaki ilişkinin Stoacı mantıktaki protasis ve apodosis terimleriyle tam olarak örtüştüğünü delil olarak gösterir.[^48]
 
-Tercümeye gösterdiği ilgiyle bilinen Abbâsî döneminin başlangıcını konu edinen kaynaklara bakıldığında, Abbâsî halifesi Mehdî'nin (ö. 169/785) kelâmcılara, özellikle de bahis ve cedel ehline, zındıklara, mülhidlere ve Seneviyye'ye reddiye olarak kitaplar telif etmelerini ve onlara karşı burhânlar ortaya koymalarını emreden ilk kişi olduğu görülür.[^49] Bu ekole göre bu durum, Müslümanlar arasında cedelin Yunan felsefesinden etkilenmeye başlamasında etkili olmuştur.
+Tercümeye gösterdiği ilgiyle bilinen Abbâsî döneminin başlangıcını konu edinen kaynaklara bakıldığında, Abbâsî halifesi Mehdî'nin (ö. 169/785) kelâmcılara, özellikle de bahis ve cedel ehline, zındıkları, mülhidleri ve Seneviyye'yi reddetmek üzere kitaplar telif etmelerini ve onlara karşı burhânlar ortaya koymalarını emreden ilk kişi olduğu görülür.[^49] Bu ekole göre bu durum, Müslümanlar arasında cedelin Yunan felsefesinden etkilenmeye başlamasında etkili olmuştur.
 
-Bu bağlamda araştırmacı Dimitri Gutas'ın[^50] ve doktora tezinde Mehmet Kadri Karabela'nın[^51] açıkladığı üzere, Halife Mehdî, Nestûrî patriği I. Timotheos'u (ö. 208/823) yaklaşık 165/782 yılında Aristoteles'in *Topika*'sını (*Tôbîkā*) tercüme etmekle görevlendirmiştir. Tercümenin amacı, mevâlînin sayısının artmasından doğan siyasî ve sosyal muhalefetle başa çıkmak ve bu alanda asırların tecrübesine sahip Hıristiyanlar ve Yahudilerle dinî münâzaralara girişmek için kelâmcıları mantıkî muhâcce yöntemleriyle donatmaktı.
+Bu bağlamda araştırmacı Dimitri Gutas'ın[^50] ve doktora tezinde Mehmet Kadri Karabela'nın[^51] açıkladığı üzere, Halife Mehdî, Nestûrî patriği I. Timotheos'u (ö. 208/823) yaklaşık 165/782 yılında Aristoteles'in *Topika*'sını (*Tûbîkā*) tercüme etmekle görevlendirmiştir. Tercümenin amacı, mevâlînin sayısının artmasından doğan siyasî ve sosyal muhalefetle başa çıkmak ve bu alanda asırların tecrübesine sahip Hıristiyanlar ve Yahudilerle dinî münâzaralara girişmek için kelâmcıları mantıkî muhâcce yöntemleriyle donatmaktı.
 
 ### 4. Mürekkeb Doğuş
 
@@ -195,7 +195,7 @@ Bazı araştırmacılarda, doğuşun tek bir ilim içinde münferit olarak deği
 ```
 -   Ortak kökler, paralel gelişim ve karşılıklı etkileşim: Young, Miller'in anlatısı yerine daha karmaşık bir nazariye ortaya koyar. Bu nazariye, fıkıh, nahiv ve kelâm gibi bazı ilimlerde, hicrî I. (VII.) yüzyılda mevcut olan muhâccenin ortak bilgi kökeninden ilkel cedel sistemlerinin ortaya çıktığı fikrine dayanır.
 
-Tek bir kökten yola çıktıktan sonra cedel, her alanda, o ilmin cedeli kullandığı gayeye ve ilmin kendi gayesine göre gelişmiştir. Bu da hicrî IV. (milâdî X.) yüzyılda bir gelişmeyle meyvesini vermiştir. Ayrıca o dönem âlimlerinin ansiklopedik oluşu ve o dönemde doruk noktasına ulaşan ilmî etkileşim sebebiyle, bütün bu ilmî projeler arasında gelişimin her aşamasında karşılıklı bir etkileşim söz konusu olmuştur.[^54]
+Tek bir kökten yola çıktıktan sonra cedel, her alanda, o ilmin cedeli kullandığı gayeye ve ilmin kendi gayesine göre gelişmiştir. Bu da hicrî IV. (X.) yüzyılda bir serpilme (izdihâr) olarak meyvesini vermiştir. Ayrıca o dönem âlimlerinin ansiklopedik oluşu ve o dönemde doruk noktasına ulaşan ilmî etkileşim sebebiyle, bütün bu ilmî projeler arasında gelişimin her aşamasında karşılıklı bir etkileşim söz konusu olmuştur.[^54]
 
 İkinci yaklaşımı ise Mohammad Syifa Amin Widigdo ortaya koymaktadır. Ona göre İslâmî cedelin doğuşu bir bütün olarak, onun bağrından çıkmamış olsa da tercüme edilen Yunan mirasından etkilenmiştir. Onun görüşü şöyle özetlenebilir:
 
@@ -204,7 +204,7 @@ Tek bir kökten yola çıktıktan sonra cedel, her alanda, o ilmin cedeli kullan
 ```{=html}
 <!-- -->
 ```
--   Ham madde ve sistematik yapılanma: Widigdo, bu birleşmeye dair görüşünün özünü şöyle ortaya koyar: "Arap-İslâm kaynakları Arap-İslâm cedelinin ham maddelerini sağlamışsa, Yunan kaynakları da İslâmî ilim çevrelerinde (*scholarship*) cedelin olgun ve metodik nazariyesinin yapısal ve sistematik terkibini şekillendirmiştir." [^56]
+-   Ham maddeye karşı sistematik yapılanma: Widigdo, bu birleşmeye dair görüşünün özünü şöyle ortaya koyar: "Arap-İslâm kaynakları Arap-İslâm cedelinin ham maddelerini sağlamışsa, Yunan kaynakları da İslâmî ilim çevrelerinde (*scholarship*) cedelin olgun ve metodik nazariyesinin yapısal ve sistematik terkibini şekillendirmiştir."[^56]
 
 ```{=html}
 <!-- -->
@@ -213,7 +213,7 @@ Tek bir kökten yola çıktıktan sonra cedel, her alanda, o ilmin cedeli kullan
 
 Aynı şekilde tercüme edilen kitaplar, Müslümanlara cedel nazariyelerini kurallaştırmalarına ve formüle etmelerine yardımcı olan sistemli bir cedel metodu sunmuştur.[^58] Bu da Müslümanlar arasında cedel ilmini zenginleştirmiş, gelişmesine ve kurallarının belirlenmesine katkıda bulunmuştur.
 
-Görüşlerin ve delillerin bu şekilde sıralanmasından sonra, mürekkeb doğuş görüşünün daha isabetli olduğu söylenebilir. Çünkü bilindiği üzere ilimler önce birbirlerinin bağrında doğar, ardından bağımsızlaştıklarında birbirlerinden ayrışırlar. Buna göre cedel ilminin kelâmî ya da fıkhî olarak doğduğunu söylemek güçtür; aksine o, komşu ilimlerden etkilenmiş, onları etkilemiş ve onlardan etkilenmiştir.
+Görüşlerin ve delillerin bu şekilde sıralanmasından sonra, mürekkeb doğuş görüşünün en râcih görüş olduğu söylenebilir. Çünkü bilindiği üzere ilimler önce birbirlerinin bağrında doğar, ardından bağımsızlaştıklarında birbirlerinden ayrışırlar. Buna göre cedel ilminin kelâmî ya da fıkhî olarak doğduğunu söylemek güçtür; aksine o, komşu ilimlerden etkilenmiş, onları etkilemiş ve onlardan etkilenmiştir.
 
 [^20]: Ebû Ali el-Kālî, *el-Bâriʿ fi'l-luga*, thk. Hâşim et-Taʿʿân (Bağdat: Mektebetü'n-Nahda; Beyrut: Dâru'l-Hadâra, 1. Basım, 1975), 631-632.
 
@@ -231,7 +231,7 @@ Görüşlerin ve delillerin bu şekilde sıralanmasından sonra, mürekkeb doğu
 
 [^27]: İbn Sînâ, *eş-Şifâʾ: el-Cedel*, 21-34.
 
-[^28]: Ebû Mansûr Abdülkāhir el-Bağdâdî, *ʿİyârü'n-nazar fî ilmi'l-cedel*, thk. Ahmed Muhammed Arrûbî (Kuveyt: Dâru Esfâr), 155.
+[^28]: Ebû Mansûr Abdülkāhir el-Bağdâdî, *ʿİyârü'n-nazar fî ilmi'l-cedel*, thk. Ahmed Muhammed Arrûbî (Kuveyt: Dâru Esfâr, ts.), 155.
 
 [^29]: İbn Hazm, *el-İhkâm fî usûli'l-ahkâm*, thk. bir grup âlim (Kahire: Dâru'l-Hadîs, 1. Basım, 1404/1984), 1/45.
 
@@ -243,7 +243,7 @@ Görüşlerin ve delillerin bu şekilde sıralanmasından sonra, mürekkeb doğu
 
 [^33]: Ebü'l-Meâlî el-Cüveynî, *el-Kâfiye fi'l-cedel*, thk. Fevkıyye Hüseyin Mahmûd (Kahire: Matbaʿatü ʿÎsâ el-Bâbî el-Halebî, 1399/1979), 21.
 
-[^34]: Ebü'l-Vefâ İbn Akīl, *el-Cedel ʿalâ tarîkati'l-fukahâʾ* (Port Said: Mektebetü's-Sekāfeti'd-Dîniyye), 1.
+[^34]: Ebü'l-Vefâ İbn Akīl, *el-Cedel ʿalâ tarîkati'l-fukahâʾ* (Port Said: Mektebetü's-Sekāfeti'd-Dîniyye, ts.), 1.
 
 [^35]: İbn Akīl, *el-Cedel ʿalâ tarîkati'l-fukahâʾ*, 1.
 
@@ -271,19 +271,13 @@ Görüşlerin ve delillerin bu şekilde sıralanmasından sonra, mürekkeb doğu
 
 [^47]: Bağdâdî, *ʿİyârü'n-nazar*, 123-129.
 
-[^48]: Josef van Ess, "The Logical Structure of Islamic Theology",
-    *Logic in Islamic Culture*, ed. G. E. von Grunebaum (Wiesbaden: Otto
-    Harrassowitz, 1970), 27-28; quoted in Widigdo, "Arab-Islamic or
-    Greek Dialectics?", 205.
+[^48]: Josef van Ess, "The Logical Structure of Islamic Theology", *Logic in Islamic Culture*, ed. G. E. von Grunebaum (Wiesbaden: Otto Harrassowitz, 1970), 27-28; aktaran Widigdo, "Arab-Islamic or Greek Dialectics?", 205.
 
 [^49]: Makrîzî, Takıyyüddin Ahmed b. Ali (ö. 845/1442), *es-Sülûk li-maʿrifeti düveli'l-mülûk*, thk. Muhammed Abdülkādir Atâ (Beyrut: Dâru'l-Kütübi'l-ʿİlmiyye, 1997), 1/117.
 
-[^50]: Dimitri Gutas, *Greek Thought, Arabic Culture: The Graeco-Arabic
-    Translation Movement in Baghdad and Early ʿAbbasid Society
-    (2nd-4th/8th-10th centuries)* (London: Routledge, 1998), 61.
+[^50]: Dimitri Gutas, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early ʿAbbasid Society (2nd-4th/8th-10th centuries)* (London: Routledge, 1998), 61.
 
-[^51]: Karabela, *The Development of Dialectic and Argumentation
-    Theory*, 46.
+[^51]: Karabela, *The Development of Dialectic and Argumentation Theory*, 46.
 
 [^52]: Young, *The Dialectical Forge*, 3.
 
@@ -308,9 +302,9 @@ YENİ TERİMLER (sözlükte yok):
 - مفاعلة (Mevsılî) → mufâale; التعريف الإجرائي لا النفسي → işlemsel tanım / nefsî tanım.
 - عموم وخصوص مطلق → umûm-husûs-ı mutlak.
 - الهجاء / المنافرة والمفاخرة → hicâ / münâfere ve mufâhare; إرهاص → ilk haberci (irhâs).
-- الزرادشتية، المانوية، المزدكية، الصابئة → Zerdüştîlik, Mâniheizm, Mazdekîlik, Sâbiîlik; الثنوية → Seneviyye; الموالي → mevâlî; الحنفاء → hanîfler.
+- الزرادشتية، المانوية، المزدكية، الصابئة → Zerdüştlük, Mâniheizm, Mazdekizm, Sâbiîlik (TDV İA madde başlıkları imlası); الثنوية → Seneviyye; الموالي → mevâlî; الحنفاء → hanîfler.
 - نظرية الوعاء أو البوتقة الجدلية (The Dialectical Forge) → "cedel kabı" ya da "cedel ocağı" nazariyesi.
-- مركز البحوث الإسلامية (İsveç, dn. 30) → Merkezü'l-Buhûsi'l-İslâmiyye (sözlükte İSAM karşılığı var, ancak burada İsveç'teki kurum kastedildiğinden İSAM yazılmadı).
+- مركز البحوث الإسلامية (İsveç, dn. 30) → Merkezü'l-Buhûsi'l-İslâmiyye (sözlükte İSAM karşılığı var, ancak burada İsveç'teki kurum kastedildiğinden İSAM yazılmadı). (ROLE B) Kaynak "السويد: مركز البحوث الإسلامية" diyor; muhakkik Abdülhak et-Türkmânî'nin İsveç'te bulunan kurumu olduğu anlaşılıyor; yayıncı adı olduğu için Türkçeleştirilmedi, transkripsiyonla bırakıldı (İSNAD: yayınevi adları aslî biçimde). Kurumun resmî Latin adı (ör. "Islamic Research Center") çevrim içi teyit edilemedi; kitabın künye sayfasından kontrol edilebilir.
 - ترجمة أساس الاقتباس (dn. 38) → *Tercemetü Esâsi'l-iktibâs fi'l-mantık*, çev. Molla Hüsrev (Arapça "ملا خسرو"; kimliği doğrulanmadı — Osmanlı âlimi Molla Hüsrev mi, başka biri mi, kontrol edilmeli). Yer bilgisi kaynakta yok; eklenmedi.
 TARİHLER / ADLAR:
 - Mevsılî (İmâdüddin b. Yûnus) gövdede tezin verdiği "ö. 608" olarak bırakıldı (milâdî eklenmedi, d.). Dn. 37'de eser "et-Tûkādî, İmâdüddin Ebû Nasr b. Yûnus"a atfedilmiş; gövdedeki "Ebû Hâmid Muhammed b. Yûnus b. Menaa el-Mevsılî" ile tutarsız — aynen çevrildi, lead kontrol etmeli. Dn. 37'deki "1807" ibaresinin ne olduğu (eski nr.?) belirsiz; aynen bırakıldı.
@@ -318,13 +312,21 @@ TARİHLER / ADLAR:
 - Ebû Zehre'nin kitabı gövdede "تاريخ علم الجدل" (*Târîhu ilmi'l-cedel*), dn. 40'ta *Târîhu'l-cedel* — aslına uygun ikisi ayrı bırakıldı.
 - Karabela: gövdede "محمد كارابالا" → Mehmet Kadri Karabela (sözlüğe göre).
 BELİRSİZ / DÜZELTİLEN YERLER:
-- Arapça metinde (C.3) "حركة الترجمة في العصر العثماني" geçiyor; başlık ve bağlam açıkça Abbâsî dönemini gösterdiği için "Abbâsî döneminde" olarak çevrildi (muhtemel yazım hatası). Lead teyit etmeli.
+- !!! YAZAR TEYİDİ GEREKLİ (C.3, 1. paragraf): Arapça asılda "عبر حركة الترجمة في العصر العثماني" ("Osmanlı döneminde tercüme hareketi yoluyla") yazıyor. Başlık ("في العصر العباسي"), sonraki paragraflar (Mehdî, Timotheos, 165/782) ve tarihî bağlam Abbâsî dönemini gösterdiğinden çeviride "Abbâsî döneminde" denildi; "العثماني" büyük ihtimalle "العباسي" yerine yazım hatasıdır. Yazar Arapça asılda da düzeltmeli ya da "Osmanlı" kastedilmişse bildirmelidir.
 - B.2 İbn Sînâ maddesi: "بينما لا يضيف ابن سينا جديدا في بنية القياس الجدلي فوق الفارابي يفصل الفرق..." cümlesi eksik/bozuk; "yeni bir şey eklemeksizin ... farkı ayrıntılı biçimde ortaya koyar" şeklinde anlamlandırıldı.
 - B.2 İbn Hazm: "كما أن البرهان القاطع يجب أن يكون دليلا لأحدهما في مقابل توهم الآخر أنه على حق، أو أنه لم يطلب المناظرة إلا لأنه لم يقف على الحقيقة" ifadesi muğlak; yapısı korunarak çevrildi.
 - B.2 İbn Hazm son madde: "هذا التعريف واضح فيه خلوه من المفردات المنطقية" → "mantıkî terimlerden arınmış"; "متسقي" (yazım hatası) "tutarlı" olarak okundu.
 - Nesefî maddesinde metin önce "إظهارا للصواب" sonra "لبيان الصواب" diyor; ikisi de "doğruyu ortaya koymak (için)" diye verildi.
 - Son paragraf "بل تأثر بما جاوره من علوم أثر فيها وتأثر بها" → tekrarı korunarak "komşu ilimlerden etkilenmiş, onları etkilemiş ve onlardan etkilenmiştir".
 - Dn. 22: د.م → "yy." (STYLE_GUIDE §7 uyarınca; y.y. yazılmadı). Dn. 31: د.ن → "yy.".
-- Dn. 48: Latin harfli künyedeki "quoted in" ve "ed." (STYLE_GUIDE §5: Latin künyelere dokunma) aynen bırakıldı; İSNAD Türkçe biçimi isteniyorsa "aktaran:" olmalı.
+- Dn. 48: Latin harfli künyedeki "quoted in" (ROLE C, lead kararıyla) İSNAD Türkçe "aktaran" yapıldı; "ed." İSNAD'da da "ed." olduğundan korundu.
 - Fârâbî tanımındaki "يتسلمه بالسؤال عن مجيب يتضمن حفظه" → "korunmasını üstlenen bir mücîbden soru yoluyla teslim aldığı" (tazammun = üstlenme) şeklinde yorumlandı.
+- (ROLE A) B.2 giriş: "فقد عرفه الفلاسفة والفقهاء والأصوليون على حد" ifadesi eksik görünüyor ("على حدٍّ سواء" = "aynı şekilde/hep birlikte" ya da "كلٌّ على حدة" = "ayrı ayrı"). Çeviride "kendi tarzlarınca" denildi; yazar kastettiği ifadeyi teyit etmeli.
+- (ROLE A) C giriş: Arapça "الفلسفة والمنطق الغربيين" → "Batı felsefesi ve mantığı" (önceki çeviride "Yunan" idi; aslına sadakat için değiştirildi). Yazar "Yunan" kastediyorsa Arapçayı da "اليونانيين" yapabilir.
+- (ROLE A) C.2 son madde: "الرأي التالي الذي يمثله يونغ" — Young'ın görüşü hemen sonraki başlıkta (C.3) değil C.4'te ele alındığından "aşağıda ele alınacak olan" diye verildi.
+- (ROLE B) Dn. 37: Kaynak "التوقادي، عماد الدين أبو نصر بن يونس" diyor; tezin ifadesi aynen korundu. Transkripsiyon "et-Tûkādî" Arapça imlaya (توقادي, Tokat nisbesi) ve projedeki ق+ا → "kā" kuralına (Kādî, Sekāfe) uygundur; Osmanlı/Türkçe okunuşu "Tokadî" olurdu, ancak kaynak Arapça imlayı esas aldığından değiştirilmedi. TUTARSIZLIK: Gövdede tanım İmâdüddin Ebû Hâmid Muhammed b. Yûnus b. Menaa el-Mevsılî'ye (ö. 608) verilmiş; kaynaklar (Zehebî vd.) bu zatın künyesini "Ebû Hâmid" olarak verir ve onun bir cedel eseri yazdığını ("صنف جدلا") kaydeder. Dipnottaki "Ebû Nasr" künyesi ve "et-Tûkādî" nisbesi muhtemelen Râgıb Paşa yazmasının katalog kaydından/zahriyesinden gelmektedir. Yazar yazmanın zahriyesini kontrol edip (a) eseri İbn Yûnus'a atfediyorsa dipnotu "İmâdüddin Ebû Hâmid Muhammed b. Yûnus el-Mevsılî" biçimine getirmeli, (b) katalog atfını koruyorsa bir açıklama cümlesi eklemelidir. Çeviride hiçbir ad değiştirilmedi.
+- (ROLE B) Dn. 38: "ملا خسرو" büyük ihtimalle Osmanlı âlimi Molla Hüsrev'dir (ö. 885/1480; Tûsî'nin Farsça *Esâsü'l-iktibâs*'ını Arapçaya tercüme ettiği bilinen nüsha, muhakkik Ferruh Özpilavcı). Çevrim içi kesin teyit yapılamadı; ad "Molla Hüsrev" olarak bırakıldı, tarih eklenmedi.
+- (ROLE B) Terim ve ad kontrolü: gövde ve dipnotlardaki bütün şahıs adları, nisbeler, ölüm tarihleri (tezin verdiği biçimde) ve eser adları GLOSSARY B1/B3 ile karşılaştırıldı; tutarlı. (ROLE C) Lead kararıyla الطوبيقا → *Tûbîkā* (önceki *Tôbîkā*; "ô" TDV yalın sisteminde yok); GLOSSARY'de de güncellendi.
+- (ROLE C) Dn. 28 ve 34: Arapça künyede tarih yok (د.ت yazılmamış); İSNAD gereği "ts." eklendi. Dn. 38'de yayın yeri yok; kaynakta د.م olmadığından bir işaret eklenmedi, yazar künye sayfasından yeri tamamlamalı.
+- (ROLE C) C.3 "Abbâsî döneminde" YAZAR TEYİDİ notu korunmuştur.
 -->

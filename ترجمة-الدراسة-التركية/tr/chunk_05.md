@@ -12,7 +12,7 @@ Bu nüshanın zahriyesinde şu ifade yer almaktadır: "Bu, *Şerhu'n-Nüketi'l-e
 
 (ب) nüshasında:
 
-Bu nüshada şerhe özgü bir ad geçmemektedir. Ancak baş tarafındaki mühürde şöyle denilmektedir: "Bu, fâzıl âlim Burhâneddin en-Nesefî'nin *el-Üstukussât*, *en-Nikât* ve *et-Tercîhât* adlı kitabıdır; ... sultân-ı a'zam Sultan Mehmed Han b. Murad Han –Allah mülkünü ebedî kılsın– adına (hazırlanmıştır)." Buna göre metne *el-Üstukussât*, şerhe ise yalnızca *en-Nikât* adıyla işaret edilmiş olmaktadır.
+Bu nüshada şerhe özgü bir ad geçmemektedir. Ancak baş tarafındaki mühürde şöyle denilmektedir: "Bu, fâzıl âlim Burhâneddin en-Nesefî'nin *el-Üstukussât*, *en-Nikât* ve *et-Tercîhât* adlı kitabıdır; ... Sultân-ı a'zam Sultan Mehmed Han b. Murad Han –Allah mülkünü ebedî kılsın– adına (hazırlanmıştır)." Buna göre metne *el-Üstukussât*, şerhe ise yalnızca *en-Nikât* adıyla işaret edilmiştir.
 
 (ج) nüshasında:
 
@@ -22,29 +22,29 @@ Zahriyede şöyle yazılmıştır: "Musannifin –Allah ona rahmet etsin– *Şe
 
 -   Râgıb Paşa nüshası: *el-Üstukussât* diye adlandırılan *en-Nikâtü'l-erbaʿîniyye*
 
-Nuruosmaniye Ktp., Nuruosmaniye, nr. 1310-001, vr. 1b–28a.
+Nuruosmaniye Ktp., Nuruosmaniye, nr. 1310-001, vr. 1b-28a.
 
 Zahriyesinde şu ifade yer almaktadır: "Bu, fâzıl âlim Burhâneddin en-Nesefî'nin *el-Üstukussât*, *en-Nikât* ve *et-Tercîhât* adlı kitabıdır."
 
 Burada yalnızca metne *el-Üstukussât*, şerhe ise *en-Nikât* adıyla işaret edilmiştir.
 
--   Nuruosmaniye Ktp. ve koleksiyonu, nr. 01889-002, vr. 1a–22a.
+-   Nuruosmaniye Ktp., Nuruosmaniye, nr. 01889-002, vr. 1a-22a.
 
 Baş tarafında şöyle denilmektedir: "*el-Üstukussât*'ın birinci onluğu..."
 
--   Süleymaniye Ktp., Laleli, nr. 02243-003, vr. 56b–81a.
+-   Süleymaniye Ktp., Laleli, nr. 02243-003, vr. 56b-81a.
 
 Baş tarafında şöyle denilmektedir: "*el-Üstukussât*'ın birinci onluğu..."
 
--   Süleymaniye Ktp., Reîsülküttâb, nr. 01203-006, vr. 17b–29a.
+-   Süleymaniye Ktp., Reîsülküttâb, nr. 01203-006, vr. 17b-29a.
 
-Baş tarafında yazmanın adı şöyle kaydedilmiştir: "*el-İstiksât* diye adlandırılan *en-Nikâtü'z-zarûriyyetü'l-erbaʿîniyye*";
+Baş tarafında yazmanın adı şöyle kaydedilmiştir: "*el-İstiksât* diye adlandırılan *en-Nikâtü'z-zarûriyyetü'l-erbaʿîniyye*".
 
-sonunda ise şu ifade yer almaktadır: "Bu '*en-Nikâtü'z-zarûriyye ve'l-İstiksâtü'l-erbaʿîniyye*'nin tahriri, O'nun lütfuna sığınan, O'nun kudret ve ihsanına dayanan Ali b. Ahmed b. Ali ... eliyle, yedi yüz yirmi sekiz senesi Şevval ayından yedi gece geçtiğinde tamamlandı."
+Sonunda ise şu ifade yer almaktadır: "Bu *en-Nikâtü'z-zarûriyye ve'l-İstiksâtü'l-erbaʿîniyye*'nin tahriri, O'nun lütfuna sığınan, O'nun kudret ve ihsanına dayanan Ali b. Ahmed b. Ali ... eliyle, yedi yüz yirmi sekiz senesi Şevval ayından yedi gece geçtiğinde tamamlandı."
 
 #### Müellifin Şerhteki İfadelerine Göre Eserin Adı
 
-Müellifin *Nüket* metnine yazdığı şerhin mukaddimesinde belirttiğine göre, kendisinden önce ihtisar yoluna gitmeksizin on mesele hakkında zarûrî nükteler yazması istenmiş; ardından ikinci, üçüncü ve dördüncü kez aynı talep gelmiş, sonunda nükteler kırka ulaşmıştır.
+Müellifin *Nüket* metnine yazdığı şerhin mukaddimesinde belirttiğine göre, kendisinden ihtisar yoluna gitmeksizin on mesele hakkında zarûrî nükteler yazması istenmiş; ardından ikinci, üçüncü ve dördüncü kez aynı talep gelmiş, sonunda nükteler kırka ulaşmıştır.
 
 Müellifin nükteleri "zarûrî" diye nitelemesinden hareketle, şerhten çıkarılabilecek adı "*en-Nüketü'z-zarûriyyetü'l-erbaʿîniyye*" şeklinde ifade edebiliriz. Belirtmek gerekir ki müellif mukaddimede *nükte* kelimesinin iki çoğulunu, yani *nüket* ve *nikât*'ı birlikte kullanmıştır.
 
@@ -60,11 +60,11 @@ Buraya kadar söylenenlerden şu hususlar tespit edilebilir:
 
 -   (ب) nüshasında herhangi bir ad yazılı değilken (ج) nüshasının zahriyesindeki ad, (أ) nüshasında kaydedilene yakındır: "*Şerhu'n-Nikâti'l-erbaʿîniyye*".
 
--   Bu adlar, müellifin şerhinin mukaddimesindeki yukarıda geçen ifadesinden çıkarılan bilgiyle birleştirilebilir; bu durumda eserin adı şöyle olur: *Şerhu metni'n-Nikâti'z-zarûriyyeti'l-erbaʿîniyye*.
+-   Bu adları, müellifin şerhinin mukaddimesinde yer alan ve yukarıda aktarılan ifadesinden çıkan bilgiyle birleştirmek mümkündür; bu durumda eserin adı şöyle olur: *Şerhu metni'n-Nikâti'z-zarûriyyeti'l-erbaʿîniyye*.
 
 ### 2.1.2. Kitabın Müellife Aidiyetini Gösteren Haricî Deliller
 
--   Tabakat ve terâcim kitaplarında şerhin müellife nisbet edildiğini yalnızca *Süllemü'l-vüsûl ilâ tabakāti'l-fuhûl* ve *Keşfü'z-zunûn*'da tespit edebildik. Kâtib Çelebi burada şöyle der: "Bazı mecmualarda (kaydedildiğine göre) onun eserleri arasında *Medârikü'l-ahkâm*, *Risâle fi'l-ferâiz*, *Câmiʿu'n-nazar*, *en-Nüketü'l-meşhûre* ve bunun şerhi[^162] de vardır." *Nüket* metninin kendisi ise bundan farklı olarak meşhurdur ve pek çok terâcim müellifi tarafından kaydedilmiştir.
+-   Terâcim kitaplarında şerhin müellife nisbet edildiğini yalnızca *Süllemü'l-vüsûl ilâ tabakāti'l-fuhûl* ve *Keşfü'z-zunûn*'da tespit edebildik. Kâtib Çelebi burada şöyle der: "Bazı mecmualarda (kaydedildiğine göre) onun eserleri arasında *Medârikü'l-ahkâm*, *Risâle fi'l-ferâiz*, *Câmiʿu'n-nazar*, *en-Nüketü'l-meşhûre* ve bunun şerhi[^162] de vardır." *Nüket* metninin kendisi ise bundan farklı olarak meşhurdur ve pek çok terâcim müellifi tarafından kaydedilmiştir.
 
 -   (أ) nüshasının unvan sayfasında şerh müellife nisbet edilmiştir. Bu unvanı büyük ihtimalle Cârullah Efendi yazmıştır; dolayısıyla Cârullah Efendi'nin ilmî mevkii dikkate alındığında bu kayda itimat edilebilir.
 
@@ -78,13 +78,13 @@ Haricî delilleri sıraladıktan sonra burada, şerhin metin müellifi Burhâned
 
 ### 2.2.1. Birinci Delil: Müellifin Bu Şerhi Nüktelerin Sahihini Fâsidinden Ayırt Etmek İçin Yazdığını Açıkça Belirtmesi
 
-Müellif şerhin hutbesinde nükteleri onar onar telif ettiğini, talebelerin ise onları bilmediğini, hatta bilmediklerini de bilmediklerini zikreder; bu ise cehl-i mürekkebdir. Bu sebeple talebeler –onun ifadesiyle– "cehaletleri yüzünden onlara itiraz ettiler. Bununla da yetinmeyip bir kısmını benim onları yazdığım meselelerin dışındaki meselelere naklettiler. Anladıkları şeyin fâsid olduğunu, naklettiklerini de ifsat ettiklerini bilmediler. Fâsid üzerine fâsid bina etmenin fâsid olduğunda ise şüphe edilmez."
+Müellif şerhin hutbesinde nükteleri onar onar telif ettiğini, talebelerin ise onları bilmediğini, hatta bilmediklerini de bilmediklerini zikreder; bu da cehl-i mürekkebdir. Bu sebeple talebeler –onun ifadesiyle– "cehaletleri yüzünden onlara itiraz ettiler. Bununla da yetinmeyip bir kısmını benim onları yazdığım meselelerin dışındaki meselelere naklettiler. Anladıkları şeyin fâsid olduğunu, naklettiklerini de ifsat ettiklerini bilmediler. Fâsid üzerine fâsid bina etmenin fâsid olduğunda ise şüphe edilmez."
 
 Bu nükteler etrafında söz çoğalıp havastan pek çok kimsenin dahi onları müellifin kastettiği hakikatleriyle bilmediği ortaya çıkınca, müellifin maksadını ayrıntılı biçimde açıklayan ve zihinlerde oluşan müşkilleri gideren bir şerhe ihtiyaç duyuldu. Nesefî bunu şöyle ifade etmiştir: "Durum bu merkezde iken bazı arkadaşlarım, sahihi fâsidden, kârlıyı kesattan ayırt edecek bir söz tahrir etmemi istediler. Ben de bunu üstlendim ve Allah Teâlâ'ya hamd ederek, O'na tevekkül ederek işe koyuldum. Şüphesiz O dilediğine kadirdir ve icâbete layıktır."
 
 Nesefî bu maksadı kitabının hâtimesinde bir kez daha vurgular: "Bil ki bu nüshayı tahrir ve takrir etmekten maksat, bu nüktelerin ihtiva ettiği şeyin açığa çıkmasıdır... Zira nazar ehlinden bazılarının, hatta ağyârdan bazılarının hatırına, kîl ü kālde yeri olmayan şeyler gelebilir; bunu benim sözüme nisbet eder, makamıma yakışmayan şeyleri bana isnat ederler."
 
-Hâtimede "sözüm" ve "makamım" ifadelerini kullanması, *Nüket* metninin onun telifi olduğuna açık bir delildir. Aynı ifadeler, şerhin de onun sözünü açıklamak ve makamına yakışmayan şeyleri ondan uzaklaştırmak için kaleme alındığını gösterir. Şu hâlde hutbe ve hâtime, Nesefî'nin şerhi yazmaktan muradının *Nikât* metninin kapalı kalan yerlerini açmak ve müşkil kısımlarını izah etmek olduğunu teyit etmektedir. Bu da metnin ve şerhin her ikisinin de ona ait olduğunu pekiştirir.
+Hâtimede "sözüm" ve "makamım" ifadelerini kullanması, *Nüket* metninin onun telifi olduğuna açık bir delildir. Aynı ifadeler, şerhin de onun sözünü açıklamak ve makamına yakışmayan şeyleri ondan uzaklaştırmak için kaleme alındığını gösterir. Şu hâlde hutbe ve hâtime, Nesefî'nin şerhi yazmaktan muradının *Nikât* metninin kapalı kalan yerlerini açmak ve müşkil kısımlarını izah etmek olduğunu teyit etmektedir. Bu da hem metnin hem de şerhin ona ait olduğunu pekiştirir.
 
 ### 2.2.2. İkinci Delil: Şerefeddin Hârûn el-Cüveynî'ye İthaf
 
@@ -92,9 +92,9 @@ Hutbede şöyle denilmektedir: "Bundan asıl maksat, bu nüshanın es-Sâhibü'l
 
 Hârûn b. Şemseddin Muhammed b. Muhammed el-Cüveynî, Burhâneddin en-Nesefî'den ders okumuştur. Bu, iki bakımdan önemli bir dahilî karinedir:
 
-(A) Eser, es-Sâhibü'l-a'zam Şemseddin el-Cüveynî'nin oğlu Hârûn'a ithaf edilmiştir ve Hârûn Nesefî'nin talebesidir. Rivayet edildiğine göre babası Şemseddin ile Hârûn'un amcası Alâeddin, fâzıl bir kimse bir kitap telif edip kendilerine ithaf ettiğinde ona bin dinar câize vermeyi âdet edinmişlerdi[^163]. Muhtemelen bu gelenek Hârûn'un Bağdat'ta riyaseti üstlendiği dönemde de sürmüştü; Nesefî de âlimlerin âdeti olduğu üzere kitabı bu amaçla ona ithaf etmiştir. Üstelik Hârûn onun doğrudan talebesiydi.
+(A) Eser, es-Sâhibü'l-a'zam Şemseddin el-Cüveynî'nin oğlu Hârûn'a ithaf edilmiştir ve Hârûn Nesefî'nin talebesidir. Rivayet edildiğine göre babası Şemseddin ile Hârûn'un amcası Alâeddin, fâzıl bir kimse bir kitap telif edip kendilerine ithaf ettiğinde ona bin dinar câize vermeyi âdet edinmişlerdi[^163]. Muhtemelen bu gelenek Hârûn'un Bağdat'ta riyaseti üstlendiği dönemde de sürmüş, Nesefî de âlimlerin âdeti olduğu üzere kitabı bu amaçla ve ayrıca Hârûn onun doğrudan talebesi olduğu için ona ithaf etmiştir.
 
-(B) Bilindiği üzere Şerefeddin Hârûn, vezâreti üstlenmesinden yaklaşık üç yıl sonra 685 yılında öldürülmüştür; Burhâneddin en-Nesefî'nin vefatı ise 687'dedir. Dolayısıyla ithaf, zorunlu olarak Hârûn'un riyaseti üstlendiği 682 yılı ile vefat ettiği 685 yılı arasında, yani Nesefî'nin ömrünün son yıllarında gerçekleşmiş olmalıdır. Bunun delili, Nesefî'nin Şerefeddin'e yalnızca emîrlik makamındaki birine verilebilecek lakaplar atfetmesidir; meselâ "emâret feleğinin kutbu, vezâret dairesinin merkezi" demesi bunlardandır. Bu ifadelerin onun vefatından sonra da yerinde olmayacağı açıktır. "Bundan asıl maksat, bu nüshanın es-Sâhibü'l-muazzam'ın nazar edeceği eserler arasında yer almasıdır" sözü de bunu desteklemektedir. Burada söz konusu edilen kesinlikle metin değil şerhtir; zira daha önce geçtiği üzere müellif metni yazmaya tahsil hayatının başlarında girişmiştir.
+(B) Bilindiği üzere Şerefeddin Hârûn, vezâreti üstlenmesinden yaklaşık üç yıl sonra 685 yılında öldürülmüştür; Burhâneddin en-Nesefî ise 687'de vefat etmiştir. Dolayısıyla ithaf, zorunlu olarak Hârûn'un riyaseti üstlendiği 682 yılı ile vefat ettiği 685 yılı arasında, yani Nesefî'nin ömrünün son yıllarında gerçekleşmiş olmalıdır. Bunun delili, Nesefî'nin Şerefeddin'e yalnızca emîrlik makamındaki birine verilebilecek lakaplar atfetmesidir; meselâ "emâret feleğinin kutbu, vezâret dairesinin merkezi" demesi bunlardandır. Bu ifadelerin onun vefatından sonra da yerinde olmayacağı açıktır. "Bundan asıl maksat, bu nüshanın es-Sâhibü'l-muazzam'ın nazar edeceği eserler arasında yer almasıdır" sözü de bunu desteklemektedir. Burada söz konusu edilen kesinlikle metin değil şerhtir; zira daha önce geçtiği üzere müellif metni yazmaya tahsil hayatının başlarında girişmiştir.
 
 ### 2.2.3. Üçüncü Delil: Nesefî'ye Özgü Terimlerin, Ona Aidiyeti Sabit Diğer Eserleriyle Ortaklığı
 
@@ -102,39 +102,39 @@ Nesefî'nin eserlerinde sıkça kullandığı kendine has bir terim dağarcığ�
 
 -   **"Varlık ve yoklukta medâr"** (*el-medâr vücûden ve ademen*) kalıbı *Şerhu'n-Nüket*'te, özellikle de birinci onlukta 133 kez geçmektedir. Aynı kalıp *el-Fusûl*'ün devrân faslında da aynen yer alır: "Medârın varlık ve yoklukta medâr olması suretiyle... Sonra varlık ve yoklukta medâr olan şeyin birden fazla olması mümkün değildir... Bu tefsire göre medâr aklî bir illettir, denilir."
 
--   Müellif mutlak/münker medârı **"ikisinden biri (belirlenmeksizin)"** (*ehadühümâ lâ ale't-taʿyîn*) ifadesiyle kullanmıştır. Bu ifade aynı fasılda şöyle geçer: "Bu, medâr genel münker olduğunda böyledir. Özel münker olduğunda ise, meselâ 'iki ifsattan biri kefâretin vücûbunu gerektirir' denilmesi gibi..."
+-   Müellif mutlak/münker medârı **"ikisinden biri (belirlenmeksizin)"** (*ehadühümâ lâ ale't-taʿyîn*) ifadesiyle dile getirmiştir. Bu ifade aynı fasılda şöyle geçer: "Bu, medâr genel münker olduğunda böyledir. Özel münker olduğunda ise, meselâ 'iki ifsattan biri kefâretin vücûbunu gerektirir' denilmesi gibi..."
 
--   Aynı şekilde **"telâzüm, daha genel lâzım ve müsâvî lâzım"** terimlerini de kullanmıştır. Telâzüm faslında şöyle denilmektedir: "Telâzüm, melzûmun ancak lâzım tahakkuk ettiğinde tahakkuk edebilmesinden ibarettir... Sonra lâzım bazan âmm olur... bazan da müsâvî olur... Lüzûm ya tek taraftandır... ya da iki taraftan."
+-   Aynı şekilde **"telâzüm, daha genel lâzım ve müsâvî lâzım"** terimlerini de kullanmıştır. Telâzüm faslında şöyle denilmektedir: "Telâzüm, lâzım tahakkuk etmedikçe melzûmun tahakkukunun mümteni olmasından (imtina) ibarettir... Sonra lâzım bazan âmm olur... bazan da müsâvî olur... Lüzûm ya tek taraftandır... ya da iki taraftan."
 
 -   *Nüket*'te de tekrar tekrar geçen **"takdirin men'i ve bunun def'i"** ifadesine gelince, bu ifade *el-Fusûl*'ün kıyas faslında şöyle yer alır: "Takdirin men'inin def'inde yaygın olan budur."
 
 -   **"Eğer (hasım) ... derse, deriz ki..."** (*ve le-in kāle ... fe-nekūlü*) kalıbı *el-Fusûl*, *et-Terâcîh* ve *en-Nikât*'ta aynı ölçüde tekrarlanmaktadır.
 
-Burada delil yalnızca bu kaideler arasındaki lafzî örtüşmeden ibaret değildir; bu kaidelerin hüccetlerin inşasında aynı şekilde kullanılması da delildir. Nitekim *el-Fusûl*'deki "varlık ve yoklukta medâr birden fazla olamaz" sözü, müellifin üçüncü nükteyi bina ettiği öncülün ta kendisidir. Orada şöyle der: "Bu, şundandır: Bir şey için varlık ve yoklukta medâr olan şeyin birden fazla olması, ancak bunlardan birinin diğeri olmaksızın tahakkuk edemediği durumda mümkündür." Bu, ortak bir mezhepteki bir uyuşma değil, müellifin bizzat kendisinin formüle ettiği hususi bir kaidenin aynı lafızla yeniden kullanılmasıdır.
+Burada delil yalnızca bu kaideler arasındaki lafzî örtüşmeden ibaret değildir; bu kaidelerin hüccetlerin inşasında aynı şekilde kullanılması da delildir. Nitekim *el-Fusûl*'deki "varlık ve yoklukta medâr birden fazla olamaz" sözü, müellifin üçüncü nükteyi bina ettiği öncülün ta kendisidir. Üçüncü nüktede şöyle der: "Bu, şundandır: Bir şey için varlık ve yoklukta medâr olan şeyin birden fazla olması, ancak bunlardan birinin diğeri olmaksızın tahakkuk edemediği durumda mümkündür." Bu, ortak bir mezhep içinde varılmış bir uyuşma değil, müellifin bizzat kendisinin formüle ettiği hususi bir kaidenin aynı lafızla yeniden kullanılmasıdır.
 
-Örneklerin kullanımında da benzer bir örtüşme görülür. *en-Nikât*'taki ilk mesele "abdestte niyetin şart olması"dır; bu, müellifin *el-Fusûl*'de münâzırın ilk vazifeleri için misal olarak verdiği meselenin ta kendisidir. Her iki misalin ifade tarzı birbirine benzediğine göre bu, müellifin aynı kişi olduğuna bir delil sayılabilir.
+Örneklerin kullanımında da benzer bir örtüşme görülür. *en-Nikât*'taki ilk mesele "abdestte niyetin şart olması"dır; bu, müellifin *el-Fusûl*'de münâzırın vazifelerinin ilki için misal olarak verdiği meselenin ta kendisidir. Her iki misalin ifade tarzı birbirine benzediğine göre bu, müellifin aynı kişi olduğuna bir delil sayılabilir.
 
 ### 2.2.4. Dördüncü Delil: Eserleri Arasındaki Üslup Birliği
 
 Nesefî'nin kendisini diğerlerinden ayıran ve taklit edilmesi güç olan kendine has bir üslubu vardır. Bu üslubun özellikleri şöyle özetlenebilir:
 
--   **Aşırı tekrar:** Müellif zamir kullanmak yerine terim yüklü cümleleri bütünüyle tekrarlar. Meselâ şu ifade: "Şart koşmamada ittihat eden iki sûret arasında abdest almanın vücûbu bakımından iftirak, abdest almanın vücûbunda ayrılan iki sûret arasında şart koşmama bakımından ittihat için medârdır." Bu ifadenin harfi harfine onlarca kez tekrarlandığını görürsünüz.
+-   **Aşırı tekrar:** Müellif zamir kullanmak yerine terim yüklü cümleleri bütünüyle tekrarlar. Meselâ şu ifade: "Şart koşmamada ittihat eden iki sûret arasında abdest almanın vücûbu bakımından iftirak, abdest almanın vücûbunda ayrılan iki sûret arasında şart koşmama bakımından ittihat için medârdır." Bu ifadenin harfi harfine onlarca kez tekrarlandığı görülür.
 
--   **"Eğer derse... deriz ki" (*ve le-in kāle... fe-nekūlü*) itiraz kalıbında kısaltma (*terhîm*):** *Nikât* metninde "eğer derse" ifadesi 195 kez, "deriz ki" ifadesi ise 256 kez geçmekte olup dört onlukta da aşağı yukarı sabit oranlarda dağılmaktadır. Bu durum müellifin diğer eserlerinde de tekrarlanır.
+-   **"Eğer derse... deriz ki" (*ve le-in kāle... fe-nekūlü*) itiraz kalıbında kısaltma (*terhîm*):** *Nikât* metninde "eğer derse" ifadesi 195 kez, "deriz ki" ifadesi ise 256 kez geçer; bu ifadeler dört onluğa aşağı yukarı sabit oranlarda dağılmıştır. Bu durum müellifin diğer eserlerinde de tekrarlanır.
 
 -   **Cevapları bilinçli olarak çoğaltması ve "ya da deriz ki" (*ev nekūlü*) kalıbını kullanması:** Müellif bu kalıbı *Nüket*'te 34 kez kullanmıştır. Bu kalıp, Nesefî'nin *el-Fusûl*'deki yönteminin de ayırt edici bir alametidir.
 
--   **Seci'i hutbe ve hâtimelerde kullanıp bunların dışında kullanmaması.** Şu ifadeler bunun örneklerindendir: "fe-innehû alâ mâ yeşâü kadîr ve bi'l-icâbeti cedîr" (Şüphesiz O dilediğine kadirdir ve icâbete layıktır), "fe-yensübü zâlike ilâ kelâmî ve yüsnidü ileyye mâ lâ yelîku bi-makāmî" (bunu benim sözüme nisbet eder, makamıma yakışmayan şeyleri bana isnat ederler), "fe-zâlike ma'zûrun izâ kâne'l-cehlü özren" (cehalet bir özür ise o kimse mazurdur), "ve zâlike bâtılun bi-lâ hilâf" (bu, ihtilafsız bâtıldır).
+-   **Seciyi hutbe ve hâtimelerde kullanıp bunların dışında kullanmaması.** Şu ifadeler bunun örneklerindendir: "*fe-innehû alâ mâ yeşâü kadîr ve bi'l-icâbeti cedîr*" (Şüphesiz O dilediğine kadirdir ve icâbete layıktır), "*fe-yensübü zâlike ilâ kelâmî ve yüsnidü ileyye mâ lâ yelîku bi-makāmî*" (bunu benim sözüme nisbet eder, makamıma yakışmayan şeyleri bana isnat ederler), "*fe-zâlike ma'zûrun izâ kâne'l-cehlü uzran*" (cehalet bir özür ise o kimse mazurdur), "*ve zâlike bâtılun bi-lâ hilâf*" (bu, ihtilafsız bâtıldır).
 
 -   ***el-Fusûl* ve *en-Nüket*'te hasmı küçümseyen iki terimin aynen kullanılması:** "Mütefakkıhe" (*el-mütefakkıhe*; fıkıhçı geçinenler) ve "zâhirî (yüzeysel) münâzırlar" (*el-münâzırûne'z-zâhiriyyûn*) terimlerini Nesefî *el-Fusûl*'de de kullanır. Bu iki terim *Nüket*'te dört kez, "insaf yolunda kendi inançlarına göre keyfî davranan müteahhir cedelciler"i nitelemek üzere geçmektedir.
 
 ### 2.2.5. Beşinci Delil: Mezhep Aidiyeti
 
-Müellifin Hanefî olduğu, her nüktede "Âlimlerimiz –Allah hepsinden razı olsun– dediler ki" diyerek ardından Hanefî görüşü zikretmesinden, böylece Hanefî mezhebini benimsemesinden anlaşılmaktadır. Aynı şekilde Hanefî mezhebini savunmak için hüccetler serdetmesi de bunu gösterir. Bunun da ötesinde, müellifin Mâverâünnehir âlimlerinden olduğu şu hususlarla delillendirilebilir:
+Müellifin Hanefî olduğu, her nüktede "Âlimlerimiz –Allah hepsinden razı olsun– dediler ki" deyip ardından Hanefî görüşü zikretmek suretiyle bu mezhebi benimsemesinden anlaşılmaktadır. Aynı şekilde bu mezhebi savunmak için hüccetler serdetmesi de bunu gösterir. Bunun da ötesinde, müellifin Mâverâünnehir âlimlerinden olduğu şu hususlarla delillendirilebilir:
 
 (A) Müellif, Hanefî rivayetlerini Mâverâünnehir âlimlerinin usulüne göre sıralamıştır. Nitekim altıncı nüktede "Hasan, Ebû Hanîfe'den –Allah ondan razı olsun– ihtilafın, (kişinin) bilerek yaptığı durumla ilgili olduğunu rivayet etmiştir" der; üçüncü onluğun yedinci nüktesinde "zâhirü'r-rivâyede" ifadesini, üçüncü onluğun sekizinci nüktesinde ise "iki rivayetin daha sahih olanına göre tahrîmen kerâhet" ifadesini kullanır.
 
-(B) Bunun gibi on altıncı nüktede Ebü'l-Yüsr el-Pezdevî'ye "eş-Şeyhü'l-kebîr" lakabıyla atıfta bulunur: "eş-Şeyhü'l-kebîr Ebü'l-Yüsr el-Pezdevî *Şerhu'l-Câmiʿi's-sagīr*'de bunu böyle zikretmiştir." Pezdevî'nin Mâverâünnehir Hanefî meşâyihinden olduğu bilinmektedir; bu da Nesefî'nin yetiştiği Semerkant muhitiyle örtüşmektedir.
+(B) Ayrıca on altıncı nüktede Ebü'l-Yüsr el-Pezdevî'ye "eş-Şeyhü'l-kebîr" lakabıyla atıfta bulunur: "eş-Şeyhü'l-kebîr Ebü'l-Yüsr el-Pezdevî *Şerhu'l-Câmiʿi's-sagīr*'de bunu böyle zikretmiştir." Pezdevî'nin Mâverâünnehir Hanefî meşâyihinden olduğu bilinmektedir; bu da Nesefî'nin yetiştiği Semerkant muhitiyle örtüşmektedir.
 
 Buna göre haricî ve dahilî delillerin, şerhin metin müellifi olan Nesefî'ye –Allah ona rahmet etsin– aidiyeti hususunda birbirini desteklediği söylenebilir.
 
@@ -156,7 +156,7 @@ Müellif hutbesinde telif sebebini ve eserin geçirdiği aşamaları şöyle anl
 
 -   Kitap bir defada değil, her birinde on nükte bulunan, birbirinden ayrı dört aşamada yazılmıştır.
 
--   Onar onar taksim yapay bir taksim değil, ihtiyacın ve fiilî durumun doğurduğu bir taksimdir.
+-   Onar onar yapılan bu taksim yapay değildir; ihtiyacın ve fiilî durumun doğurduğu bir taksimdir.
 
 -   Müellifin belirttiği üzere birinci ve ikinci onluklar ihtisar yoluna gidilmeden yazılmıştır; üçüncü ve dördüncü onluklar ise bunun aksinedir.
 
@@ -170,7 +170,7 @@ Müellif, nükteleri yayıldıktan sonra onlara yöneltilen tenkitlere değinir 
 
 -   **İkincisi, selefin bunu terk etmesini delil getirmeleri. Müellif şöyle der:** "Onların, tahakkukta yeri olmayan şeylerden olduğuna inandılar; zira seleften akıllı kimseler bu türden bir işe girişmemişlerdi."
 
--   **Üçüncüsü, itiraz etmeden önce yanlış anlamaları. Müellif şöyle der:** "Zira talebelerden öylesi vardır ki onları bilmez, bilmediğini de bilmez. Böylece onların şöyle şöyle bir şeyden ibaret olduğuna inanır ve bâtıl olarak inandığı şeylere itiraz etmeye girişir. Böylece cehaletleri yüzünden onlara itiraz ettiler."
+-   **Üçüncüsü, itiraz etmeden önce yanlış anlamaları. Müellif şöyle der:** "Zira talebelerden öylesi vardır ki onları bilmez, bilmediğini de bilmez. Onların şöyle şöyle bir şeyden ibaret olduğuna inanır ve inandığı bâtıl şeylere itiraz etmeye girişir. Böylece cehaletleri yüzünden onlara itiraz ettiler."
 
 -   **Dördüncüsü, fâsid nakil. Müellif şöyle der:** "Bununla da yetinmeyip bir kısmını benim onları yazdığım meselelerin dışındaki meselelere naklettiler. Anladıkları şeyin fâsid olduğunu, naklettiklerini de ifsat ettiklerini bilmediler. Fâsid üzerine fâsid bina etmenin fâsid olduğunda ise şüphe edilmez."
 
@@ -186,15 +186,15 @@ Bu ifade, daha önce söylenenlerle birlikte ele alındığında şu hususları 
 
 -   Şerh, nüktelerin telifinden sonraki bir aşamada yazılmıştır. Bu aşamanın ayırt edici özelliği, nüktelerin artık şöhret kazanmış olmasıdır. Ayrıca daha önce işaret edildiği gibi bu dönem müellifin ömrünün son yıllarına denk gelir; dolayısıyla nazariyesinin rükünleri zihninde tamamlanmış, talebeliğinin başlarında yazdıklarında bir eksiklik varsa onu giderme imkânına kavuşmuştu. Belki de birinci onluğun kendisinden sonrakilere göre hacimce büyük olmasının sebeplerinden biri budur.
 
--   Bunun gibi müellifin açık beyanı, şerhin telif amacının nükteleri savunmak ve hakikatlerini açıklamak olduğunu göstermektedir. Müellifin kitabın yaklaşık üçte birini itirazları zikredip cevaplamaya ayırmış olması da bunu teyit eder.
+-   Aynı şekilde müellifin açık beyanı, şerhin telif amacının nükteleri savunmak ve hakikatlerini açıklamak olduğunu göstermektedir. Müellifin kitabın yaklaşık üçte birini itirazları zikredip cevaplamaya ayırmış olması da bunu teyit eder.
 
 ## 2.4. Kitabın Nesefî'nin Eserleri Bütünü İçindeki Yeri: Nazariye ile Uygulama Arasındaki İlişki
 
-İmam Nesefî cedel ilminin büyük simalarından biri olduğundan, hem nazariyesinin esaslarını ortaya koymuş hem de bunları uygulamıştır. Tahkike konu olan kitap, onun cedel ilminin kaidelerini uygulamasının zirvesini temsil eder. Ancak *Nüket* kitabı, Nesefî'nin ortaya koyduğu nazarî temellerden ayrı okunduğunda faydası tamamlanmış olmaz. Bu temellerin başında da *el-Fusûl* ve *Menşeʾü'n-nazar* adlı iki kitabı gelir; zira o, tanımları *el-Fusûl*'de, yöntemini ise *el-Menşeʾ*'de ortaya koyar. Bu sebeple faydayı tamamlamak üzere burada onun nazariyesini bütünüyle ortaya koymaya çalışacağız:
+İmam Nesefî cedel ilminin büyük simalarından biri olduğundan, hem nazariyesinin esaslarını koymuş hem de bunları uygulamıştır. Tahkike konu olan kitap, onun cedel ilminin kaidelerini uygulamasının zirvesini temsil eder. Ancak *Nüket*, Nesefî'nin vazettiği nazarî temellerden ayrı okunursa faydası tam olarak elde edilemez. Bu temellerin başında da *el-Fusûl* ve *Menşeʾü'n-nazar* adlı iki kitabı gelir; zira o, tanımları *el-Fusûl*'de, yöntemini ise *el-Menşeʾ*'de belirler. Bu sebeple faydayı tamamlamak üzere burada onun nazariyesini bütünüyle ortaya koymaya çalışacağız:
 
 ### 2.4.1. *el-Fusûl fi'l-cedel*: Terminolojik Temel
 
-Nesefî, *Nüket*'te kullanacağı terimlerin tanımlarını *el-Fusûl* kitabında ortaya koymuştur. Burada *el-Fusûl*'ün tertibine göre onun temel esaslarından bazılarını açıklamaya çalışacağız:
+Nesefî, *Nüket*'te kullanacağı terimlerin tanımlarını *el-Fusûl* kitabında vermiştir. Burada *el-Fusûl*'ün tertibine göre onun temel esaslarından bazılarını açıklamaya çalışacağız:
 
 **(A) Münâzaranın tanımı ve işlevi:** Cedel ilminin Nesefî'ye kadar gelen tanımlarından söz ederken onun münâzara tanımını zikretmiştik: "**Doğruyu ortaya çıkarmak amacıyla iki şey arasındaki nisbet hakkında iki taraftan nazar.**" Bu tanımın kayıtlarını ve faydalarını da daha önce açıklamıştık.
 
@@ -232,9 +232,9 @@ Nesefî delili şöyle tanımlar: "Bilinmesinden, medlûlün varlığının bili
 
 **(E) Telâzüm:**
 
-**Telâzüm**, "melzûmun ancak lâzım tahakkuk ettiğinde tahakkuk edebilmesinden ibarettir; imtinadan kastedilen ise mutlak olarak imtinadır." Nesefî telâzümün "kendisi olması bakımından (*min haysü hüve hüve*) varlığı için ne lâzımın ne de melzûmun varlığına muhtaç olmadığına" dikkat çeker.
+**Telâzüm**, "lâzım tahakkuk etmedikçe melzûmun tahakkukunun mümteni olmasından (imtina) ibarettir; imtinadan kastedilen ise mutlak olarak imtinadır." Nesefî telâzümün "kendisi olması bakımından (*min haysü hüve hüve*) varlığı için ne lâzımın ne de melzûmun varlığına muhtaç olmadığına" dikkat çeker.
 
-Ardından lâzımı **âmm** (insan için hayvan gibi; burada lüzûm tek taraftandır) ve **müsâvî** (insan için nâtık gibi; lüzûm iki taraftandır) olmak üzere ikiye ayırır ve lâzımın **ehass** olmasını reddeder: "Aksi takdirde melzûmun lâzım olmaksızın tahakkuku lâzım gelir; akıl ise bunu kabul etmez." Daha sonra lâzımı, bilinme yolu itibarıyla **zarûrî** ve **istidlâlî** olarak taksim eder ve davanın tahririyle ilgili ince bir kaideye dikkat çeker: "Münâzarada 'Şöyle olsaydı şöyle olurdu' dediğin her seferde, bildiğin şeyle itibar et; **bil ki nefsü'l-emrde dava odur.**"
+Ardından lâzımı **âmm** (insan için hayvan gibi; burada lüzûm tek taraftandır) ve **müsâvî** (insan için nâtık gibi; lüzûm iki taraftandır) olmak üzere ikiye ayırır ve lâzımın **ehass** olmasını reddeder: "Aksi takdirde melzûmun lâzım olmaksızın tahakkuku lâzım gelir; akıl ise bunu kabul etmez." Daha sonra lâzımı, bilinme yolu itibarıyla **zarûrî** ve **istidlâlî** olarak taksim eder ve davanın tahririyle ilgili ince bir kaideye işaret eder: "Münâzarada 'Şöyle olsaydı şöyle olurdu' dediğin her seferde, bildiğin şeyle itibar et; **bil ki nefsü'l-emrde dava odur.**"
 
 Faslı da **mülâzemenin yıkılma yollarını** açıklayarak bitirir: "Bil ki telâzüm şunlarla yıkılır:
 
@@ -250,9 +250,9 @@ Buna göre kalb, onun nazarında müstakil bir bâb değil, mülâzemenin yıkı
 
 **(F) Tenâfî:**
 
-Birbirine münâfî iki şey, "tek bir mahalde, tek bir zamanda ve tek bir cihetten birlikte bulunmayan" iki şeydir. Nesefî mahallerin umûm ve husus bakımından farklılık gösterdiğine dikkat çeker. Ardından tenâfî sûretlerini, **müddeânın zıddının veya nakîzinin kendisine ilave edildiği hükmün durumu itibarıyla** üç sûrete ayırır:
+Birbirine münâfî iki şey, "tek bir mahalde, tek bir zamanda ve tek bir cihetten birlikte bulunmayan" iki şeydir. Nesefî mahallerin umûm ve husus bakımından farklı olduğunu belirtir. Ardından tenâfî sûretlerini, **müddeânın zıddının veya nakîzinin kendisine ilave edildiği hükmün durumu itibarıyla** üç sûrete ayırır:
 
-Birincisi, (bu hükmün) **icmâ sûretlerinden** olmasıdır. Bunun hükmü iki sebeple tamam olmamasıdır: Bu sûret, "biri zorunlu olarak yok olan iki şeyden birini iddia etmeye götürür ki bu, nazar ehlinin ıstılahında bâtıldır" ve "misliyle muâraza edilir." (İkincisi,) **hilâf sûretlerinden** olması; (üçüncüsü ise) **bir müctehidden iki rivayet bulunan şeylerden** olmasıdır. Sonra bunları öncelik sırasına koyarak şöyle der: "Sonuç olarak üçüncüsüne başvurmak ikinciye göre, aynı şekilde ikincisine başvurmak da birinciye göre evlâdır."
+Birincisi, (bu hükmün) **icmâ sûretlerinden** olmasıdır. Hükmü, iki sebeple tamam olmamasıdır: Bu sûret hem "biri zorunlu olarak yok olan iki şeyden birini iddia etmeye götürür ki bu, nazar ehlinin ıstılahında bâtıldır" hem de "misliyle muâraza edilir." (İkincisi,) **hilâf sûretlerinden** olması; (üçüncüsü ise) **bir müctehidden iki rivayet bulunan şeylerden** olmasıdır. Sonra bunları öncelik sırasına koyarak şöyle der: "Sonuç olarak üçüncüsüne başvurmak ikinciye göre, aynı şekilde ikincisine başvurmak da birinciye göre evlâdır."
 
 Bu tertibin başlıca amacı **misliyle muârazadan salim olmaya** ulaşmaktır; bu da *en-Nikât*'ta terkibin sıhhatinin ölçütü olacaktır.
 
@@ -268,15 +268,15 @@ Birincisi, varlık ve yoklukta medârın **birden fazla olamayacağı**dır: "Ak
 
 **(H) Kıyas ve tâbileri:**
 
-Kıyas, "aynı hükmün, asıl ve fer'de aynı olan bir illetle asıldan fer'e ta'diyesidir." Nesefî kıyas ve tâbileri için ayrı fasıllar ayırmıştır: Âmmın kıyasla tahsisi, ademin ta'diyesi, nakızların, muârazaların, tenâfînin ve devrânın tevcihi, meçhul ve müfred nakz, farkın îrâdının keyfiyeti ve meçhul kıyas. Bunlar içindeki en önemli hususlardan bazıları şunlardır:
+Kıyas, "aynı hükmün, asıl ve fer'de aynı olan bir illetle asıldan fer'e ta'diyesidir." Nesefî kıyas ve tâbilerine müstakil fasıllar tahsis etmiştir: Âmmın kıyasla tahsisi, ademin ta'diyesi, nakızların, muârazaların, tenâfînin ve devrânın tevcihi, meçhul ve müfred nakz, farkın îrâdının keyfiyeti ve meçhul kıyas. Bunlar içindeki en önemli hususlardan bazıları şunlardır:
 
 -   **Kıyasın nas karşısındaki konumunu açıklaması. Şöyle der:** "Kıyasa ancak nas bulunmayan yerde iltifat edilir; dolayısıyla 'nasla veya kıyasla' denilmez." Buna muhalefet edenleri de şöyle eleştirir: "Ancak mukaddimede yazılı olan şey, insaf yolunda kendi inançlarına göre keyfî davranan **müteahhir cedelciler** nezdinde yaygın olandır."
 
--   **Ademin illet olamayacağı kaidesi:** "Ma'dûmun illet olması da ma'lûl olması da mümkün değildir; zira illet varlığın vasfıdır ve varlık yoklukla ta'lîl edilmez."
+-   **Ademin illet olamayacağı kaidesi:** "Ma'dûmun illet olması da muallel (ta'lîl edilen) olması da mümkün değildir; zira illet varlığın vasfıdır ve varlık yoklukla ta'lîl edilmez."
 
 **(I) İtirazın rükünleri:**
 
-Bunlar dörttür. Birincisi **men'e devam etmek**tir: Sâilde asıl olan, "o delilin öncüllerinin her birinde ya da bazısında men'e devam etmesi"dir. İkincisi **gasbın iptali**dir. Gasb, "tartışmalı hükmü ispat ederek öncülü men etmek"tir; hükmü ise şudur: "Fıkıh ve nazar ehlinin ıstılahında kendisine iltifat edilmeyen şeylerdendir... Zira onda sözü tamamlamadan başka söze geçmek vardır." Üçüncüsü, "burada asıl olan men'dir" kaydıyla birlikte **men'i inâye ile def etmek** ve men'den önce cevabın kesin bir hüccetle iptalidir. **Dördüncüsüne gelince, o da muârazadır**: "Mümânaa yoluyla karşı koymadır. İki delil arasında karşılaşma (*mukābele*) ancak birinin diğeriyle aynı kuvvette ya da kuvvet bakımından ona yakın olması hâlinde olur."
+Bunlar dörttür. Birincisi **men'e devam etmek**tir: Sâilde asıl olan, "o delilin öncüllerinin her birinde ya da bazısında men'e devam etmesi"dir. İkincisi **gasbın iptali**dir. Gasb, "tartışmalı hükmü ispat ederek öncülü men etmek"tir; hükmü ise şudur: "Fıkıh ve nazar ehlinin ıstılahında kendisine iltifat edilmeyen şeylerdendir... Zira onda sözü tamamlamadan başka söze geçmek vardır." Üçüncüsü, "burada asıl olan men'dir" kaydıyla birlikte **men'i inâye ile def etmek** ve men'den önce cevabın kesin bir hüccetle iptalidir. **Dördüncüsüne gelince, o da muârazadır**: "Mümânaa yoluyla karşılaşmadır (*mukābele*). İki delil arasında karşılaşma ancak birinin diğeriyle aynı kuvvette ya da kuvvet bakımından ona yakın olması hâlinde olur."
 
 **(J) İki şeyden birini iddia etme ve bunun kaydı:**
 
@@ -284,7 +284,7 @@ Bu, bütün nüktelerin etrafında döndüğü temel ilkedir. Nesefî *el-Fusûl
 
 Bunun bâtıl olmasını ise iki şeyden birinin yokluğunun icmâ ile veya zarûrî olarak bilinmesi kaydına bağlamıştır. Sonra bunun için şöyle bir kaide koymuştur: "Sonuç olarak kısımlardan yok olan daha az olduğunda, nefsü'l-emrde tamam olur. Daha fazla olduğunda ise... ancak kendisi nezdinde vâki olmayan takdire göre iddia ederse tamam olur."
 
-Bütün bu kaideler, Nesefî'nin *el-Fusûl*'de temellendirdiği ve *en-Nüket*'teki yapısını –özellikle istidlal konusunda– üzerine kurduğu nazarî hatları ortaya koymaktadır. Bu sebeple son derece önemlidirler.
+Bütün bu kaideler, Nesefî'nin *el-Fusûl*'de temellendirdiği ve *en-Nüket*'teki yapısını –özellikle istidlal konusunda– üzerine kurduğu nazarî ana hatları ortaya koymaktadır. Bu sebeple son derece önemlidirler.
 
 ### 2.4.2. *Menşeʾü'n-nazar*: Metodolojik Temel
 
@@ -292,15 +292,15 @@ Bu kitap hacimce küçük olsa da etkisi büyük ve son derece önemlidir; zira 
 
 (1) **Birinci Makale: Telâzümde On Kısım**
 
-Nesefî bunları kaideler olarak kabul ederek şöyle der: "Bahislerde zikredilen bu on kısmı dikkate al; zira itirazları def etmede ve onlarda men'de kaideler bunlar olduğu gibi, bahislerde de kaideler bunlardır." Bunların özeti şudur:
+Nesefî bunları kaideler olarak kabul ederek şöyle der: "Bahislerde zikredilen bu on kısmı dikkate al; zira bahislerdeki kaideler bunlardır; tıpkı itirazların def'inde ve onlardaki men'de de kaidelerin bunlar olduğu gibi." Bunların özeti şudur:
 
-1.  Hüküm ya nefsü'l-emrde ya da takdir üzere olur; "melzûmun yokluğu lâzımın yokluğunun lâzımlarındandır; vâkı ise lâzımdan ya da onun nakîzinden hâlî değildir."
+1.  Hüküm ya nefsü'l-emrde ya da takdir üzere olur; "melzûmun yokluğu lâzımın yokluğunun lâzımlarındandır; vâki ise lâzımdan ya da onun nakîzinden hâlî değildir."
 
 2.  Hüküm başka bir şeyin lâzımlarından olduğunda, lâzımlardan olması bakımından ona muhtaç değildir. O başka şeyin ortadan kalkması hâlinde lâzım olan şeyden ise melzûmun nefsü'l-emrde tahakkuku lâzım gelir.
 
 3.  Mutlak olarak iki şeyden birine dair hüküm doğru ise ikisinden birinin diğerinin yokluğunun lâzımlarından olması gerekir.
 
-4.  Bir şeyin, mümkün olması hâlinde, hem bir şeyin hem de onun nakîzinin lâzımı olması da melzûmu olması da mümkün değildir; "mümteni olduğunda ise melzûm olması mümkündür."
+4.  Bir şeyin hem bir şeyin hem de onun nakîzinin lâzımı olması mümkün değildir; mümkün olması hâlinde ikisinin melzûmu olması da mümkün değildir; "mümteni olduğunda ise melzûm olması mümkündür."
 
 5.  Münâfî ya birincinin nakîzidir ya da ona müsâvîdir –bu durumda ikisinden birinin vaz'ından diğerinin ref'i lâzım gelir, tersi de böyledir–; ya da nakîzden daha özel veya ondan daha geneldir; bu durumda (lüzûm) bir taraftan olup diğer taraftan olmaz.
 
@@ -314,11 +314,11 @@ Nesefî bunları kaideler olarak kabul ederek şöyle der: "Bahislerde zikredile
 
 10. Bu, nüktelerin medârı olan kuşatıcı kısımdır: "Tartışmalı hükmü gerektiren şey –kasıt olsun başka bir şey olsun– **hükmün varlık ve yoklukta medârı olmasaydı, hüküm fi'l-cümle tahakkuk etmiş olurdu**... **Muayyen hükmün varlık ve yoklukta muayyen medârı birden fazla olamaz; birden fazla olan şey ise ancak bir kısmının diğerleri olmaksızın tahakkuku mümkün olmadığında medâr olabilir.**"
 
-Bu onuncu kısım, birinci onluk nüktelerinden bütün bir türün **saf sûrî formülüdür** ve nüktelerin meşralarındaki (*meşâriʿ*) "lev lâ medâriyyetü..." ("... medâr olması olmasaydı") kalıbının kaynağıdır. Bu sebeple bu on kısım, özellikle de sonuncusu, nüktelerin ve bunların nasıl formüle edildiğinin anlaşılması bakımından son derece önemlidir.
+Bu onuncu kısım, birinci onluk nüktelerinden bütün bir türün **saf sûrî formülüdür** ve nüktelerin meşralarındaki (*meşâriʿ*) "*levlâ medâriyyetü...*" ("... medâr olması olmasaydı") kalıbının kaynağıdır. Bu sebeple bu on kısım, özellikle de sonuncusu, nüktelerin ve bunların nasıl formüle edildiğinin anlaşılması bakımından son derece önemlidir.
 
-(2) **İkinci Makale: İtirazların Def'inde On Vecih:**
+(2) **İkinci Makale: İtirazların Def'inde On Vecih**
 
-Bunlar, tek bir asıl olan, belirlemeksizin "ikisinden biri"ni iddia etme esasından çıkan tefrîlerdir. Dolayısıyla bunlar, muallilin her men' edilişinde sırasıyla tırmandığı **yükselen bir merdiven**dir. Metinde "ya da deriz ki... ya da deriz ki..." diyerek tekrar tekrar başvurduğunu gördüğümüz şey de tam olarak budur –bu ifade metinde 34 kez tekrarlanmıştır–. Bu vecihler sırasıyla şunlardır:
+Bunlar, tek bir asla, yani belirlemeksizin "ikisinden biri"ni iddia etme esasına dayanan tefrîlerdir. Dolayısıyla bunlar, muallilin her men' edilişinde sırasıyla tırmandığı **yükselen bir merdiven**dir. Metinde "ya da deriz ki... ya da deriz ki..." diyerek tekrar tekrar başvurduğunu gördüğümüz şey de tam olarak budur –bu ifade metinde 34 kez tekrarlanmıştır–. Bu vecihler sırasıyla şunlardır:
 
 Müddeânın ikisinden biri olduğunun söylenmesi;
 
@@ -332,7 +332,7 @@ sonra **buna nakîz olan şeyin melzûm olmasının yokluğu takdirine göre**;
 
 sonra **hükmün melzûmlarından bir melzûmun yokluğu takdirine göre**;
 
-sonra **hükmün tahakkuk ettiği şeyin medâr olması takdirine göre**;
+sonra **hükmü tahakkuk ettiren şeyin medâr olması takdirine göre**;
 
 sonra nefyeden veya (hükmü) gerektiren naslardan **kastın yokluğu takdirine göre**;
 
@@ -340,13 +340,13 @@ sonra **kastın medâr olması takdirine göre**;
 
 sonra **kastı tahakkuk ettiren şeyin medâr olması takdirine göre**.
 
-Bu kısımların nükteleri anlamadaki önemini kavramak için şu hususa dikkat çekmek gerekir: Nesefî birinci makalenin dördüncü kısmını zikredip bir şeyin, mümkün olması hâlinde, hem bir şeyin hem de onun nakîzinin melzûmu olamayacağını ortaya koyduktan sonra şöyle der: "**Buna vâkıf olmak, seni terdîdî nüktelerdeki fesada vâkıf kılar.**" Bu ifade, Nesefî'nin –nüktelerinde terdîde dayanmasından anlaşılabileceği gibi– her terdîdî terkibi benimsemediğini, aksine terdîdî nüktelerden fâsid olanların bulunduğunu ve bunlardaki fesadın kaynağının bir şeyin iki nakîzin lâzımı olması olduğunu ortaya koyduğunu göstermektedir.
+Bu kısımların nükteleri anlamadaki önemini kavramak için şu hususa dikkat çekmek gerekir: Nesefî birinci makalenin dördüncü kısmını zikredip bir şeyin, mümkün olması hâlinde, hem bir şeyin hem de onun nakîzinin melzûmu olamayacağını ortaya koyduktan sonra şöyle der: "**Buna vâkıf olmak, seni terdîdî nüktelerdeki fesada vâkıf kılar.**" Bu ifade, Nesefî'nin –nüktelerinde terdîde dayanmasından anlaşılabileceğinin aksine– her terdîdî terkibi benimsemediğini; bilakis terdîdî nüktelerden fâsid olanların bulunduğunu ve bunlardaki fesadın, bir şeyin iki nakîzin lâzımı olmasından kaynaklandığını tespit ettiğini göstermektedir.
 
 Bu sebeple bu nas, Nesefî'nin metinde izlediği **lâ-taʿyîn (belirlememe) metodunun gerçek işlevini** bizzat açıklamaktadır: "İkisinden biri"ni ve "sûretlerden herhangi bir sûret"i iddia etmek, terdîdî nüktelerde kasıtlı olarak yapılan bir kullanımdır. Zira müddeâ muayyen olmadığında iki şıktan bizzat tek bir hüküm lâzım gelmez; böylece bir şeyin iki nakîzin lâzımı olması mahzuru ortadan kalkar ki matlûb da budur. Müellifin metinde ısrarla "muayyen olarak iddia etmiyoruz" ve "müddeâyı herhangi bir şekilde belirlememize ihtiyaç yoktur" demesi de bunu desteklemektedir.
 
 ### 2.4.3. *en-Nikâtü'l-erbaʿîn*: Kapsamlı Uygulama
 
-Tahkike konu kitaba gelince, nükteler hakkında böyle denilmesi uygunsa, o Nesefî'nin projesinin olgunluk zirvesidir. Bu sebeple incelenmesi ve tahlil edilmesi bakımından son derece önemlidir; zira o hem nazariyeyi tamamlayan hem de onu sınayan parçadır. Bu şerhin önemini teyit eden hususlardan biri, nükte şârihlerinin bu şerhin üzerine yazıldığı metni nitelemeleridir. Bunlardan bazıları şunlardır:
+Tahkike konu kitaba gelince, nükteler hakkında böyle denilmesi uygunsa, o Nesefî'nin projesinin olgunluk zirvesidir. Bu sebeple incelenmesi ve tahlil edilmesi bakımından son derece önemlidir; zira o hem nazariyeyi tamamlayan hem de onu sınayan parçadır. Bu şerhin önemini teyit eden hususlardan biri de nükte şârihlerinin, bu şerhin üzerine yazıldığı metin hakkındaki nitelemeleridir. Bunlardan bazıları şunlardır:
 
 Şemseddin es-Semerkandî'nin nükteler üzerine yazdığı şerhin mukaddimesindeki şu sözü: "İnce mânalar ve derin bahisler arasında, muhakkik imam ve müdakkik âlim Burhânü'l-mille ve'd-dîn Hüccetü'l-İslâm ve'l-müslimîn'in ... icat ettiği *en-Nikâtü'z-zarûriyyetü'l-erbaʿîniyye* de yer alır. Bunlarda acîb bahisler ve garip fikirler vardır: Musannifin zikrettiği tahliller, telhisler, ta'mîmler, nakızlar ve kalbler. Zira bunlar, bütün istidlallerin kendileriyle bina edildiği mugālataları, müstedrekleri ve umûmları ihtiva etmektedir; nakızlar ve kalbler ise umûmların tâbileridir."
 
@@ -356,7 +356,7 @@ Nükteleri bir miktar ayrıntı ve istatistikle tahlil etmeye çalışacağız:
 
 [^162]: Kâtib Çelebi, *Süllemü'l-vüsûl*, 3/252.
 
-[^163]: Şemseddin Muhammed b. Ahmed ez-Zehebî, *Târîhu'l-İslâm ve vefeyâtü'l-meşâhîr ve'l-aʿlâm*, thk. Beşşâr Avvâd Ma'rûf (Beyrut: Dâru'l-Garbi'l-İslâmî, 1. Basım, 1424/2003), 15/453.
+[^163]: Zehebî, Şemseddin Muhammed b. Ahmed, *Târîhu'l-İslâm ve vefeyâtü'l-meşâhîr ve'l-aʿlâm*, thk. Beşşâr Avvâd Ma'rûf (Beyrut: Dâru'l-Garbi'l-İslâmî, 1. Basım, 1424/2003), 15/453.
 
 <!-- NOTLAR
 YENİ TERİMLER (sözlükte yok):
@@ -372,7 +372,7 @@ YENİ TERİMLER (sözlükte yok):
 - الفحول → usta âlimler (*fuhûl*)
 - القيل والقال → kîl ü kāl
 - مشارع النكت → nüktelerin meşraları (*meşâriʿ*), ilk geçişte transkr. verildi.
-- لولا مدارية → "lev lâ medâriyyetü..." kalıbı transkripsiyonla verildi.
+- لولا مدارية → "*levlâ medâriyyetü...*" kalıbı transkripsiyonla verildi (لولا tek kelime: levlâ).
 - Seci' örnekleri (2.2.4) Arapça transkripsiyonu + parantez içinde Türkçe anlamla verildi; çünkü konu sec'in kendisi.
 - Lakaplar (شرف الملة والحق والدين، بهاء الإسلام…، شمس الدنيا والدين، غياث الإسلام…، برهان الملة والدين، حجة الإسلام والمسلمين) transkripsiyonla bırakıldı; "الصاحب المعظم/الأعظم" → es-Sâhibü'l-muazzam / es-Sâhibü'l-a'zam.
 
@@ -382,7 +382,7 @@ ESER ADI TERCİHLERİ:
 
 ALT MADDE HARFLERİ: (أ)…(ي) sayımları (2.2.2, 2.2.5, 2.4.1) STYLE_GUIDE §4 eşleşmesine göre (A)…(J) yapıldı; nüsha rumuzları (أ)(ب)(ج) Arapça bırakıldı.
 
-KAYNAK METİNDEKİ YAZIM HATALARI (düzeltilmiş anlamla çevrildi): ابلشرح→الشرح; كلن→كان; قظعا→قطعا; منشز النظر→منشأ النظر; السموقندية→السمرقندية; النطرية→النظرية; الستعمل→استعمل; فوائدته→فوائده; "ليس عنده بابا" (عنده tekrar).
+KAYNAK METİNDEKİ YAZIM HATALARI (düzeltilmiş anlamla çevrildi): ابلشرح→الشرح; كلن→كان; قظعا→قطعا; منشز النظر→منشأ النظر; السموقندية→السمرقندية; النطرية→النظرية; الستعمل→استعمل; فوائدته→فوائده; "ليس عنده بابا" (عنده tekrar); 2.4.2 (2) yedinci vecih "ما تحقق الحكم" → "ما يحقق الحكم" (ROL B notuna bk.).
 
 BELİRSİZ / DİKKAT EDİLECEK YERLER:
 - 2.1.1: "نسخة راغب باشا" başlıklı madde altında verilen künye Nuruosmaniye Ktp., nr. 1310-001'dir; Râgıb Paşa adı ile künye uyuşmuyor. Aynen çevrildi.
@@ -394,4 +394,18 @@ BELİRSİZ / DİKKAT EDİLECEK YERLER:
 - 2.4.1 (I): "وإبطال الجواب قبل المنع بحجة قاطعة" üçüncü rükne bağlı olarak çevrildi (Arapçada öyle sıralanmış).
 - 2.4.3: Semerkandî alıntısı Arapçada bozuk/eksik bir cümle yapısına sahip ("وفيها أبحاث عجيبة وأفكار غريبة ما ذكره المصنف..."); anlam gözetilerek iki-üç cümleye bölündü.
 - 2.4.3: "إن صح القول في النكت" → "nükteler hakkında böyle denilmesi uygunsa".
+
+ROL A (çeviri) NOTLARI:
+- 2.4.2 (2), yedinci vecih "على تقدير مدارية ما تحقق الحكم": "ما تحقق" hem "hükmün tahakkuk ettiği şey" hem (onuncu vecihle paralel olarak "ما يحقق") "hükmü tahakkuk ettiren şey" okunabilir; mevcut çeviri korundu, lead kontrol etmeli.
+- 2.4.2 (1) 4. kısım: "إن كان ممكنا" kaydı Arapçada "ملزوما لهما"dan sonra geldiği ve ardından "ممتنعا ise melzûm olabilir" dendiği için yalnız melzûmiyete bağlandı.
+ROL B (terim) NOTLARI:
+- 2.4.2 (2) yedinci vecih ÇÖZÜLDÜ: "على تقدير مدارية ما تحقق الحكم" → "hükmü tahakkuk ettiren şeyin medâr olması takdirine göre". Gerekçe: (1) Özen'in *Menşeʾü'n-nazar* tercümesinde yedinci vecih "hükmü gerçekleştiren şeyin medar olması varsayımına göre", onuncu vecih "kastı gerçekleştiren şeyin medar olması" (ما يحقق الإرادة) şeklindedir; birinci makalenin dokuzuncu kısmında da "hükmü veya kastı gerçekleştiren şey" (ما يحقق الحكم أو الإرادة) geçer. Yani Nesefî'nin kalıbı ما يحقق + mef'ûldür; tezdeki "تحقق" büyük ihtimalle "يحقق" yerine yazım hatasıdır. (2) Nesefî'nin medâr kullanımında medâr illet (hükmü tahakkuk ettiren), dâir ise ma'lûldür (MN dn. 76: "dâir ise illetin ma'lûlüdür, yani gerçekleştirdiği şeydir"); "hükmün tahakkuk ettiği şey" okuması medâr ile dâirin/mahallin yerini değiştirirdi. (3) Yedinci ve onuncu vecihlerin (hüküm/kasıt) paralelliği de bunu gerektirir.
+- Telâzüm tanımı (2.2.3 ve 2.4.1 E): "امتناع تحقق الملزوم إلا عند تحقق اللازم" çevirisinde "imtina" düşmüştü; 2.4.1'de ardından gelen "imtinadan kastedilen..." cümlesinin dayanağı kalmıyordu. Her iki yerde aynı kalıp: "lâzım tahakkuk etmedikçe melzûmun tahakkukunun mümteni olmasından (imtina) ibarettir".
+- معلَّل → "muallel (ta'lîl edilen)" (ma'lûl değil; devamındaki "ta'lîl edilmez" ile terim birliği).
+- المقابلة (muâraza tanımı): aynı alıntıda iki kez geçen terim tek karşılıkla "karşılaşma (*mukābele*)" verildi.
+ROL C (biçim-dil) NOTLARI:
+- 2.4.2 (2) son paragraf: "كما قد يُفهم من اعتماده عليه" "...anlaşılabileceği gibi" diye anlamı tersine çevirecek biçimde verilmişti → "...anlaşılabileceğinin aksine" (Nesefî her terdîdî terkibi benimsemez; terdîde dayanması aksini düşündürebilir).
+- 2.2.4 seci örnekleri: transkripsiyonlar italikleştirildi; "özren" (عذرًا) → "uzran" düzeltildi.
+- Dn. 163 tezdeki diğer ilk atıflar (chunk_04a dn. 67, 93) ve Arapça asıl gibi "Zehebî, Şemseddin Muhammed b. Ahmed, ..." sırasına getirildi; ölüm tarihi Arapçada olmadığı için eklenmedi.
+- Varak aralıkları chunk_04b ile tutarlı olarak kısa çizgiyle (1b-28a) yazıldı. Tez genelinde tutarsızlıklar: chunk_04b "nispet", diğer bölümler "nisbet"; chunk_04b künyelerinde "nr." yok — bütün tezde birleştirilmeli.
 -->

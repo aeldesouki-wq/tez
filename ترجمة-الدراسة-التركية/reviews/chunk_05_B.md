@@ -1,0 +1,13 @@
+# chunk_05 — ROL B (terim) düzeltme kaydı
+
+1. 2.4.2 (2) yedinci vecih: "hükmün tahakkuk ettiği şeyin medâr olması takdirine göre" → "hükmü tahakkuk ettiren şeyin medâr olması takdirine göre". Sebep (A'nın açık bıraktığı nokta): Özen'in *Menşeʾü'n-nazar* tercümesinde yedinci vecih "hükmü gerçekleştiren şeyin medar olması", onuncu vecih "kastı gerçekleştiren şeyin medar olması" (ما يحقق الإرادة); birinci makalenin 9. kısmında da "hükmü veya kastı gerçekleştiren şey". Nesefî'de medâr hükmü tahakkuk ettiren illet, dâir ise ma'lûldür (MN dn. 76); "hükmün tahakkuk ettiği şey" okuması medâr ile dâiri yer değiştirirdi. Tezdeki "ما تحقق" büyük ihtimalle "ما يحقق" yerine yazım hatasıdır; NOTLAR'daki yazım hataları listesine eklendi.
+2. 2.2.3 ve 2.4.1 (E) telâzüm tanımı: "melzûmun ancak lâzım tahakkuk ettiğinde tahakkuk edebilmesinden ibarettir" → "lâzım tahakkuk etmedikçe melzûmun tahakkukunun mümteni olmasından (imtina) ibarettir" (iki yerde aynı). Sebep: "امتناع" terimi düşmüştü; 2.4.1'deki "imtinadan kastedilen ise mutlak olarak imtinadır" cümlesi dayanaksız kalıyordu.
+3. 2.4.1 (H): "ma'lûl olması" → "muallel (ta'lîl edilen) olması". Sebep: Arapça "معلَّلًا"; devamdaki "ta'lîl edilmez" ile terim birliği.
+4. 2.4.1 (I) muâraza tanımı: "Mümânaa yoluyla karşı koymadır. İki delil arasında karşılaşma (*mukābele*)" → "Mümânaa yoluyla karşılaşmadır (*mukābele*). İki delil arasında karşılaşma". Sebep: aynı alıntıda iki kez geçen المقابلة tek karşılıkla verilmeli.
+5. 2.4.2 (1) son paragraf: "lev lâ medâriyyetü..." → "*levlâ medâriyyetü...*". Sebep: لولا tek kelime (levlâ); transkripsiyon italik. NOTLAR'daki ilgili satır da düzeltildi.
+6. 2.1.1: "Nuruosmaniye Ktp. ve koleksiyonu, nr. 01889-002" → "Nuruosmaniye Ktp., Nuruosmaniye, nr. 01889-002". Sebep: kütüphane/koleksiyon künyesi biçimi (aynı bölümdeki 1310-001 künyesi ve chunk_04b ile tutarlılık).
+7. 2.1.1 (ب) nüshası mühür alıntısı: "sultân-ı a'zam" → "Sultân-ı a'zam". Sebep: unvan; chunk_04b'deki aynı alıntıyla tutarlılık.
+
+Kontrol edilip değişiklik gerekmeyenler: GLOSSARY A1–A6 terimleri (medâr/dâir/medâriyet, telâzüm, mülâzeme, tenâfî, münâfât, nakîz, takdir, nefsü'l-emr, men', gasb, inâye, muâraza, kalb, mütefakkıhe, zâhirî münâzırlar, lâ-taʿyîn, meşra), şahıs adları (Burhâneddin en-Nesefî, Şerefeddin Hârûn el-Cüveynî, Şemseddin el-Cüveynî, Alâeddin, Ebü'l-Yüsr el-Pezdevî, Hasan, Ebû Hanîfe, Kâtib Çelebi, Cârullah Efendi, Şemseddin es-Semerkandî, Ahmed b. Hasan el-Çârperdî, Zehebî, Beşşâr Avvâd Ma'rûf), eser adları (B3) ve yerler/kütüphaneler (B4). Bu bölümde parantezli ölüm tarihi yok; metindeki 682/685/687 tarihleri tezdeki gibi. Dipnotlar [^162], [^163] değişmedi.
+
+Çözülmemiş: yok.

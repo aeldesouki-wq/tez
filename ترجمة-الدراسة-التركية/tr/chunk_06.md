@@ -2,7 +2,7 @@
 
 ### 2.5.1. Dört Onluğa Ayrılış
 
-Kitap kırk meseleden oluşur. Her onluk diğerlerinden ayrılmış olup her biri müstakil bir besmele ve hamdeleyle başlar. Bu durum, hutbede belirtildiği üzere her onluğun ayrı ayrı telif edilmiş olduğunu teyit eden bir başka işarettir.
+Kitap kırk meseleden oluşur. Her onluk diğerlerinden ayrıdır ve her biri müstakil bir besmele ve hamdeleyle başlar. Bu da hutbede belirtildiği üzere her onluğun ayrı ayrı telif edildiğinin bir başka teyididir.
 
 ### 2.5.2. Dört Onlukta Fıkhî Tertibin Düzenliliği
 
@@ -25,21 +25,21 @@ Her onluktaki meseleler, Hanefî fıkhının bablarına göre aşağı yukarı a
 
 **Bu tablodan şu hususlar dikkati çekmektedir:**
 
--   Her onluğun ilk beş nüktesi fıkıh babları bakımından hemen hemen örtüşmektedir.
+-   Her onluktaki beş nükte fıkıh babları bakımından hemen hemen örtüşmektedir.
 
--   İkinci, üçüncü ve dördüncü onlukta dokuzuncu nükte muâmelât babındandır.
+-   İkinci, üçüncü ve dördüncü onluklarda dokuzuncu nükte muâmelât babındandır.
 
 -   Her onlukta onuncu nükte Cinâyât babındandır.
 
-**Buradan şu sonuç çıkarılabilir:** Nesefî kendisinden her on nükte yazması istendiğinde fıkıh kitaplarını baştan sona tarıyor, daha önce ele almadığı ve üzerine nükte terkip edilebilecek her hilâfî meseleyi arıyordu. Bu sebeple onun, nüktelerini üzerine bina edeceği meseleleri çıkarmak için fıkıh kitaplarını dört defa gözden geçirdiği söylenebilir.
+**Buradan şu sonuç çıkarılabilir:** Nesefî kendisinden on nükte yazması her istendiğinde fıkıh kitaplarını baştan sona tarıyor, daha önce ele almadığı ve üzerine nükte terkip edilebilecek her hilâfî meseleyi arıyordu. Bu sebeple onun, nüktelerini üzerine bina edeceği meseleleri çıkarmak için fıkıh kitaplarını dört defa gözden geçirdiği söylenebilir.
 
 Ayrıca Nesefî tahâreti yalnızca ilk iki onlukta ele almıştır. Bunun sebebi muhtemelen tahâretle ilgili iki temel meseleyi işlemiş olması ve Tahâret babında, üzerine nükte terkip edilmeyi hak etme bakımından bu ikisine denk bir meselenin kalmamasıdır.
 
-Kitabın bütününün yapısını ele aldıktan sonra, kitabın bir parçası olarak nüktenin iç yapısını açıklamaya geçiyoruz:
+Kitabın bütününün yapısını ele aldıktan sonra, onun bir parçası olarak nüktenin iç yapısını açıklamaya geçiyoruz:
 
 ### 2.5.3. Tek Bir Nüktenin İç Yapısı
 
-Her nükte, nüktelerin hemen hepsinde büyük ölçüde aynı kalan düzenli bir yapıdan oluşur. Bu yapının unsurları şunlardır:
+Her nükte, nüktelerin hemen hepsinde büyük ölçüde aynı kalan düzenli bir yapıya sahiptir. Bu yapının unsurları şunlardır:
 
 -   **Meseledeki görüşlerin nakli (hikâyesi).** "Âlimlerimiz –Allah hepsinden razı olsun– dediler ki: şöyledir... Şâfiî –Allah ona rahmet etsin– ise dedi ki: şöyledir" ifadesi buna örnektir.
 
@@ -47,25 +47,25 @@ Her nükte, nüktelerin hemen hepsinde büyük ölçüde aynı kalan düzenli bi
 
 -   **Lafızların tanımı.** Birinci nüktede niyet, şart ve nüktenin; üçüncü nüktede gıda, ilaç, ifsâd (bozma) ve Ramazan ayının tanımlanması gibi.
 
--   **Nüktenin meşraı.** Şerh edilen metnin kendisidir ve çoğunlukla "Nüktenin meşraındaki sözüne gelince" veya "Sözüne gelince" ifadesiyle başlar.
+-   **Nüktenin meşraı.** Bu, şerh edilen metnin kendisidir ve çoğunlukla "Nüktenin meşraındaki sözüne gelince" veya "Sözüne gelince" ifadesiyle başlar.
 
--   **Nüktenin takriri ve öncüllerinin açıklanması.** Bu, her nüktenin en büyük ve en girift kısmıdır. Müellif burada "nüktenin meşraı"nı müstedilin görüşünü destekleyen uzun bir taksimler, terdîdler ve istilzamlar zinciriyle çözümlemeye başlar; bu da itirazın beklendiği ve cevaplandığı kısma zemin hazırlar. Bu kısımla muhtemelen öğrenciye, hüccetini güçlendirmek, desteklemek ve onun üzerine kıyas kapısını açmak üzere önceki istidlali üzerine nasıl tefrî yapacağının öğretilmesi hedeflenmektedir. Şerhin özünü oluşturan bu kısım metnin hacminin yaklaşık üçte ikisini kaplar. Bu açıklama çoğunlukla "İşte bunlar bizzat bu nükteyle ilgili bahislerdir" veya "İşte bunların hepsi bu nüktede lâzım olan bahislerdendir" sözüyle sona erer.
+-   **Nüktenin takriri ve öncüllerinin açıklanması.** Bu, her nüktenin en büyük ve en girift kısmıdır. Müellif burada "nüktenin meşraı"nı müstedilin görüşünü destekleyen uzun bir taksimler, terdîdler ve istilzamlar zinciriyle çözümlemeye başlar; bu da itirazın beklendiği ve cevaplandığı kısma zemin hazırlar. Bu kısımda muhtemelen öğrenciye, önceki istidlali üzerine nasıl tefrî yapacağının öğretilmesi hedeflenmektedir; böylece öğrenci hüccetini güçlendirip destekleyecek ve onun üzerine kıyas kapısını açacaktır. Şerhin özünü oluşturan bu kısım metnin hacminin yaklaşık üçte ikisini kaplar. Bu açıklama çoğunlukla "İşte bunlar bizzat bu nükteyle ilgili bahislerdir" veya "İşte bunların hepsi bu nüktede lâzım olan bahislerdendir" sözüyle sona erer.
 
--   **Varid olabilecek itirazların def'i.** Bu son kısımda müellif, zikrettiği hüccete yöneltilebilecek itirazları getirir ve bunlara birçok yönden cevap verir. Böylece öğrenciye hasma cevap verme yolunu; kimi zaman hasmı, onun müstedili ilzam etmek istediği şeyle ilzam etmeyi ya da itirazın aslını nakz veya kalb yoluyla iptal etmeyi öğretir. Bu kısım "Daha önce zikri geçen o itirazlardan olana gelince, bu, şöyle denilmesi gibidir..." ifadesiyle başlar ve metnin hacminin yaklaşık üçte birini kaplar.
+-   **Vârid olabilecek itirazların def'i.** Bu son kısımda müellif, zikrettiği hüccete yöneltilebilecek itirazları getirir ve bunlara birçok yönden cevap verir. Böylece öğrenciye hasma cevap verme yolunu, kimi zaman hasmı, onun müstedili ilzam etmek istediği şeyle ilzam etmeyi ya da itirazın aslını nakz veya kalb yoluyla iptal etmeyi öğretir. Bu kısım "Daha önce zikri geçen o itirazlardan olana gelince, bu, şöyle denilmesi gibidir..." ifadesiyle başlar ve metnin hacminin yaklaşık üçte birini kaplar.
 
 **Bu kısımda dikkati çeken husus** şudur: (Âyet ve hadislerle yapılan) fıkhî istidlal ortadan kalkar ve yerini tamamen sûrî mantığın araçları alır. Bu, İmam Nesefî'nin eserlerinde üzerinde durduğu cedel ilminin bir özelliğidir. Cedel, yalnız şeriatın değil bütün ilimlerin ihticac ve müdafaa araçlarının içine dökülebileceği bir kalıptır.
 
-**Belirtmek gerekir ki** kırk nükteden dördünde (5, 8, 12, 22) itirazlar kısmı diğer kısımlardan ayrı olarak yer almaz. Bu, söz konusu nüktelerde itiraz bulunmadığı anlamına gelmez; itirazlar, "Eğer (hasım) ... derse" (*ve le-in kāle*) kalıbıyla takririn arasına yerleştirilmiştir.
+**Belirtmek gerekir ki** kırk nükteden dördünde (5, 8, 12, 22) itirazlar kısmı diğer kısımlardan ayrı olarak yer almaz. Bu, o nüktelerde itiraz bulunmadığı anlamına gelmez; itirazlar, "Eğer (hasım) ... derse" (*ve le-in kāle*) kalıbıyla takririn arasına yerleştirilmiştir.
 
 ## 2.6. Kitabın Terminolojik Cihazı
 
-*Şerhu'n-Nüket*, Nesefî'nin nükteleri inşa ederken sıkça kullandığı temel cedel terimleri üzerine kuruludur. Bu sebeple bu terimleri metnin kendisinden hareketle tahrir etmeye, ayrıca bulundukları yerlerde metinden çıkarılan ve her terime bağlı olan kuralları göstermeye çalışacağız:
+*Şerhu'n-Nüket*, Nesefî'nin nükteleri inşa ederken sıkça kullandığı temel cedel terimleri üzerine kuruludur. Bu sebeple bu terimleri metnin kendisinden hareketle tahrir etmeye, ayrıca metinden çıkarılan ve her terime bağlı olan kuralları bulundukları yerlerde göstermeye çalışacağız:
 
 ### 2.6.1. Medâriyet
 
 **Nesefî medârı şöyle tanımlar:** "Zira bir şeyin ona varlık ve yoklukta medâr olmasından kastedilen, onun varlığının bunun varlığı olmaksızın, yokluğunun da aynı şekilde bunun yokluğu olmaksızın mümkün olmamasıdır" (birinci nükte). Tanımı üçüncü onluğun ikinci nüktesinde de tekrarlayarak şöyle der: "Zira onun medâr olmasından kastedilen şudur: Bu bulunduğunda onun bulunmaması mümkün değildir; o bulunmadığında da aynı şekilde onun bulunması mümkün değildir."
 
-Nesefî'nin nüktelerinde medâriyet usûlî illiyet değil, hem varlıkta hem yoklukta telâzümdür. Bu sebeple Nesefî nüktelerde illetle ilgili terimlerin (münâsebet, sebr, usûlî anlamıyla devrân) hiçbirini kullanmaya ihtiyaç duymamış, mantıkî denklikle (*tekâfüʾ*) yetinmiştir. Bu da söz konusu usûl terimlerinin şerhte neredeyse tamamen bulunmayışının sebebini açıklamaktadır.
+Nesefî'nin nüktelerinde medâriyet usûlî illiyet değil, hem varlıkta hem yoklukta telâzümdür. Bu sebeple nüktelerde illetle ilgili terimlerin (münâsebet, sebr, usûlî anlamıyla devrân) hiçbirini kullanmaya ihtiyaç duymamış, mantıkî denklikle (*tekâfüʾ*) yetinmiştir. Şerhte bu usûl terimlerine neredeyse hiç rastlanmamasının sebebi de budur.
 
 **Metinden çıkarılan medâr kuralları:**
 
@@ -93,7 +93,7 @@ Münâfâtın tanımı şudur: "İkisinin tek bir mahalde ve tek bir zamanda bir
 
 **Nesefî ittihadı şöyle tanımlar:** "İttihaddan kastedilen, ikisinden her birinin diğerinin lâzımlarından olması, öyle ki ikisinden birinin diğeri olmaksızın asla tahakkuk etmesinin mümkün olmamasıdır" (13. nükte). **Başka bir yerde de şöyle der:** "Daha önce geçtiği üzere ittihaddan kastedilen, ikisinden birinin diğeri olmaksızın mümkün olmamasıdır" (32. nükte). Buna göre Nesefî'de ittihadın mahiyeti, iki taraflı lüzûm, yani denkliktir.
 
-**Hasır kuralı** şunu ifade eder: "İkisi arasındaki iki ictimâdan biri ya tahakkuk etmiştir ya da etmemiştir. Tahakkuk etmişse aralarında ittihad tahakkuk etmiş olur; hiç tahakkuk etmemişse aralarında iftirak tahakkuk etmiş olur" (32. nükte). İctimâ-iftirak ikiliği, üçüncü ve dördüncü onluktaki nüktelerin çoğunun üzerine bina edildiği hâsır (bütün ihtimalleri kuşatan) taksimdir.
+**Hasr kuralı** şunu ifade eder: "İkisi arasındaki iki ictimâdan biri ya tahakkuk etmiştir ya da etmemiştir. Tahakkuk etmişse aralarında ittihad tahakkuk etmiş olur; hiç tahakkuk etmemişse aralarında iftirak tahakkuk etmiş olur" (32. nükte). İctimâ-iftirak ikiliği, üçüncü ve dördüncü onluktaki nüktelerin çoğunun üzerine bina edildiği hâsır (bütün ihtimalleri kuşatan) taksimdir.
 
 ### 2.6.5. Şümûl, Nakîz ve "Ehadühümâ"
 
@@ -107,17 +107,17 @@ Münâfâtın tanımı şudur: "İkisinin tek bir mahalde ve tek bir zamanda bir
 
 ### 2.6.6. Takdir ve "Nefsü'l-emr"
 
-Muhtemelen şerhte telâzümden sonra en çok tekrar eden metot budur. Bu metot birbirini tamamlayan iki kurala dayanır:
+Muhtemelen şerhte telâzümden sonra en çok tekrarlanan metot budur. Bu metot birbirini tamamlayan iki kurala dayanır:
 
 **Birinci kural: Takdirden nefsü'l-emre geçiş. Nesefî şöyle der:** "Zira birbirinin nakîzi olan iki takdire göre tahakkuk, nefsü'l-emrde mutlaka tahakkuk etmiştir" (4. nükte). Nesefî bu üslubu kullanarak farazî olandan vâkıa geçer; zira matlûb hem takdire hem de onun nakîzine göre sabit olunca vâkıda da zarûrî olarak sabit olur: "Zira iki nakîzden birinin nefsü'l-emrde her zaman tahakkuk etmesi zarûrîdir" (10. nükte).
 
-**İkinci kural: Takdir üzere tahakkuk eden şeyin takdire lâzım olması:** "Zira bir şey takdir üzere ancak o takdir nefsü'l-emrde onu... cüz'î bir lüzûmla istilzam ediyorsa tahakkuk eder" (1. nükte). Bu önemli bir kuraldır; çünkü lâzımın ortadan kalkmasının (intifâsının) takdirin ortadan kalkmasını gerektirdiği hükmü buna dayanır. Kural 14, 15, 22, 24 ve 37. nüktelerde kullanılmıştır.
+**İkinci kural: Takdir üzere tahakkuk eden şeyin takdire lâzım olması:** "Zira bir şey takdir üzere ancak o takdir nefsü'l-emrde onu... cüz'î bir lüzûmla istilzam ediyorsa tahakkuk eder" (1. nükte). Bu önemli bir kuraldır; çünkü lâzımın ortadan kalkmasının (intifâsının) takdirin ortadan kalkmasını gerektirdiği hükmü buna dayanır. Bu kural 14, 15, 22, 24 ve 37. nüktelerde kullanılmıştır.
 
 **İki vasıf arasındaki ince bir ayrım da şudur:** "Zannedilmesin ki o şeyin zâtı, zâtı olması bakımından veya sıfatlarından bir sıfatla tahakkuk eder... Zira **bir şeyin zâtı, zât olması bakımından hiçbir sıfatla asla muttasıf olmaz**; bırakınız melzûmiyet veya medâriyet sıfatıyla muttasıf olmayı" (1. nükte). Buna göre muallil mücerred zâttan değil, melzûmiyetle muttasıf olandan söz etmektedir; bu da itirazların çoğunu def etmenin anahtarıdır.
 
 ### 2.6.7. Terdîd
 
-Terdîd de Nesefî'nin dayandığı görülen üsluplardandır. Ona göre terdîd, bir şeyi iki nakîze ayırmak, ardından matlûbu bunların her birine göre ispat etmektir. Metindeki örneği şu ifadedir: "Bu, ya şöyledir ya da değildir. Şöyleyse durum açıktır; değilse yine öyledir."
+Terdîd, Nesefî'nin dayandığı görülen üsluplardandır. Ona göre terdîd, bir şeyi iki nakîze ayırmak, ardından matlûbu bunların her birine göre ispat etmektir. Metindeki örneği şu ifadedir: "Bu, ya şöyledir ya da değildir. Şöyleyse durum açıktır; değilse yine öyledir."
 
 Nesefî terdîdi mürekkep ve iç içe geçmiş bir biçimde kullanır. Terdîd bir defa yapılmakla kalmaz; birinci düzeyde medâr üzerinde, ikinci düzeyde medârın medâriyeti (medârın medâriyet sıfatıyla muttasıf olması) üzerinde, üçüncü düzeyde ise iki medâriyet arasındaki iftirak üzerinde yapılır. Böylece terdîd üst üste binen ve giderek yükselen katmanlardan oluşur. Bunun belki de en açık örneği, büyük kısmını kapladığı birinci nüktede görülmektedir.
 
@@ -147,7 +147,7 @@ Nesefî daha sonra kıyasları üç türe ayırmıştır: evveliyyâttan oluşan
 
 ### 2.7.2. Birinci Araç: Meşrada İtlak ile Takyidin Yer Değiştirmesi
 
-Bu, nüktelerin meşralarında en çok kullanılan üsluptur; Nesefî onu yaklaşık 15 nüktede kullanmıştır. Bu üslupta hüküm, kaydın yeri tersine çevrilerek iki defa zikredilir, ardından "İkisi arasındaki ayrım açıktır" denir.
+Bu, nüktelerin meşralarında en çok kullanılan üsluptur; Nesefî ona yaklaşık 15 nüktede başvurmuştur. Bu üslupta hüküm, kaydın yeri tersine çevrilerek iki defa zikredilir, ardından "İkisi arasındaki ayrım açıktır" denir.
 
 **Birinci nüktedeki örneği şu ifadesidir:** "Niyetin tartışma konusu sûrette şart koşulmamasının medârı bulunmuştur, yahut tartışma konusu sûrette niyetin şart koşulmamasının medârı bulunmuştur." Ardından bunu şöyle açıklar: "Bu iki şey arasındaki ayrım burada açıktır; çünkü bunlardan birincisinde şart koşmama mukayyet şart koşmamadır, ikincisinde ise mutlak şart koşmamadır. Bunlardaki medâr ise böyle değildir; onda durum tersinedir."
 
@@ -171,7 +171,7 @@ Her mertebede matlûb iki tarafa göre de ispat edilir ve böylece men' kapısı
 
 ### 2.7.5. Dördüncü Araç: Takdirden Nefsü'l-emre Geçiş
 
-Bu aracın düzenli olarak tekrar eden kapanış formülü şudur: "Bu takdire göre ikisinden biri tahakkuk etse nefsü'l-emrde de tahakkuk etmiş olur; zira o takdirin nefsü'l-emrde ya tahakkuk etmesi ya da tahakkuk etmemesi zarûrîdir. Nefsü'l-emrdeki tahakkuk ve lâ-tahakkuktan her biri de onu tahakkuk ettiren şeylerdendir."
+Bu aracın düzenli olarak tekrarlanan kapanış formülü şudur: "Bu takdire göre ikisinden biri tahakkuk etse nefsü'l-emrde de tahakkuk etmiş olur; zira o takdirin nefsü'l-emrde ya tahakkuk etmesi ya da tahakkuk etmemesi zarûrîdir. Nefsü'l-emrdeki tahakkuk ve lâ-tahakkuktan her biri de onu tahakkuk ettiren şeylerdendir."
 
 ### 2.7.6. Beşinci Araç: Zam
 
@@ -189,9 +189,9 @@ Nükte incelendiğinde Nesefî'nin buradaki cedel üslubunun sırasıyla şu on 
 
 1.  **İki mezhebin görüşünün tahriri. Nesefî bütün nüktelere bu merhaleyle başlar; buradaki ifadesi şöyledir:** "Âlimlerimiz –Allah hepsinden razı olsun– dediler ki: Abdestte niyet namazın cevazı için şart değildir. Şâfiî –Allah ona rahmet etsin– ise dedi ki: Niyet cevazın şartıdır."
 
-2.  **Terimlerin tahriri:** Nesefî önce niyeti tanımlamış, ardından şartı rüknü, alâmeti ve illeti dışarıda bırakan üç kaydıyla tanımlamış, sonra da nükteyi lugat bakımından tanımlamıştır.
+2.  **Terimlerin tahriri:** Nesefî önce niyeti, ardından rüknü, alâmeti ve illeti dışarıda bırakan üç kaydıyla şartı, sonra da nükteyi lügat bakımından tanımlamıştır.
 
-3.  **Nüktenin meşraı; nüktedeki istidlalin medârı da buradadır. Nesefî şöyle der:** "Niyetin tartışma konusu sûrette şart koşulmamasının medârı bulunmuştur, yahut tartışma konusu sûrette niyetin şart koşulmamasının medârı bulunmuştur." Bununla birlikte itlak ve takyit yoluyla aradaki fark da açıklanır.
+3.  **Nüktenin meşraı; nüktedeki istidlalin medârı da buradadır. Nesefî şöyle der:** "Niyetin tartışma konusu sûrette şart koşulmamasının medârı bulunmuştur, yahut tartışma konusu sûrette niyetin şart koşulmamasının medârı bulunmuştur." Burada ayrıca itlak ve takyit yoluyla aradaki fark da açıklanır.
 
 4.  **Medârın üzerine kurulduğu iki sûretin tahriri:** Bunlar teyemmüm ve abdesttir. İkisini birleştiren unsur niyetin şart koşulmaması, ayıran unsur ise abdest almanın vâcib olmasıdır.
 
@@ -219,7 +219,7 @@ Nükte incelendiğinde Nesefî'nin buradaki cedel üslubunun sırasıyla şu on 
 
 16. **Hâtime:** Nesefî medâriyetin iki taraftan olmasının tek taraftan olmasından evlâ olduğunu tespit ettikten sonra meseleyi şu sözüyle bitirir: "İşte bunlar bu nükteyle ilgili bahislerdir... Böyle bir nüktede herhangi bir fesat bulunduğunu iddia eden kimsenin bunu açıklaması gerekir."
 
-Bu merhaleler Nesefî'nin *el-Fusûl*'de ve *el-Menşeʾ*'de ortaya koyduğu nazariyeye uygun olarak ilerlemiştir; adeta Nesefî bu nazariyenin uygulamasını birinci nüktede eksiksiz biçimde gerçekleştirmiştir.
+Bu merhaleler Nesefî'nin *el-Fusûl*'de ve *el-Menşeʾ*'de ortaya koyduğu nazariyeyi takip etmektedir; Nesefî âdeta bu nazariyesini birinci nüktede eksiksiz biçimde uygulamıştır.
 
 ### 2.7.9. Kısa Bir Uygulama Örneği: Kırkıncı Nükte
 
@@ -240,7 +240,7 @@ Sonuç olarak iki nüktede sûret aynıdır; ancak terdîdlerin, itirazların ve
 <!-- NOTLAR
 YENİ TERİMLER (sözlükte yok):
 - التكافؤ (المنطقي) → (mantıkî) denklik (*tekâfüʾ*); 2.6.4'te "التكافؤ" yalnız "denklik".
-- الحصر / التقسيم الحاصر → hasır / hâsır (bütün ihtimalleri kuşatan) taksim.
+- الحصر / التقسيم الحاصر → hasr / hâsır (bütün ihtimalleri kuşatan) taksim. (Rol B: "hasır" → "hasr"; Türkçede "hasır" ayrı kelime, terim imlası "hasr".)
 - اللزوم الواقعي / اللزوم التقديري → vâkıî lüzûm / takdirî lüzûm.
 - التقابل → tekâbül; بالعرض → araz itibarıyla; الأمران الوجوديان → iki vücûdî şey.
 - الجامع / الفارق (iki sûret arasında) → birleştiren unsur / ayıran unsur.
@@ -252,7 +252,7 @@ YENİ TERİMLER (sözlükte yok):
 - الحِلّ → helâllik (hill).
 
 BELİRSİZ / YORUMLANAN YERLER:
-- 2.5.2 madde 1: "النكات الخمس من كل عشر" → "Her onluğun ilk beş nüktesi" (tabloya göre kastedilen ilk beş satır; "ilk" kelimesi bu yoruma dayanır).
+- 2.5.2 madde 1: "النكات الخمس من كل عشر" → koordinatör kararıyla lafzen "Her onluktaki beş nükte" (önceki "ilk beş" yorumu kaldırıldı). Hangi beş nüktenin kastedildiği açık değil: tabloda 3. ve 4. onluk Zekât'la başladığından ilk beş satır tam örtüşmüyor. YAZARA SORULMALI.
 - 2.6.1 ikinci tanım: Arapçada "وإذا لم يوجد ذلك فلا يمكن أن يوجد ذلك" (iki kez ذلك; muhtemelen ikincisi هذا olmalı). Türkçede "o bulunmadığında ... onun bulunması" diye, göndermeyi belirsiz bırakarak aktarıldı.
 - 2.6.1 ilk kural: "لا يمكن أن يكون متعددًا إلا ولا يمكن..." Nesefî'nin "illâ ve" kalıbı "ancak ... takdirde" şeklinde anlaşıldı.
 - 2.7.2 son alıntı: "طرفًا للحِلّ" büyük ihtimalle "ظرفًا" (zarf) olmalı; "zarf" olarak çevrildi.
