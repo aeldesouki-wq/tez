@@ -2,15 +2,15 @@
 
 Genel olarak nükte üzerine yazılmış kitaplar araştırıldığında, "nükte" adıyla telifin akaid, tefsir, Kur'ân'ın i'câzı, hadis, Arap dili, cedel ilmi, fıkıh usulü ve tarih alanlarında yapıldığı görülür.
 
-Nükte telifi hilâf ilminde bir telif türü olarak öne çıkmıştır. *Nüket* adı verilen eserlerin bir kısmı beş ya da on mesele, bir kısmı yirmi, bazen de otuz ve kırktan elliye kadar mesele ihtiva eder[^59].
+Nükte telifi hilâf ilminde bir telif türü olarak öne çıkmıştır. *Nüket* adı verilen eserlerin bir kısmı beş ya da on mesele, bir kısmı yirmi, bazen de otuz ve kırktan elliye kadar mesele ihtiva eder.[^59]
 
-Cedel ilminde nükte telifi, Şîrâzî'nin *en-Nüket*'inden sonra VII. (XIII.) yüzyıla özgü bir tür sayılır. Zira Amîdî kitabında nükteler hakkında nazarî mahiyette bazı şeyler yazmış, ondan sonra gelen Esîrüddin el-Ebherî de Şîrâzî'nin *en-Nüket*'ine yazdığı *Tehzîbü'n-Nüket* ile *el-Kavâdihu'l-cedeliyye*'de ona reddiye mahiyetinde görüşler ileri sürmüş ve *Tehzîbü'n-Nüket*'te nüktelerin terkibine dair müstakil bir fasıl kaleme almıştır.
+Cedel ilminde nükte telifi, Ebû İshak eş-Şîrâzî'nin *en-Nüket*'inden sonra VII. (XIII.) yüzyıla özgü bir tür sayılır. Zira Amîdî kitabında nükteler hakkında nazarî mahiyette bazı şeyler yazmış, ondan sonra gelen Esîrüddin el-Ebherî de Şîrâzî'nin *en-Nüket*'ine yazdığı *Tehzîbü'n-Nüket* ile *el-Kavâdihu'l-cedeliyye*'de onu reddetmiş ve *Tehzîbü'n-Nüket*'te nüktelerin terkibine dair eksiksiz bir fasıl kaleme almıştır.
 
-Onlardan sonra Tâceddin Abdürrahîm b. Yûnus el-Mevsılî, *Mukaddime vecîze fi'l-cedel ʿalâ ıstılâhi'l-Horasâniyyîn* adlı eserinde nüktelerin terkibi hakkında kısa bir bölüm yazmıştır. Aşağı yukarı aynı dönemde Sirâceddin el-Urmevî de cedelî bir tarzda tartıştığı beş fıkhî meseleyi *en-Nüket fi'l-hilâf* adı altında bir araya getirmişti. Bu çizgi, tahkikini yaptığımız eserle, yani Nesefî'nin *en-Nikâtü'l-erbaʿîn* metniyle tamamlanmıştır. Bu metin, Nesefî'nin başta *el-Fusûl* olmak üzere *el-Menşeʾ* ve *et-Terâcîh*'te yazdıklarının nazarî bir uygulaması sayılır.
+Onlardan sonra Tâceddin Abdürrahîm b. Yûnus el-Mevsılî, *Mukaddime vecîze fi'l-cedel ʿalâ ıstılâhi'l-Horasâniyyîn* adlı eserinde nüktelerin terkibi hakkında kısa bir bölüm yazmıştır. Aşağı yukarı aynı dönemde Sirâceddin el-Urmevî de cedelî bir tarzda tartıştığı beş fıkhî meseleyi *en-Nüket fi'l-hilâf* adı altında bir araya getirmişti. Bu çizgi, tahkikini yaptığımız eserle, yani Nesefî'nin *en-Nikâtü'l-erbaʿîniyye* metniyle tamamlanmıştır. Bu metin, Nesefî'nin başta *el-Fusûl* olmak üzere *el-Menşeʾ* ve *et-Terâcîh*'te yazdıklarının nazarî bir uygulaması sayılır.
 
 Bilindiği üzere Nesefî cedelde Amîdî'nin metodunu takip eder; Esîrüddin el-Ebherî ise Amîdî'yi reddeder. Ayrıca Ebherî, Mevsılî, Urmevî ve Nesefî arasında hocalar, talebeler ya da mekânlar bakımından iç içe geçmiş ilişkiler bulunduğu dikkat çeker. Ebherî ile Urmevî'nin her ikisi de Kemâleddin Yûnus b. Muhammed b. Menaa el-Mevsılî'den ders okumuştur; muhtemelen bu zat Tâceddin Abdürrahîm el-Mevsılî'nin amcasıdır. Aynı şekilde Mevsılî 670 yılında Bağdat'a gitmiş, Nesefî de bu tarihten sonra Bağdat'a gelip vefatına kadar orada kalmıştır; Burhâneddin el-Ca'berî de her ikisinin ortak talebesidir. Sirâceddin el-Urmevî'nin hayatını inceleyen kimse onun Burhâneddin en-Nesefî ile pek çok kesişme noktası bulunduğunu görecektir. Urmevî cedel ilmiyle ilgilenmiş, bu alanda burada araştırma konusu olan *en-Nüket fi'l-hilâf*'ın yanı sıra *el-Vesâil ilâ tahkīki'd-delâil*'i de yazmıştır. Her iki âlim de Râzî'nin mirasına büyük ilgi göstermiş; Urmevî onun *el-Erbaʿîn fî usûli'd-dîn*'ini, Nesefî ise akaide dair *Nihâyetü'l-ukûl*'ünü ihtisar etmiştir. Mantığa olan ortak ilgileri de Urmevî'nin mantık risâlelerinde ve her ikisinin İbn Sînâ'nın *el-İşârât ve't-tenbîhât*'ına yazdıkları şerhlerde kendini gösterir. Nesefî'nin Urmevî'ye nisbet edilen *Esâsü'l-kiyâse*'ye yazdığı şerh de[^60] onun Urmevî'nin mirasına ne kadar ilgi duyduğunu ve bu mirasa ne ölçüde vâkıf olduğunu ortaya koymaktadır.
 
-Bütün bu kesişmeler, söz konusu âlimlerin genel olarak telif mirasını, özel olarak da cedel mirasını aralarında aktardıklarını ve bundan istifade ettiklerini düşündürmektedir. Bu durum bilhassa Ebherî'nin Amîdî'ye reddiyesinde ve Mevsılî'nin nüktelerin terkibi bahsinde Ebherî'nin sözlerini ihtisar ettiği söylenebilecek kısımda görülür. Bu sebeple burada şunları aralarında mukayese yaparak ortaya koymaya çalışacağız: Ebherî'nin, Şîrâzî'nin *en-Nüket*'ine yazdığı *Tehzîb*'deki "nüktelerin terkibi" bahsinde yer alanlar; Mevsılî'nin *Mukaddime*'sinde nüktelerin terkibi hakkında zikrettikleri; Urmevî'nin *en-Nüket fi'l-hilâf*'ı ve Nesefî'nin *en-Nikâtü'l-erbaʿîn*'i.
+Bütün bu kesişmeler, söz konusu âlimlerin genel olarak telif mirasını, özel olarak da cedel mirasını aralarında aktardıklarını ve bundan istifade ettiklerini düşündürmektedir. Bu durum bilhassa Ebherî'nin Amîdî'ye reddiyesinde ve Mevsılî'nin nüktelerin terkibi bahsinde Ebherî'nin sözlerini ihtisar ettiği söylenebilecek kısımda görülür. Bu sebeple burada şunları aralarında mukayese yaparak ortaya koymaya çalışacağız: Ebherî'nin, Şîrâzî'nin *en-Nüket*'ine yazdığı *Tehzîb*'deki "nüktelerin terkibi" bahsinde yer alanlar; Mevsılî'nin *Mukaddime*'sinde nüktelerin terkibi hakkında zikrettikleri; Urmevî'nin *en-Nüket fi'l-hilâf*'ı ve Nesefî'nin *en-Nikâtü'l-erbaʿîniyye*'si.
 
 Önce Ebherî ve Mevsılî'deki nazarî yapıyı, ardından Urmevî'nin kendi nüktelerindeki uygulamasını ele alacak, Nesefî'deki daha kapsamlı uygulamayla da bahsi tamamlayacağız. Böylece nükte konusunda nazariye ile uygulamayı bir araya getirmiş olacağız.
 
@@ -32,19 +32,19 @@ Ebherî "nüktelerin terkibi"ni (*terkîbü'n-nüket*) kitabının ikinci kısm�
 
 6.  Fâsid sûretler hakkında.
 
-Bu yapı kendi başına Ebherî'nin, mütekaddim cedelcilerin soru ve cevapları sayma şeklindeki tertibini değil, mantıkçıların had (tanım) ve kıyastaki tertibini taklit eden, sağlam ve sınâî (formel) bir tertibi esas aldığını gösterir; zira maddeden sûrete doğru ilerler. Bu yapı aynı zamanda cedel ilminin mantıkî yapısının özellikle VII. (XIII.) yüzyılda geliştiğine de delâlet etmektedir.
+Bu yapı kendi başına Ebherî'nin, mütekaddim cedelcilerin soru ve cevapları sayma şeklindeki tertibini değil, mantıkçıların had (tanım) ve kıyastaki tertibini taklit eden, sağlam ve sınâî bir tertibi esas aldığını gösterir; zira maddeden sûrete doğru ilerler. Bu yapı aynı zamanda cedel ilminin mantıkî yapısının özellikle VII. (XIII.) yüzyılda geliştiğine de delâlet etmektedir.
 
 #### II. Nükte Kavramı ve Unsurları
 
 Ebherî maddeyi "nüktenin üzerine bina edildiği önerme (kaziyye)" diye tanımlar. Ardından kendisine başka bir şeyin ilave edilmesi gereken önermeler hakkında şöyle der: "[Bu ilave,] nüktenin kendisiyle tamamlandığı terkibî bir heyetin hâsıl olması içindir; bu heyet de nüktenin sûretidir."
 
-Buna göre nükte, onun nazarında, tıpkı mantıkî kıyas için söylendiği gibi madde ve sûretten mürekkeptir. Madde bir önermedir (ileride örneklerini vereceği üzere ve Nesefî ile başkalarının nüktelerinde olduğu gibi fıkhî veya usûlî bir önerme); sûret ise onu nizama sokan istilzâmî bir heyettir. Bu tanım nükteyi, Nesefî'nin şârihlerinde olduğu gibi yalnızca bir "latîfe" ya da "fazlalıklardan arındırılmış delil" olmaktan çıkarıp kendine özgü bir cedelî kıyas hâline getirir.
+Buna göre nükte, onun nazarında, tıpkı mantıkî kıyas için söylendiği gibi madde ve sûretten mürekkebdir. Madde bir önermedir (ileride örneklerini vereceği üzere ve Nesefî ile başkalarının nüktelerinde olduğu gibi fıkhî veya usulî bir önerme); sûret ise onu nizama sokan istilzâmî bir heyettir. Bu tanım nükteyi, Nesefî'nin şârihlerinde olduğu gibi yalnızca bir "latîfe" ya da "fazlalıklardan arındırılmış delil" olmaktan çıkarıp kendine özgü bir cedelî kıyas hâline getirir.
 
 #### III. Maddelerin Taksimi
 
 Ebherî maddeyi, her kısım için sabit örnekler vermek suretiyle üç kısma ayırmıştır:
 
-[]{#_Toc241668951 .anchor}Tablo: Ebherî'de Maddelerin Taksimi ve Örnekleri
+[]{#_Toc241668951 .anchor}Tablo 1: Ebherî'de Maddelerin Taksimi ve Örnekleri
 
 +----------------+---------------------------------------------+------------------------------+
 | Madde          | Örnek                                       | Matlûb                       |
@@ -56,12 +56,12 @@ Ebherî maddeyi, her kısım için sabit örnekler vermek suretiyle üç kısma 
 |                | ve tayyib olma vasfıyla ifade eder."        | nefyi                        |
 +----------------+---------------------------------------------+------------------------------+
 | Telâzumî       | "Bâliğin malında zekâtın vücûbu, onun       | Çocuğun malında zekâtın      |
-|                | (hükmün) müştereke izâfe edilmesinin        | vücûbu                       |
+|                | [hükmün] müştereke nisbet edilmesinin       | vücûbu                       |
 |                | melzûmudur."                                |                              |
 +----------------+---------------------------------------------+------------------------------+
 | Telâzumî       | "Ziynet eşyasında zekâtın vücûbu, onun      | Ziynet eşyasında vücûbun     |
-|                | (hükmün) ziynet eşyası ile inci ve          | intifâsı                     |
-|                | mücevherler arasındaki müştereke izâfe      |                              |
+|                | [hükmün] ziynet eşyası ile inci ve          | intifâsı                     |
+|                | mücevherler arasındaki müştereke nisbet     |                              |
 |                | edilmesinin melzûmudur."                    |                              |
 +----------------+---------------------------------------------+------------------------------+
 | İnâdî          | "Yeme ve içme ile orucu bozmak kefâreti     | Yeme ve içme ile kefâretin   |
@@ -116,7 +116,7 @@ Mevsılî'nin *Mukaddime vecîze fi'l-cedel ʿalâ ıstılâhi'l-Horasâniyyîn*
 
 İkisinin mukayesesiyle bunu teyit eden delillerden ikisi şunlar olabilir:
 
-**Birincisi:** Aynı fıkhî örneğin her ikisinde de yer alması. Ziynet eşyasının zekâtı meselesi, muhayyerlik şartlı satım meselesi, yeme ve içmeyle kefâret meselesi ve günlük kullanılan elbise (*sevbü'l-bizle*) meselesi her ikisinde aynı bağlamda ve aynı cedelî kullanımla geçmektedir.
+**Birincisi:** Aynı fıkhî örneklerin her ikisinde de yer alması. Ziynet eşyasının zekâtı meselesi, muhayyerlik şartlı satım meselesi, yeme ve içmeyle kefâret meselesi ve günlük kullanılan elbise (*sevbü'l-bizle*) meselesi her ikisinde aynı bağlamda ve aynı cedelî kullanımla geçmektedir.
 
 **İkincisi:** Bazen görülen birebir örtüşme. "Günlük kullanılan elbise" bahsindeki örtüşme yalnızca muhtevada değil, ifadenin akışında ve nakz ile cevabın sıralanışında da söz konusudur. Bu örtüşme, Horasan'a ait ortak ilmî mirası salt paylaşmakla açıklanamayacak kadar sıkıdır.
 
@@ -124,7 +124,7 @@ Bu durum iki şekilde yorumlanabilir: Ya Mevsılî Ebherî'nin metnini doğrudan
 
 ### Üçüncü Kısım: Sirâceddin el-Urmevî'de (ö. 682/1283) Uygulama
 
-Buradaki kaynak, Urmevî'nin yazdığı *en-Nüket fi'l-mesâʾili'l-hilâfiyye* adlı risâle[^61] ile Dr. Hadi Ensar Ceylan'ın Urmevî'nin bu risâledeki metodu hakkındaki çalışmasıdır[^62]. Kısaca şunlar söylenebilir:
+Buradaki kaynak, Urmevî'nin yazdığı *en-Nüket fi'l-mesâʾili'l-hilâfiyye* adlı risâle[^61] ile Dr. Hadi Ensar Ceylan'ın Urmevî'nin bu risâledeki metodu hakkındaki çalışmasıdır.[^62] Kısaca şunlar söylenebilir:
 
 **I.** Risâlenin temel yapısı: Kitap Şâfiî ile Ebû Hanîfe arasındaki beş ihtilaflı meseleyi ihtiva eder; bunların üçü oruç, ikisi satım akitleri hakkındadır. Bu meseleler şunlardır:
 
@@ -150,7 +150,7 @@ Dava → ta'lîl → farazî itiraz → cevap.
 
 **İkincisi:** Men'e, en sık başvurulan araç olarak dayanmak.
 
-**Sonuç olarak şu söylenebilir:** Urmevî'de nüktenin inşası, yapı itibariyle Nesefî'deki inşaya büyük ölçüde benzemekle birlikte karmaşıklık, Nesefî'de nüktelerin üzerine kurulduğu cedelî kalıplar ve kapsam bakımından ondan ayrılır.
+**Sonuç olarak şu söylenebilir:** Urmevî'de nüktenin inşası, yapı itibarıyla Nesefî'dekine büyük ölçüde benzer; ancak karmaşıklık, Nesefî'de nüktelerin üzerine kurulduğu cedelî kalıplar ve kapsam bakımından ondan ayrılır.
 
 Aynı şekilde Urmevî'nin metni, Horasan kural koyuculuğu ile Nesefî'nin uygulaması arasındaki kayıp orta halkadır. Zira o, sanatı açık bir dörtlü düzenle belirli beş meseleye tatbik etmiştir; ancak icmâ ve men' onda iki merkezî araç olarak kalmaya devam etmiştir.
 
@@ -158,7 +158,7 @@ Aynı şekilde Urmevî'nin metni, Horasan kural koyuculuğu ile Nesefî'nin uygu
 
 #### I. Nüktelerin Yapısal İskeleti
 
-Kırk nükte dört onluktan oluşur; her onlukta on mesele vardır. Nesefî hutbede bunun art arda gelen taleplere cevap olarak ortaya çıktığını açıkça belirtir: "Bu şekilde devam ederek, dört defa onar onar yazıncaya kadar." Dolayısıyla kitap birikimli bir şekilde oluşmuştur; meselelerin önceden yapılmış mantıkî bir tasnifine dayanmaz. Bu, Ebherî'den ayrıldığı esaslı bir farktır.
+Kırk nükte dört onluktan oluşur; her onlukta on mesele vardır. Nesefî hutbede bunun art arda gelen taleplere cevap olarak ortaya çıktığını açıkça belirtir: "Bu şekilde devam ederek, dört defa onar onar yazıncaya kadar." Dolayısıyla kitap birikimli bir şekilde oluşmuştur; meselelerin önceden yapılmış mantıkî bir tasnifine dayanmaz. Bu, onu Ebherî'den ayıran esaslı bir farktır.
 
 **Nesefî'de her nüktenin tertibi sabittir:**
 
@@ -168,21 +168,21 @@ Kırk nükte dört onluktan oluşur; her onlukta on mesele vardır. Nesefî hutb
 
 3.  Nüktenin girişi ve delilinin terkibi: "Nüktenin meşraına (*meşraʿu'n-nükte*) gelince". Bu, Nesefî'ye özgü bir terimdir; tespit ettiğimiz kadarıyla ne Ebherî'de ne de Mevsılî'de geçmektedir.
 
-4.  İtiraz ve cevap zinciri: "Eğer (hasım) ... derse, deriz ki..." (*ve le-in kāle ... fe-nekūlü*).
+4.  İtiraz ve cevap zinciri: "Eğer [hasım] ... derse, deriz ki..." (*ve le-in kāle ... fe-nekūlü*).
 
 Daha önce belirttiğimiz gibi bu yapı Urmevî'nin yapısıyla neredeyse aynıdır.
 
 #### II. Tanımlar ve Terkipler
 
-Nesefî birinci nüktenin başında nükteyi "sözdeki latîfe; 'yere vurup onda çizgi çektiği zaman' anlamındaki *nekete'l-arda* fiilinden" diye tanımlar. Bu, sınâî değil, lugavî bir tanımdır. Ardından tanımı bırakıp zarûrî olma şartını açıklamaya geçer ve hutbede şöyle der: "Onların zarûrî olmasından kastedilen, ancak hasmın men' etmesine imkân bulunmayan öncüllerden mürekkep olmalarıdır."
+Nesefî birinci nüktenin başında nükteyi "sözdeki latîfe; 'yere vurup onda çizgi çektiği zaman' anlamındaki *nekete'l-arda* fiilinden" diye tanımlar. Bu, sınâî değil, lugavî bir tanımdır. Ardından tanımı bırakıp zarûrî olma şartını açıklamaya geçer ve hutbede şöyle der: "Onların zarûrî olmasından kastedilen, ancak hasmın men' etmesine imkân bulunmayan öncüllerden mürekkeb olmalarıdır."
 
 Bu metin, Nesefî'nin nüktelerdeki cedel projesinin bütününü anlamanın temel taşıdır. Zira ona göre nükte herhangi bir cedelî kıyas değil, men'in giremeyeceği öncüllerden kurulan kıyastır. Ardından Nesefî, nükteye mutâlebenin yönelebileceğini istidrâk yoluyla belirtir; fakat buna verilecek cevap "nükteye vâkıf olunduktan sonra açıktır; çünkü bu, nüktenin kendisinden istinbat edilir."
 
-Nesefî ayrıca hutbede terkipleri tamamen mantıkî bir tasnife tâbi tutmuştur: Evveliyyâttan mürekkep olan burhânî, maznûnâttan mürekkep olan hitâbî, müsellemâttan mürekkep olan ise cedelîdir; "bu müsellemât ister nefsü'l-emrde, ister bazı gruplar nezdinde, isterse hasım nezdinde müsellem olsun."
+Nesefî ayrıca hutbede terkipleri tamamen mantıkî bir tasnife tâbi tutmuştur: Evveliyyâttan mürekkeb olan burhânî, maznûnâttan mürekkeb olan hitâbî, müsellemâttan mürekkeb olan ise cedelîdir; "bu müsellemât ister nefsü'l-emrde, ister bazı gruplar nezdinde, isterse hasım nezdinde müsellem olsun."
 
 #### III. Cedelî Eleştiri Noktaları ve Fâsid Sûretler
 
-Nesefî birinci nüktenin sonunda zâhirî (yüzeysel) münâzırların (*el-münâzırûne'z-zâhiriyyûn*) ve mütefakkıhenin (*el-mütefakkıhe*) "tutumu"na (*deʾb*) dair bir fasıl ayırmış ve onlara karşı altı cedelî eleştiri noktası (*el-meʾâhizü'l-cedeliyye*) sıralamıştır:
+Nesefî birinci nüktenin sonunda zâhirî (yüzeysel) münâzırların (*el-münâzırûne'z-zâhiriyyûn*) ve mütefakkıhenin (*el-mütefakkıhe*) "tutumu"na (*deʾb*) dair bir fasıl ayırmış ve onlara karşı altı eleştiri noktası (*meʾâhiz*) sıralamıştır:
 
 1.  Fazlalıklara takılmak: "Bu sözünle neyi kastediyorsun?"
 
@@ -204,7 +204,7 @@ Bu liste, işlevi bakımından Ebherî'deki "fâsid sûretler" faslını tamamla
 
 Ebherî ile Nesefî'nin kitaplarında terimlerin geçiş sıklığına bakıldığında, Ebherî'nin münâsebet, devrân, illet, mûcib, mâni, kıyas ve icmâ gibi usulcülerin terimlerini kullandığı görülür. Nesefî ise bu terimleri neredeyse tamamen terk etmiş ve onların yerine medâr, dâir, medâriyet, medârın nakîzi, takdir üzere tahakkuk, varlık ve yokluk ile şümûl üzerine kurulu, tamamen sûrî ve mantıkî bir terminoloji koymuştur.
 
-Bu, Nesefî'nin devrânın muhtevasını terk ettiği anlamına gelmez; aksine onu usûlî kalıbından soyutlayıp sûrî bir tarzda ifade ettiği anlamına gelir. Onda "medâriyet" varlık ve yoklukta devrândır; fakat o bunu devrân diye adlandırmaz, ona münâsebetle de istidlal etmez; bilakis onu her maddede cereyan eden mücerred bir istilzam ilişkisi hâline getirir. Bu da Nesefî'nin cedel ilmi ile fıkıh arasındaki bağı çözmek istediğini gösterir. Bu sebeple Nesefî, cedel ilminin âdâbü'l-bahs ve'l-münâzaraya dönüşmeden önceki son halkasını temsil etmiştir.
+Bu, Nesefî'nin devrânın muhtevasını terk ettiği anlamına gelmez; aksine onu usulî kalıbından soyutlayıp sûrî bir tarzda ifade ettiği anlamına gelir. Onda "medâriyet" varlık ve yoklukta devrândır; fakat o bunu devrân diye adlandırmaz, ona münâsebetle de istidlal etmez; bilakis onu her maddede cereyan eden mücerred bir istilzam ilişkisi hâline getirir. Bu da Nesefî'nin cedel ilmi ile fıkıh arasındaki bağı çözmek istediğini gösterir. Bu sebeple Nesefî, cedel ilminin âdâbü'l-bahs ve'l-münâzaraya dönüşmeden önceki son halkasını temsil etmiştir.
 
 #### İkinci Eksen: Yapı
 
@@ -218,11 +218,11 @@ Burada her birinin nükteye bakışı arasındaki farkı gösteren ince bir mese
 
 -   Urmevî'de nüktenin, meselede kendi mezhebi lehine sevk edilen ve itirazların def'iyle birlikte sunulan delil olduğu sonucuna varılabilir. Görüldüğü üzere bu, işlevsel bir tanımdır.
 
--   Nesefî'ye göre ise nükte, hasmın men' etmesine imkân bulunmayan öncüllerden mürekkeptir. Bu da men' üzerinden yapılmış bir tanımdır.
+-   Nesefî'ye göre ise nükte, hasmın men' etmesine imkân bulunmayan öncüllerden mürekkebdir. Bu da men' üzerinden yapılmış bir tanımdır.
 
 Muhtemelen Nesefî'nin metnindeki bütün karmaşıklığı açıklayan şey, Ebherî ile Nesefî'nin tanımları arasındaki farktır. Ebherî "Nükte neyden kurulur?" diye sorar; Nesefî ise "Hasmın onda men' için bir yer bulamayacağı şekilde nasıl kurulur?" diye sorar. Nesefî'nin sorusu daha özel ve daha incedir. Nesefî'nin sorusuna cevap vermek, zarûrî olarak –her zaman men'e açık olan– muhtevalı fıkhî öncüllerden, nihayetinde hakiki inâda, yani iki nakîze varan sûrî öncüllere geçmeyi gerektirir.
 
-Buradan anlaşılmaktadır ki Nesefî nüktelerini, Ebherî'nin beşinci fasılda açıkladığı hakiki inâd üzerine kurmuştur. Çünkü yalnızca hakiki inâd başka bir şeye irca edilemez; bu yüzden dönüştürülmeyi kabul etmeyen tek nizam odur, zira men'i kabul etmez. Nesefî'nin her nükteyi iki nakîz arasında bir terdîd üzerine kurup ardından matlûbu her iki takdire göre birlikte ilzam etmesinin sırrı da budur.
+Buradan anlaşılmaktadır ki Nesefî nüktelerini ancak Ebherî'nin beşinci fasılda açıkladığı hakiki inâd üzerine kurmuştur. Çünkü yalnızca hakiki inâd başka bir şeye irca edilemez; bu yüzden dönüştürülmeyi kabul etmeyen tek nizam odur, zira men'i kabul etmez. Nesefî'nin her nükteyi iki nakîz arasında bir terdîd üzerine kurup ardından matlûbu her iki takdire göre birlikte ilzam etmesinin sırrı da budur.
 
 Buna göre Ebherî'nin nükteyi madde ve sûret olarak tanımlaması, dört metin arasındaki tek sınâî tanım olarak kabul edilebilir. Nükte kavramının tahririnde terminolojik bir referans olarak esas alınması gereken de Nesefî'nin zikrettiği lugavî tanım ya da şârihlerindeki işlevsel tanımlar değil, bu tanımdır.
 
@@ -230,9 +230,9 @@ Buna göre Ebherî'nin nükteyi madde ve sûret olarak tanımlaması, dört meti
 
 Men', muâraza ve münâkaza gibi cedel araçlarından sıkça kullanılanlara ve kullanılmayanlara baktığımızda, burada anlamlı ve dikkate değer bir sonuçla karşılaşırız:
 
-Nesefî'nin metninde "kabul etmiyoruz" (*lâ nüsellim*) ifadesinin oranı yok denecek kadar azdır; buna karşılık o, sıklıkla mutâlebede bulunur ve cedel kabilinden teslim eder. Metninde çokça tekrarlanan ifadelerden biri şudur: "Eğer (hasım) 'Bunu teslim ettik, fakat niçin dediniz ki...' derse" → "deriz ki: ...". Bunun açıklaması, Nesefî'nin men' eden bir hasım değil, önce teslim edip sonra mutâlebede bulunan bir hasım farz etmesidir. Bu yüzden Nesefî men'i bir yöntem olarak esas almaz.
+Nesefî'nin metninde "kabul etmiyoruz" (*lâ nüsellim*) ifadesinin oranı yok denecek kadar azdır; buna karşılık o, sıklıkla mutâlebede bulunur ve cedel kabilinden teslim eder. Metninde çokça tekrarlanan ifadelerden biri şudur: "Eğer [hasım] 'Bunu teslim ettik, fakat niçin dediniz ki...' derse" → "deriz ki: ...". Bunun açıklaması, Nesefî'nin men' eden bir hasım değil, önce teslim edip sonra mutâlebede bulunan bir hasım farz etmesidir. Bu yüzden Nesefî men'i bir yöntem olarak esas almaz.
 
-Bunun sebebi Nesefî'nin kendi projesinin içinden bakıldığında açıktır. Zira nükteler okunduğunda şu sonuca kolayca varılabilir: Nükte men' edilmesine imkân bulunmayan öncüllerden mürekkep olunca, ona yöneltilecek men' bizzat inşa gereği geçersizdir ve hasma mutâlebeden başka bir şey kalmaz. Nesefî de hutbede, yöneltilecek mutâlebeler hakkında "Buna verilecek cevap nükteye vâkıf olunduktan sonra açıktır; çünkü bu, nüktenin kendisinden istinbat edilir" derken bunu açıkça ifade etmiştir.
+Bunun sebebi Nesefî'nin kendi projesinin içinden bakıldığında açıktır. Zira nükteler okunduğunda şu sonuca kolayca varılabilir: Nükte men' edilmesine imkân bulunmayan öncüllerden mürekkeb olunca, ona yöneltilecek men' bizzat inşa gereği geçersizdir ve hasma mutâlebeden başka bir şey kalmaz. Nesefî de hutbede, yöneltilecek mutâlebeler hakkında "Buna verilecek cevap nükteye vâkıf olunduktan sonra açıktır; çünkü bu, nüktenin kendisinden istinbat edilir" derken bunu açıkça ifade etmiştir.
 
 Bu durum, Nesefî'nin sanatına yönelik, medrese çevrelerinden gelen bir dirençle yüz yüze olduğunu ve kitabın bir çekişme ortamında yazıldığını ortaya koymaktadır.
 
@@ -246,7 +246,7 @@ Bu durum, Nesefî'nin sanatına yönelik, medrese çevrelerinden gelen bir diren
 
 -   Son olarak Nesefî'de amaç, hasmın reddetmekten âciz kalacağı zarûrî nükteler inşa etmek, ardından bunlara itiraz edenlerin ancak mantık kurallarını bilmedikleri için itiraz ettiklerini göstermektir.
 
-Nesefî hutbede bu amacı hiçbir şüpheye yer bırakmayacak şekilde açıkça dile getirmiştir. Nüktelerini tenkit edenlerin "tabiatlarının aklî taksimlerden ve mantıkî terkiplerden uzak düştüğünü", ehl-i ihtisasın ise bunlara vâkıf olduklarında, bunların "akılların hayrete düştüğü ve büyük âlimlerin dillerinin onlara muâraza etmekte zorlandığı" cedelî terkiplerden olduğunu kabul ettiklerini nakleder.
+Nesefî hutbede bu amacı hiçbir şüpheye yer bırakmayacak şekilde açıkça dile getirmiştir. Nüktelerini tenkit edenlerin "tabiatlarının aklî taksimlerden ve mantıkî terkiplerden uzak düştüğünü", ehl-i ihtisasın ise bunlara vâkıf olduklarında, bunların "akılların hayrete düştüğü ve büyük âlimlerin dillerinin onlara muâraza ederken dolaştığı" cedelî terkiplerden olduğunu kabul ettiklerini nakleder.
 
 Şu hâlde Nesefî'nin metni, itham altındaki bir sanatın tatbik kitabı olduğu kadar bu sanatın müdafaa kitabıdır da.
 
@@ -260,24 +260,24 @@ VII. (XIII.) yüzyıla ait dört metnin incelenmesi, bu yüzyılda cedelin mant�
 
 -   Nesefî'de ise mantığın tam hâkimiyetini görürüz: Mantık sûrette ve maddede birliktedir. Öncüllerin kendisi sûrî önermeler (medâriyet, medârın nakîzi, takdir üzere tahakkuk) hâline gelmiş, fıkha ise neredeyse yalnızca iki mezhebin hükmü kalmıştır.
 
-Bunun şahidi, nüktelerinin ilki ve en büyüğü olan **"abdestte niyet"** meselesini tek bir âyet, hadis veya usûlî kıyas zikretmeden ortaya koymasıdır. Bütün söz şu soru etrafında döner: Şart koşulmama hususunda ittihat eden iki sûret arasındaki iftirak, abdest almanın vücûbu hususunda ayrılan iki sûret arasındaki ittihadın varlık ve yoklukta medârı mıdır, değil midir?
+Bunun şahidi, nüktelerinin ilki ve en büyüğü olan **"abdestte niyet"** meselesini tek bir âyet, hadis veya usulî kıyas zikretmeden ortaya koymasıdır. Bütün söz şu soru etrafında döner: Şart koşulmama hususunda ittihat eden iki sûret arasındaki iftirak, abdest almanın vücûbu hususunda ayrılan iki sûret arasındaki ittihadın varlık ve yoklukta medârı mıdır, değil midir?
 
 Böylece cedel ve münâzara ilminin tanımına ve doğuşuna dair bir giriş yapmış, ardından üçüncü sırada bir telif türü olarak nükteyi ele almış bulunuyoruz. Bunu yaparken VII. (XIII.) yüzyılda cedelle ilgilenen önde gelen âlimlerin nükteye dair tanımlarını, taksimlerini ve aralarındaki farkları ayrıntılı biçimde ortaya koyduk; bu da tahkikini yaptığımız kitabın cedel ilmindeki nükte kitapları içindeki yerini aydınlatmaktadır. Bu girişten sonra şimdi, müellifi, eserlerini ve hayatını tanıtan kısımdan başlayarak çalışmanın asıl kısmına geçiyoruz; ardından da çalışmayı tamamlayan ve araştırma konusu kitabın tahliline ayrılan kısma geçeceğiz.
 
 [^59]: Özen, *İlm-i Hilâfın Ortaya Çıkışı*, 7.
 
-[^60]: Miller, *Islamic Disputation Theory*, 94.
+[^60]: Miller, *Islamic Disputation Theory: The Uses & Rules*, 94.
 
 [^61]: Sirâceddin Ebü's-Senâ Mahmûd b. Ebî Bekr b. Ahmed el-Urmevî,
     *en-Nüket fi'l-mesâʾili'l-hilâfiyye fi'l-fıkh*, Süleymaniye
     Ktp., Ayasofya, nr. 03721-003 (kayıt nr. 204594),
-    https://portal.yek.gov.tr/works/detail/204594, 111-129.
+    <https://portal.yek.gov.tr/works/detail/204594>, 111-129.
 
 [^62]: Ceylan, "Sirâcuddîn el-Urmevî'nin Hilâf İlmindeki Metodu", 44-53.
 
 <!-- NOTLAR
 YENİ TERİMLER (sözlükte yok):
-- صناعي (ترتيب صناعي، نقد صناعي، تعريف صناعي) → sınâî (bir yerde "(formel)" açıklamasıyla)
+- صناعي (ترتيب صناعي، نقد صناعي، تعريف صناعي) → sınâî (önceki "(formel)" açıklaması hakem g1 H1-g2#1 üzerine kaldırıldı: "formel" sözlükte صوري karşılığıdır)
 - هيئة استلزامية / علاقة استلزامية / مادة استلزامية → istilzâmî heyet / istilzam ilişkisi / istilzâmî madde
 - الترديد المفضي إلى مطلوب واحد → tek bir matlûba götüren terdîd
 - موجبية البيع الصحيح → sahih satımın mûcib oluşu
@@ -295,20 +295,26 @@ ADLAR / ESERLER:
 - Tâceddin "عبد الرحيم بن يونس الموصلي": tezde "b. Yûnus"; TDV "Abdürrahîm b. Muhammed b. Yûnus". Tezin ifadesi korundu.
 - Mevsılî'nin Bağdat'a girişi "670هـ" → "670 yılında" (milâdî eklenmedi).
 - "نكت في المسائل الخلافية" (tezde harf-i tarifsiz) → dipnot 61 ve sözlükle uyum için *en-Nüket fi'l-mesâʾili'l-hilâfiyye*. "النكت في الخلاف" ve "نكت الخلاف" → her ikisi *en-Nüket fi'l-hilâf*.
-- "متن النكت الأربعين للنسفي" / "النكت الأربعين" → *en-Nikâtü'l-erbaʿîn* (sözlükteki ana adla birleştirildi).
+- "متن النكت الأربعين للنسفي" / "النكت الأربعين" → *en-Nikâtü'l-erbaʿîniyye* (DECISIONS_FINAL 8: kısa ad; tam ad *en-Nikâtü'z-zarûriyyetü'l-erbaʿîniyye*).
 - "تهذيبه لنكت الشيرازي" → Şîrâzî'nin *en-Nüket*'ine yazdığı *Tehzîbü'n-Nüket*; ikinci geçişte kısa *Tehzîb*.
 
 BELİRSİZ / DÜZELTİLEN YERLER:
 - İlk paragrafta Arapçada "وفي اللغة العربية" iki kez tekrarlanmış ve "وقفي أصول الفقه" dizgi hatası var; Türkçede tekrar atılarak tek sayıldı, "Kur'ân'ın i'câzı" ayrı alan olarak korundu.
 - "مكوّناها" (başlık) → "Unsurları" (مكوناتها okundu).
 - "ولعل من الأدلة التي تؤكدها المقابلة بينهما على ذلك أمران" cümlesi bozuk; "İkisinin mukayesesiyle bunu teyit eden delillerden ikisi şunlar olabilir" şeklinde anlamca verildi.
-- Tablodaki "ملزوم لإضافته إلى المشترك": "onun (hükmün) müştereke izâfe edilmesinin melzûmudur" diye verildi; "المشترك" ortak vasıf anlamında anlaşıldı.
+- Tablodaki "ملزوم لإضافته إلى المشترك": "onun [hükmün] müştereke nisbet edilmesinin melzûmudur" diye verildi (GLOSSARY A3: fıkhî örneklerde إضافة → nisbet; açıklayıcı ek köşeli parantezde); "المشترك" ortak vasıf anlamında anlaşıldı.
 - "وتصريحه بأن الاصطلاح جرى على سماع الاستدراك" → "ıstılahın istidrâkin ... dinlenmesi yönünde yerleştiğini açıkça belirtmesi".
 - "ولئن سلّمنا" (Ebherî) → "eğer teslim etsek bile"; "لا بدّ له من بيان" → "bunun için bir açıklama gereklidir".
 - "النسفي ينتقد مناظرين فاسدي الطريقة" → "yöntemi fâsid münâzırları".
 - "(ثم ثلثت بالنكتة)" → "ardından üçüncü olarak ... nükteyi ele almış" (tezde birinci tekil şahıs; Türkçede birinci çoğul kullanıldı).
 - Arapçadaki "←" okları soldan sağa okuma için "→" yapıldı.
 - [Çeviri kontrolü A] "ممّ تُبنى النكتة" → "neyden kurulur" ("neden" 'niçin' diye okunabiliyordu); "مجرّد اشتراك" → "salt paylaşmak".
-- [Terim kontrolü B] "دأب" → *deʾb*, "المآخذ الجدلية" → *el-meʾâhizü'l-cedeliyye* (hemze = ʾ kuralı); "القرن السابع" geçen iki yerde "VII. (XIII.) yüzyıl" birliği sağlandı. "نكت في المسائل الخلافية" için "en-" korunmuştur: dn. 61 ve tezin kendisi (chunk 1: «النكت في المسائل الخلافية») harf-i tarifli kullanır; Türkçe chunk 1 de *en-Nüket fi'l-mesâʾili'l-hilâfiyye* yazar.
+- [Terim kontrolü B] "دأب" → *deʾb*, "المآخذ الجدلية" → *el-meʾâhizü'l-cedeliyye* (hemze = ʾ kuralı; yalnız başlıkta; gövdede Arapça yalnız "ستّة مآخذ" dediği için hakem g1 sonrası "altı eleştiri noktası (*meʾâhiz*)"); "القرن السابع" geçen iki yerde "VII. (XIII.) yüzyıl" birliği sağlandı. "نكت في المسائل الخلافية" için "en-" korunmuştur: dn. 61 ve tezin kendisi (chunk 1: «النكت في المسائل الخلافية») harf-i tarifli kullanır; Türkçe chunk 1 de *en-Nüket fi'l-mesâʾili'l-hilâfiyye* yazar.
 - [Biçim-dil C] Dn. 61 "Süleymaniye Kütüphanesi" → "Süleymaniye Ktp." (GLOSSARY kütüphane kısaltması); "111-129" yaprak mı sayfa mı belirsiz, tezdeki gibi bırakıldı.
+HAKEM g1 UYGULAMASI (ayrıntı: hakem/UYGULAMA_g1.md):
+- Tablo numarası: "Tablo 1: Ebherî'de Maddelerin Taksimi ve Örnekleri" (DECISIONS_FINAL 16; tezin ilk tablosu, Arapça "الجدول :" numarasız). Sonraki tablolar 06 ve 07'de (Tablo 2, 3).
+- Nakil içi editoryal ekler köşeli paranteze alındı: [hasım] (2 yer), [hükmün] (tablo, 2 yer).
+- Nesefî'nin metni: *en-Nikâtü'l-erbaʿîniyye* (DECISIONS_FINAL 8); Şîrâzî ve Urmevî'nin *en-Nüket*'leri değişmedi.
+- Dn. 61: "111-129" yaprak mı sayfa mı belirsiz; yazar belirtmeli (tezdeki gibi bırakıldı). "03721-003" tezdeki biçimde (DECISIONS_FINAL 9).
+- "mürekkep" → "mürekkeb" (DECISIONS_FINAL 9).
 -->

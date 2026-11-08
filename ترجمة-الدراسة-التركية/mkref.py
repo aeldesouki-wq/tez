@@ -25,3 +25,13 @@ font(S['TOC Heading'],14,True)
 for s in d.sections:
     s.page_width=Cm(21); s.page_height=Cm(29.7); s.left_margin=Cm(4); s.top_margin=Cm(4); s.right_margin=Cm(2.5); s.bottom_margin=Cm(2.5)
 d.save('reference.docx'); print('ok')
+
+# custom styles for title page and page-break headings
+from docx.enum.style import WD_STYLE_TYPE
+d=docx.Document('reference.docx')
+S={s.name:s for s in d.styles}
+if 'Title Page' not in S:
+    st=d.styles.add_style('Title Page',WD_STYLE_TYPE.PARAGRAPH); st.base_style=S['Normal']
+    st.paragraph_format.alignment=A.CENTER; st.paragraph_format.first_line_indent=Cm(0); st.paragraph_format.space_after=Pt(12)
+S['Heading 1'].paragraph_format.page_break_before=True
+d.save('reference.docx'); print('ok2')

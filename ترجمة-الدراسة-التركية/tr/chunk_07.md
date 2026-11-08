@@ -4,9 +4,9 @@ Nesefî itirazları sınıflandırmış; önce bunların fâsid olanlarını fâ
 
 ### 2.8.1. "Zâhirî Münâzırlar"a Dair Altı İtiraz
 
-Nesefî birinci nüktenin sonunda, mütefakkıhenin (*el-mütefakkıhe*) ve –kendi nitelendirmesiyle– zâhirî (yüzeysel) münâzırların (*el-münâzırûne'z-zâhiriyyûn*) âdetini altı fâsid itirazla sınırlandırdığı kurucu bir metne yer ayırmış ve bu itirazları, eserdeki benzeri bütün itirazların reddinde başvurulacak ölçüt kılmıştır. Bunlar şunlardır:
+Nesefî birinci nüktenin sonunda, –kendi nitelendirmesiyle– mütefakkıhenin (*el-mütefakkıhe*) ve zâhirî münâzırların (*el-münâzırûne'z-zâhiriyyûn*) âdetini altı fâsid itirazla sınırlandırdığı kurucu bir metne yer ayırmış ve bu itirazları, eserdeki benzeri bütün itirazların reddinde başvurulacak ölçüt kılmıştır. Bunlar şunlardır:
 
-[]{#_Toc241668953 .anchor}Tablo: Nesefî'ye Göre Altı Fâsid İtiraz ve Bunlara Dair Metinleri
+[]{#_Toc241668953 .anchor}Tablo 3: Nesefî'ye Göre Altı Fâsid İtiraz ve Bunlara Dair Metinleri
 
 +------+--------------------------------+----------------------------------------------------+
 |      | Fâsid İtirazın Sûreti          | Nesefî'nin Metni                                   |
@@ -18,21 +18,21 @@ Nesefî birinci nüktenin sonunda, mütefakkıhenin (*el-mütefakkıhe*) ve –k
 +------+--------------------------------+----------------------------------------------------+
 | 2    | Takdir üzere davayı mülâzeme   | "(Muallil) takdir üzere bir şey iddia ettiğinde,   |
 |      | davasıyla karıştırmak          | bu davanın mülâzeme davası olduğuna inandıkları    |
-|      |                                | için onunla o takdir arasındaki mülâzemeyi men     |
+|      |                                | için onunla o takdir arasındaki mülâzemeyi men'    |
 |      |                                | etmeye kalkışmaları."                              |
 +------+--------------------------------+----------------------------------------------------+
-| 3    | Lâzımın ademinden melzûmun     | "Lâzımın ademi hâlinde melzûmun ademini men        |
-|      | ademinin lâzım gelmesini men   | etmeleri ve lâzımın ademi mümteni olduğunda        |
+| 3    | Lâzımın ademinden melzûmun     | "Lâzımın ademi hâlinde melzûmun ademini men'       |
+|      | ademinin lâzım gelmesini men'  | etmeleri ve lâzımın ademi mümteni olduğunda        |
 |      | etmek                          | lâzımın ademinden melzûmun ademinin lâzım          |
 |      |                                | gelmeyeceğine inanmaları."                         |
 +------+--------------------------------+----------------------------------------------------+
 | 4    | Melzûmun tahakkuku hâlinde     | "Melzûmun tahakkuku hâlinde, kendisine münâfî olan |
-|      | lâzımı men etmek               | şeyle birlikte tahakkuk etmiş olabileceği          |
-|      |                                | ihtimaline dayanarak lâzımı mutlak olarak men      |
+|      | lâzımı men' etmek              | şeyle birlikte tahakkuk etmiş olabileceği          |
+|      |                                | ihtimaline dayanarak lâzımı mutlak olarak men'     |
 |      |                                | etmeleri."                                         |
 +------+--------------------------------+----------------------------------------------------+
-| 5    | Tahakkuk takdirinde zarûreti   | "Bir şeyin tahakkuku takdirinde zarûreti men       |
-|      | men etmek                      | etmeleri; oysa bir şeyin var olduğu hâlde          |
+| 5    | Tahakkuk takdirinde zarûreti   | "Bir şeyin tahakkuku takdirinde zarûreti men'      |
+|      | men' etmek                     | etmeleri; oysa bir şeyin var olduğu hâlde          |
 |      |                                | varlığının zarûrî olduğunu bilmemişlerdir; aksi    |
 |      |                                | takdirde var olduğu hâlde yokluğu mümkün olurdu."  |
 +------+--------------------------------+----------------------------------------------------+
@@ -40,7 +40,6 @@ Nesefî birinci nüktenin sonunda, mütefakkıhenin (*el-mütefakkıhe*) ve –k
 |      | karıştırmak                    | münâkazayla karıştırmaları."                       |
 +------+--------------------------------+----------------------------------------------------+
 
-\
 Nesefî bunları zikrettikten sonra, saydığı itirazların bu türün tamamını kapsamadığını, bu tür itirazlar son derece çok olduğu için yalnızca örnek mahiyetinde olduğunu belirtmiş ve şöyle demiştir: "Kısacası bu itirazlar kabilinden olanlar son derece çoktur; hepsindeki fesat da açıktır."
 
 Ardından bu altı itiraz iyice kavrandığında cedelcinin bunlar sayesinde cevabı hak etmeyen fâsid itirazı diğerlerinden ayırt edebileceğine işaret ederek birinci nüktede şöyle demiştir: "Öğrendiklerini fâsid itirazlarda ölçü al; böylece onların fâsid olanını bilirsin, ona cevap vermeye ihtiyacın olmadığını da anlarsın."
@@ -51,7 +50,7 @@ Ardından bu altı itiraz iyice kavrandığında cedelcinin bunlar sayesinde cev
 
 Nesefî fâsid itirazların yanı sıra cevabı hak eden dinlenmeye değer (*mesmû*) itiraz türlerine de yer vermiştir. Bunlar metinde dört tanedir:
 
--   **Birincisi ve en nadir olanı: Açık men'**; "kabul etmiyoruz" (*lâ nüsellim*) sözüyle yapılır. Bu ifade yalnızca sayılı yerlerde geçer. Bunların en meşhuru, ikinci nüktedeki şu sözüdür: "Onun, zikrettiğiniz iki şeyden biri için medâr olmaktan ya da olmamaktan hâli olmadığını kabul etmiyoruz."
+-   **Birincisi ve en nadir olanı: Açık men'**; "kabul etmiyoruz" (*lâ nüsellim*) sözüyle yapılır. Bu ifade yalnızca sayılı yerlerde geçer. Bunların en meşhuru, ikinci nüktedeki şu sözüdür: "Onun, zikrettiğiniz iki şeyden biri için medâr olmaktan ya da olmamaktan hâlî olmadığını kabul etmiyoruz."
 
 -   **İkincisi: Mutâlebe**; Nesefî bunu "Niçin dediniz ki..." sözüyle ifade eder. Bu kalıp metinde 133 defa tekrarlanmıştır ve dinlenmeye değer itiraz kalıpları arasında en sık geçenidir.
 
@@ -69,7 +68,7 @@ Açık men'in nadir, mutâlebe ile istidrâkle birlikte teslimin ise sık olmas�
 
 **İkincisi: Yerinde olmayan (gayr-i müteveccih) itiraz**. Muallilin sözüyle ilgisi bulunmayan itirazdır ve Nesefî'nin en sert biçimde kınadığı itiraz budur. Nitekim şöyle der: "Bu, bâtıl itirazlardandır; zira muallilin sözünün bir kenarında kalmaktadır; ne onun muhtevasıyla ilgilidir ne de lafzına ve mânasına tutunur. Bu makamda bu tür itirazlara girişen kimse, **eğer cehalet bir mazeret ise**, mazurdur."
 
-**Üçüncüsü: Boşa giden (zâyi') itiraz**. Teslim edilse bile sahibine hiçbir fayda sağlamayan itirazdır: "Eğer ikisinden birinin medâriyetini men ederse bu men' boşa gider; zira bu medâriyet, ancak ikisinden her birinin medâriyetinin ortadan kalkmasını gerektirecek şekilde ortadan kalkar; matlûb da budur."
+**Üçüncüsü: Boşa giden (zâyi') itiraz**. Teslim edilse bile sahibine hiçbir fayda sağlamayan itirazdır: "Eğer ikisinden birinin medâriyetini men' ederse bu men' boşa gider; zira bu medâriyet, ancak ikisinden her birinin medâriyetinin ortadan kalkmasını gerektirecek şekilde ortadan kalkar; matlûb da budur."
 
 **Dördüncüsü: Zarar vermeyen itiraz**: "Deriz ki: Bu men' bize zarar vermez..."
 
@@ -79,7 +78,7 @@ Açık men'in nadir, mutâlebe ile istidrâkle birlikte teslimin ise sık olmas�
 
 Bu metinde itirazın **itiraz olması yönünden** bâtıl olması ile **kendi başına** bâtıl olması arasında son derece ince bir ayrım yapılmakta; anlamadan önce yapılan itirazın doğruya isabet etse bile bâtıl olduğu tespit edilmektedir. Bu tespit, Nesefî'nin itiraz konusundaki görüşünü ortaya koyar.
 
-Buraya kadar söylenenlerden hareketle Nesefî'nin yalnızca cevabı hak eden yerinde itiraza cevap verdiği kesin olarak söylenebilir. Bunun dışında kalan kendi başına bâtıl olan, [metinde bir unsur eksik görünmektedir] zarar vermeyen ya da vâkıf olmamaktan kaynaklanan itirazlarda ise cevap vermeye girişmeksizin o itiraza yönelik tenkidini (meʾhaz) ortaya koyar.
+Buraya kadar söylenenlerden hareketle Nesefî'nin yalnızca cevabı hak eden yerinde itiraza cevap verdiği kesin olarak söylenebilir. Bunun dışında kalan kendi başına bâtıl olan, zarar vermeyen ya da vâkıf olmamaktan kaynaklanan itirazlarda ise cevap vermeye girişmeksizin o itiraza yönelik tenkidini (*meʾhaz*) ortaya koyar.
 
 Şerh üzerinde düşünüldüğünde Nesefî'nin onda birtakım kurallar uyguladığı görülür; bunlar bir araya getirildiğinde onun münâzara âdâbına dair kurallarını yansıtabilir.
 
@@ -89,7 +88,7 @@ Bu kurallar altı esasta toplanabilir:
 
 1.  **Münâzaranın amacı galip gelmek değil, doğruyu ortaya çıkarmaktır.** Bu esas onun *Şerhu'l-Fusûl*'deki münâzara tanımından alınmıştır. Nesefî "gasb"ı bâtıl saymasını da buna dayandırmıştır; zira gasbda "sözü tamamlamadan başka söze geçmek" söz konusudur.
 
-2.  **Tertip**, yani önceki makam tamamlanmadan bir sonrakine geçilmemesi. Men'den önce cevap vermeyi bâtıl sayması ve metindeki şu sözü bu esastan kaynaklanır: "Bunu nüktenin ortasında men etmeye ve ispat etmeye girişmek bâtıldır."
+2.  **Tertip**, yani önceki makam tamamlanmadan bir sonrakine geçilmemesi. Men'den önce cevap vermeyi bâtıl sayması ve metindeki şu sözü bu esastan kaynaklanır: "Bunu nüktenin ortasında men' etmeye ve ispat etmeye girişmek bâtıldır."
 
 3.  **Anlamadan itiraz edilmemesi**; buna dair metni yukarıda geçmişti.
 
@@ -137,9 +136,9 @@ Metnin dili birbirinden belirgin biçimde ayrılan üç düzeye sahiptir ve bu a
 
 -   **Şerhte örtük kalan mânalara dönen zamirlerin çokluğu**.
 
--   **Mantıkî kalıpların lafzen kullanılması**: "... -den hâli değildir" (*lâ yahlû min en*), "aksi takdirde ... lâzım gelir" (*ve illâ lezime*), "bu, hulftür", "zarûrî olarak" (*bi'z-zarûre*), "fi'l-cümle", "nefsü'l-emrde", "takdir üzere" (*ale't-takdîr*) gibi. Ayrıca **nefyin mürekkeb "lâ" kalıbıyla ifade edilmesi**: "lâ-tahakkuk" (*el-lâ tahakkuk*), "lâ-muayyen" (*el-lâ muayyen*) ve "lâ-mûcibiyet" (*el-lâ mûcibiyye*) gibi. Bu, fukahânın Arapçasına dışarıdan girmiş mantıkî bir kalıptır ve müellifin mantıkçıların dilinden ve onların lafız kullanımlarından etkilendiğine şahitlik eder.
+-   **Mantıkî kalıpların lafzen kullanılması**: "... -den hâlî değildir" (*lâ yahlû min en*), "aksi takdirde ... lâzım gelir" (*ve illâ lezime*), "bu, hulftür", "zarûrî olarak" (*bi'z-zarûre*), "fi'l-cümle", "nefsü'l-emrde", "takdir üzere" (*ale't-takdîr*) gibi. Ayrıca **nefyin mürekkeb "lâ" kalıbıyla ifade edilmesi**: "lâ-tahakkuk" (*el-lâ tahakkuk*), "lâ-muayyen" (*el-lâ muayyen*) ve "lâ-mûcibiyet" (*el-lâ mûcibiyye*) gibi. Bu, fukahânın Arapçasına dışarıdan girmiş mantıkî bir kalıptır ve müellifin mantıkçıların dilinden ve onların lafız kullanımlarından etkilendiğine şahitlik eder.
 
-**Üçüncü düzey: Kınama (teşnî') dili.** Fâsid itirazların reddinde ortaya çıkar ve o da secili oluşuyla temayüz eder: "Ne onun muhtevasıyla ilgilidir ne de lafzına ve mânasına tutunur", "Kelimeleri zorlama yoluyla yerlerinden tahrif ederler; insaf âleminden yüz çevirdikleri için de inatla direnirler", "Böylece bunu benim sözüme nisbet eder ve makamıma yakışmayanı bana isnat eder."
+**Üçüncü düzey: Kınama (*teşnîʿ*) dili.** Fâsid itirazların reddinde ortaya çıkar ve o da secili oluşuyla temayüz eder: "Ne onun muhtevasıyla ilgilidir ne de lafzına ve mânasına tutunur", "Kelimeleri zorlama yoluyla yerlerinden tahrif ederler; insaf âleminden yüz çevirdikleri için de inatla direnirler", "Böylece bunu benim sözüme nisbet eder ve makamıma yakışmayanı bana isnat eder."
 
 Düzeyler arasındaki bu ayrışma metodolojik bir anlama işaret eder: Müellif **hitap** makamı ile **burhan** makamı arasında ayrım gözetir; tahrir yaptığı yerde sanata daha az başvurur, ikna ya da savunma makamında ise ona geri döner. Bu, olgunluğun ve sanata dair bilincin bir alametidir.
 
@@ -185,23 +184,23 @@ Bu şerh, Amîdî metoduna göre cedel ilminde büyük önem taşır. Değeri al
 
 ### 3.1.1. Müellifin Şerhinin Yazma Nüshaları (Tahkike Konu Olan)
 
-1.  Bu nüsha, cedel ilmine dair üç kitap ihtiva eden bir mecmuada bulunmaktadır. Birinci kitap, Nesefî'nin nüktelerdeki metoduna yakındır. Müellifi bu eserde Hanefîler ile Şâfiîler arasındaki ihtilaflı meseleleri ele alıp cedel ilmi açısından tartışmakta, buna nas ve icmâ ile ta'lîli de eklemektedir. Belki de Nesefî'ye aittir. Eserde Nesefî'nin *en-Nikât*'ta ele aldığı meseleler de bulunmaktadır; abdestte niyetin şart koşulması, zekât babında ve sadaka-i fıtırda kıymetin ödenmesi gibi. Bu kitabın istinsahı 677 yılında Ebû Bekir Ahmed b. Ahmed'in eliyle tamamlanmıştır; bu da onun bir şekilde Nesefî ile irtibatlı olduğu varsayımını güçlendirmektedir.
+1.  Bu nüsha, cedel ilmine dair üç kitap ihtiva eden bir mecmuada bulunmaktadır. Birinci kitap, Nesefî'nin nüktelerdeki metoduna yakındır. Müellifi bu eserde Hanefîler ile Şâfiîler arasındaki ihtilaflı meseleleri ele alıp cedel ilmi açısından tartışmakta, buna nas ve icmâ ile ta'lîli de eklemektedir. Belki de Nesefî'ye aittir. Eserde Nesefî'nin *en-Nikât*'ta ele aldığı meseleler de bulunmaktadır; abdestte niyetin şart koşulması, zekât babında ve sadaka-i fıtırda kıymetin ödenmesi gibi. Mecmuanın istinsahı 677 yılında Ebû Bekir Ahmed b. Ahmed'in eliyle tamamlanmıştır; bu da birinci kitabın bir şekilde Nesefî ile irtibatlı olduğu varsayımını güçlendirmektedir.
 
-> İkinci kitap da hilâf ilmine dairdir. Fıkıh bablarına göre düzenlenmiştir ve her babın altında meseleler yer alır. Müellif Hanefîler ile Şâfiîler arasındaki ihtilafı ele alırken önce meselenin aslını açıklar, ardından Kitap, Sünnet, kıyas ve ma'kûlden (aklî delil) getirilen delilleri inceler.
+İkinci kitap da hilâf ilmine dairdir. Fıkıh bablarına göre düzenlenmiştir ve her babın altında meseleler yer alır. Müellif Hanefîler ile Şâfiîler arasındaki ihtilafı ele alırken önce meselenin aslını açıklar, ardından Kitap, Sünnet, kıyas ve ma'kûlden (aklî delil) getirilen delilleri inceler.
 
 *en-Nikât* nüshası ise bu mecmua içinde, Süleymaniye Ktp., Cârullah Efendi, nr. 02106-002, vr. 166a-244a'dadır.
 
-Bu, tam bir nüshadır. İlk sayfasına "Bu, cedel ilminde *Şerhu'n-Nüketi'l-erbaʿîn*'dir; metin de şerh de İmam Burhâneddin en-Nesefî'ye aittir" ibaresi yazılmıştır. Bu kaydın Cârullah Efendi'ye ait olması muhtemeldir; onun yazmaların inceliklerine vâkıf âlimlerden olduğu da malumdur.
+Bu, tam bir nüshadır. İlk sayfasına "Bu, *Şerhu'n-Nüketi'l-erbaʿîn fî ilmi'l-cedel*'dir; metin de şerh de İmam Burhâneddin en-Nesefî'ye aittir" ibaresi yazılmıştır. Bu kaydın Cârullah Efendi'ye ait olması muhtemeldir; onun yazmaların inceliklerine vâkıf âlimlerden olduğu da malumdur.
 
 Sayfalar 23 satırdır; nüsha açık bir hatla yazılmıştır. Nüshada eksik, kazıntı veya silinti bulunmadığı gibi hâşiye de yoktur. Onluğun numarası ile müellifin "Âlimlerimiz –Allah hepsinden razı olsun– dediler ki" sözü kırmızı, geri kalanı siyah mürekkeple yazılarak ayırt edilmiştir. Nüshada müstensihin adı veya istinsah tarihi zikredilmemiştir. Mukaddimesi tamdır. Bu nüsha, tahkikte (أ) rumuzuyla gösterilmiştir.
 
-2.  Bu nüsha, *en-Nikât* metnini, müellifin ona yazdığı şerhi ve yine ona ait *et-Tercîhât*'ı ihtiva eden tezhipli bir mecmuada yer almaktadır. Kapağında şu ibare bulunur: "Bu, âlim ve fâzıl Burhâneddin en-Nesefî'nin *el-Üstukussât*, *en-Nikât* ve *et-Tercîhât* adlı kitabıdır; \.... Sultân-ı a'zam Sultan Mehmed Han b. Murad Han –Allah mülkünü ebedî kılsın– adına." Nüsha Nuruosmaniye Ktp., Nuruosmaniye, nr. 1310-001, vr. 28b-139a'dadır ve tahkikte (ب) rumuzuyla gösterilmiştir.
+2.  Bu nüsha, *en-Nikât* metnini, müellifin ona yazdığı şerhi ve yine ona ait *et-Tercîhât*'ı ihtiva eden tezhipli bir mecmuada yer almaktadır. Zahriyesinde şu ibare bulunur: "Bu, âlim ve fâzıl Burhâneddin en-Nesefî'nin *el-Üstukussât*, *en-Nikât* ve *et-Tercîhât* adlı kitabıdır; ... Sultân-ı a'zam Sultan Mehmed Han b. Murad Han –Allah mülkünü ebedî kılsın– adına (*bi-resm*)." Nüsha Nuruosmaniye Ktp., Nuruosmaniye, nr. 1310-001, vr. 28b-139a'dadır ve tahkikte (ب) rumuzuyla gösterilmiştir.
 
 Sayfalar on yedi satırdır; açık ve okunaklı bir hatla yazılmıştır. Besmele ile *kāle*, *ve le-in kāle*, *fe-nekūlü*, *ve le-in kāle heb*, *ve le-in kāle sellemnâ*, *ev nekūlü*, *ve lâ nüsellim*, *ve lenâ*, *ve emmâ* ve *ve innemâ kulnâhu* ibareleri altın renkle (yaldızla) ayırt edilmiştir.
 
-Bu nüshadan, İmam Burhâneddin en-Nesefî'nin *Şerhu metni'n-Nikâti'l-erbaʿîn*'i, Bağdat'ta kendisinden ders okuyan ve biyografisinde geleceği üzere Bağdat valisi olan öğrencisi Sâhib Hârûn b. Şerefeddin'e ithafı düşmüştür; (أ) ve (ج) nüshalarında ise bu ithaf yer almaktadır. Nüshada istinsah tarihi yoktur. Ancak başındaki, Fâtih Sultan Mehmed'in saltanatının devamı için dua ihtiva eden mühür, bu nüshanın ona saltanatı sırasında hediye edildiğine delalet etmektedir. Dolayısıyla nüshanın IX. (XV.) yüzyılın ikinci yarısında yazıldığını söyleyebiliriz. Müstensih adı da bulunmamaktadır; nüsha mukabeleli veya tashihli de değildir. Fakat aynı mecmuada şerhimizden sonra gelen *et-Tercîhât*'ın zahriyesinde müstensihin adının Abdülvâsi' b. Hasan el-Lahsavî olduğu ve istinsahın 869 yılında tamamlandığı kaydedilmiştir. Muhtemelen bu müstensih ve istinsah tarihi şerhimiz için de geçerlidir.
+Bu nüshadan, İmam Burhâneddin en-Nesefî'nin *Şerhu metni'n-Nikâti'l-erbaʿîn*'i, Bağdat'ta kendisinden ders okuyan ve biyografisinde geleceği üzere Bağdat valisi olan öğrencisi Sâhib Hârûn b. Şerefeddin'e ithafı düşmüştür; (أ) ve (ج) nüshalarında ise bu ithaf yer almaktadır. Nüshada istinsah tarihi yoktur. Ancak başındaki, Fâtih Sultan Mehmed'in saltanatının devamı için dua ihtiva eden mühür, bu nüshanın ona saltanatı sırasında hediye edildiğine delâlet etmektedir. Dolayısıyla nüshanın IX. (XV.) yüzyılın ikinci yarısında yazıldığını söyleyebiliriz. Müstensih adı da bulunmamaktadır; nüsha mukabeleli veya tashihli de değildir. Fakat aynı mecmuada şerhimizden sonra gelen *et-Tercîhât*'ın zahriyesinde müstensihin adının Abdülvâsi' b. Hasan el-Lahsavî olduğu ve istinsahın 869 yılında tamamlandığı kaydedilmiştir. Muhtemelen bu müstensih ve istinsah tarihi şerhimiz için de geçerlidir.
 
-3.  Bu nüsha, tahkikte esas alınan (ج) nüshasıdır ve Süleymaniye Ktp., Esad Efendi, nr. 00782, vr. 1a-73b'dedir.
+3.  Bu nüsha, tahkikte kullanılan (ج) nüshasıdır ve Süleymaniye Ktp., Esad Efendi, nr. 00782, vr. 1a-73b'dedir.
 
 Nüshada silinti veya varak eksikliği bulunmadığı gibi hâşiye de yoktur. Hattının okunması biraz güç olsa da okunaklıdır. Her yüzde yirmi beş satır vardır ve yazı oldukça sıktır. İstinsah tarihi ve müstensih adı bulunmamaktadır; nüsha mukabeleli veya tashihli de değildir.
 
@@ -227,7 +226,7 @@ Dikkat çekici olan, müellifin Şemseddin es-Semerkandî ile hemen hemen aynı 
 
 3.  Şemseddin es-Semerkandî'nin şerhi. Yazmanın başında adı zikredilmemiş olsa da müellif mukaddimede *en-Nikât* metnini Tebriz'de Burhân en-Nesefî'den okuduğunu belirtmiştir. Ayrıca yazmada *el-Envâr* ve *el-Kıstâs* adlı kitaplarına atıfta bulunarak "Bu, *el-Envâr*'da ve *el-Kıstâs*'ta açıkladığımız üzere açıktır" demiştir. Eserin ona ait olduğu anlaşılmaktadır; zira Nesefî'nin bazı kitaplarına yazdığı şerhlerden de görüldüğü üzere onun Nesefî'nin eserlerine ilgisi açıktır. Bu iki kitabın Semerkandî'ye nisbeti de sabittir.
 
-Semerkandî yazmanın başında, faydayı tamamlamak ve istifadeyi yaygınlaştırmak amacıyla eserine nüktelerin tahlillerini, telhislerini ve ta'mîmlerini dahil edeceğini belirtmiştir. Bu sebeple şerhe meseleyi bütünüyle ele alarak başlar; ardından nüktenin tahliline, sonra telhisine, sonra ta'mîmine, ardından nakzına geçer ve son olarak kalbiyle bitirir.
+Semerkandî yazmanın başında, faydayı tamamlamak ve istifadeyi yaygınlaştırmak amacıyla eserine nüktelerin tahlillerini, telhislerini ve ta'mîmlerini dâhil edeceğini belirtmiştir. Bu sebeple şerhe meseleyi bütünüyle ele alarak başlar; ardından nüktenin tahliline, sonra telhisine, sonra ta'mîmine, ardından nakzına geçer ve son olarak kalbiyle bitirir.
 
 -   Bu şerhin birinci nüshası Râgıb Paşa Ktp., Râgıb Paşa, nr. 01297-003, vr. 53b-86b'dedir.
 
@@ -273,7 +272,7 @@ Müellife nisbet edilmeden yazılmış, istinsah tarihi bulunmayan tashihli bir 
 
 Nüshada bazı hâşiyeler vardır. Dikkat çekici olan, Çârperdî'den bir nakil bulunmasıdır (vr. 106a). Ancak Nesefî'nin kendi şerhinin nüshası Çârperdî'ye nisbet edilmiştir; oysa şerh ona ait değildir. Çârperdî'nin şerhine de ayrıca vâkıf olduk; şerhler arasında dördüncü sırada ele alınacaktır.
 
-Silinti veya eksik içermeyen bir nüshadır. Mesele numarası farklı bir renkle ayırt edilmiş, ancak bu renk silinmiş ve artık görünmemektedir. İstinsahı 728 yılı Ramazan ayının sonlarında bir cumartesi günü Ali b. Ahmed b. Ali el-Bâr\.... tarafından yapılmıştır.
+Silinti veya eksik içermeyen bir nüshadır. Mesele numarası farklı bir renkle ayırt edilmiş, ancak bu renk silinmiş ve artık görünmemektedir. İstinsahı 728 yılı Ramazan ayının sonlarında bir cumartesi günü Ali b. Ahmed b. Ali el-Bâr... tarafından yapılmıştır.
 
 -   Yedinci nüsha Süleymaniye Ktp., Laleli, nr. 02243-003, vr. 81b-147a'dadır.
 
@@ -281,13 +280,13 @@ Silinti veya eksik içermeyen bir nüshadır. Mesele numarası farklı bir renkl
 
 -   Sekizinci nüsha Dârü'l-kütübi'l-Mısriyye, Teymûr, Fıkıh, nr. 437'dedir.
 
-Yüz sekiz sayfadan oluşur. Başında şu ibare yer almaktadır: "*Şerhu'n-Nüketi'l-erbaʿîn fi'l-hilâf li-Burhâneddîn en-Nesefî*, talebelerinden birinin telifi."
+Yüz sekiz sayfadan oluşur. Başında şu ibare yer almaktadır: "*Şerhu'n-Nüketi'l-erbaʿîn fi'l-hilâf li-Burhâneddin en-Nesefî*, talebelerinden birinin telifi."
 
 Üzerinde Muhammed b. Fethullah el-Beylûnî, Ebüssuûd el-Kevâkibî el-Hüseynî ve es-Seyyid Ahmed el-Kevâkibî'nin temellük kayıtları ile Ahmed b. İsmâil'in vakıf mührü bulunmaktadır.
 
 Hattı açık, tam bir nüshadır; her sayfasında yirmi yedi satır vardır. Tashihlidir; üzerinde az sayıda derkenar bulunmaktadır; bir sayfasında muhtemelen su izinden kaynaklanan bir silinti vardır.
 
-Üzerinde müstensih adı veya istinsah tarihi yoktur. Hâtimesinde (108) şöyle denmektedir: "*el-Üstukussât* tamamlandı. Üstukus Süryânîcede asıl demektir. Her onluk, bazı nüktelerin aslı olan bir kaide üzerine kurulduğu için her onluğa 'üstukus' adı verilmiştir. Doğrusunu en iyi Allah bilir; dönüş ve varış O'nadır. Hamd âlemlerin Rabbi Allah'adır."
+Üzerinde müstensih adı veya istinsah tarihi yoktur. Hâtimesinde (s. 108) şöyle denmektedir: "*el-Üstukussât* tamamlandı. Üstukus Süryânîcede asıl demektir. Her onluk, bazı nüktelerin aslı olan bir kaide üzerine kurulduğu için her onluğa 'üstukus' adı verilmiştir. Doğrusunu en iyi Allah bilir; dönüş ve varış O'nadır. Hamd âlemlerin Rabbi Allah'adır."
 
 4.  Ebü'l-Mekârim Fahreddin Ahmed b. Hasan el-Çârperdî'nin *Şerhu'n-Nüketi'l-erbaʿîn*'i:
 
@@ -303,7 +302,7 @@ Nüsha açık bir hatla yazılmıştır ve üzerinde tashihler vardır. Müellif
 
 Nüshanın tahriri 759 yılı Muharrem ayının sekizinci günü olan perşembe, tam öğle vaktinde tamamlanmıştır.
 
-## 3.2. Esas Alınan Nüshaların Rumuzları
+## 3.2. Tahkikte Kullanılan Nüshaların Rumuzları
 
 (ب) ve (ج) nüshalarında kısaltma bulunmazken (أ) nüshasındaki az sayıdaki kısaltma şunlardır:
 
@@ -355,13 +354,13 @@ height="4.661111111111111in"}
 
 -   Metni, anlamı açıklığa kavuşturacak şekilde paragraflara ayırmaya gayret ettik; istidlal, itiraz ve itiraza cevap ifade eden ibareleri de belirgin olsun diye kalın yazıyla gösterdik (*fe-in kāle*, *fe-nekūlü*, *eyşe taʿnî bi-kavlike*, ...).
 
--   Zaruret hâlinde açıklama veya düzeltme amacıyla metne eklediğimiz kısımları \[ \] köşeli parantez içinde gösterdik.
+-   Zarûret hâlinde açıklama veya düzeltme amacıyla metne eklediğimiz kısımları \[ \] köşeli parantez içinde gösterdik.
 
 -   Gerektiğinde bazı harfleri harekeledik.
 
 ### 3.5.2. Nasların Tahrici Metodu (Âyetler, Hadisler, Eserler, Şiirler, Şahıslar, Beldeler)
 
--   Âyet ve hadisler çok nadir geçtiği için tahriclerini metin içinde verdik.
+-   Âyet ve hadisler nadiren geçtiği için tahriclerini metin içinde verdik.
 
 -   Metinde geçen şahıslar Ebû Hanîfe ve ashabı, Pezdevî ve Şâfiî'dir; hayatları iyi bilindiği için biyografilerine yer vermedik. Ancak müellifin mukaddimede andığı Sâhib-i A'zam'ın oğlu Hârûn'un biyografisini, ondan söz edilen yerde dipnotta verdik.
 
@@ -384,11 +383,11 @@ YENİ TERİMLER (sözlükte olmayanlar):
 - الاستدراك (2.8.2'de "التسليم مع الاستدراك") → istidrâkle birlikte teslim
 - مذهّبة الإطار → tezhipli çerçeveli; باللون الذهبي → altın renkle (yaldızla)
 - لاصق → yapıştırma
-- برسم (السلطان) → (sultan) adına
+- برسم (السلطان) → (sultan) adına (*bi-resm*) (04b/05 ile birleştirildi)
 BELİRSİZ / NOTLAR:
 - 2.8.1 başlığı "الاعتراضات الستة على المناظرين الظاهريين": "على" hem "karşı" hem "-e ait" okunabilir; içerik zâhirî münâzırların yaptığı itirazlar olduğu için nötr "'Zâhirî Münâzırlar'a Dair Altı İtiraz" verildi.
 - Tablo multiline'dan grid table'a dönüştürüldü. Satır 4 "على احتمال أن يكون متحققًا مع ما ينافيه": öznesi belirsiz (melzûm/lâzım); Türkçede de belirsiz bırakıldı ("kendisine münâfî olan şeyle birlikte tahakkuk etmiş olabileceği").
-- 2.8.3 son paragraf: Arapçada "لا يجب ألا" → "لا يجيب إلا" (yazım hatası) olarak okundu; "من الباطل في نفسه أو أو الذي لا يضر" kısmında "أو أو" tekrarı muhtemelen düşmüş bir maddeye (yerinde olmayan / boşa giden itiraz) işaret ediyor; çeviride "..." ile gösterildi. Yazar kontrol etmeli.
+- 2.8.3 son paragraf: Arapçada "لا يجب ألا" → "لا يجيب إلا" (yazım hatası) olarak okundu; "من الباطل في نفسه أو أو الذي لا يضر" kısmında "أو أو" tekrarı muhtemelen düşmüş bir maddeye (yerinde olmayan / boşa giden itiraz) işaret ediyor. DECISIONS_FINAL 5 uyarınca gövdede işaret konmadı; cümle, tekrar eden "أو" düşürülerek Arapçadaki gibi verildi. Yazar kontrol etmeli.
 - 2.9.1 md. 9 "فاعتبر مما عرفت" ve 2.8.1 "فاعتبر بما عرفت" → "ölçü al" diye verildi.
 - 2.9.2 alıntı "وإنها هو السحر الحلال" → "وإنما" okunarak "O, ... helâl bir sihirdir" (sihr-i helâl) çevrildi. "أسماهم بأسماء" → "adlandıran" (yüceltme anlamı da mümkün).
 - 2.10: "ذكرت قبلا ... وسأحاول" birinci tekil → birinci çoğul; 3.4-3.5 ve nüsha tavsiflerinde de birinci tekil ifadeler ("بحد بحثي"، "حسب فحصي"، "وقفت"، "اعتمدت") birinci çoğulla verildi.
@@ -402,8 +401,12 @@ BELİRSİZ / NOTLAR:
 - Yazma numaraları kaynaktaki gibi baştaki sıfırlarla (02106-002 vb.) korundu; yalnız "02243 -- 003" → "02243-003" birleştirildi.
 - 3.1.1 md. 1: "الأول قريب من منهج النسفي في النكات" → "nüktelerdeki metodu bakımından Nesefî'ye yakındır".
 - 3.5.2: "هارون ابن الصاحب الأعظم" → "Sâhib-i a'zamın oğlu Hârûn".
-- 3.5.3 başlığı kaynakta içeriksiz; aynen boş bırakıldı.
-- [Rol A] 2.8.3 son paragraf: "أو أو" tekrarı gerçek bir boşluğa işaret ediyor: altı türden "yerinde olmayan (gayr-i müteveccih)" ve "boşa giden (zâyi')" itirazlar sayımda yok; "..." yerine "[metinde bir unsur eksik görünmektedir]" konuldu. Yazar hangi tür(ler)in düştüğünü tamamlamalı. "مأخذه عليه" → "o itiraza yönelik tenkidi (meʾhaz)" (önceki "itirazdaki zaaf" yerine).
+- 3.5.3 başlığı kaynakta içeriksiz; aynen boş bırakıldı. YAZAR içerik eklemeli ya da başlığı kaldırmalı.
+- [Hakem g2] 3.1.1 md. 3 ve 3.2 başlığı: "المعتمدة" → "tahkikte kullanılan" ("esas alınan" 3.4.1'deki "asıl nüsha yok" hükmüyle çelişiyordu).
+- [Hakem g2] 3.1.1 md. 1: "وقد وقع الفراغ منها" (müennes zamir) mecmuaya bağlandı ("Mecmuanın istinsahı"); "ارتباطه" birinci kitaba ("birinci kitabın"). Okuma yoruma dayanır; yazar teyit etmeli.
+- [Hakem g2] 2.8.1 tablo başlığı "Tablo 3" diye numaralandı (03 Tablo 1, 06 Tablo 2). Dönüştürme artıkları (tek başına "\" satırı, "\....", ">") kaldırıldı. 3.3 görsel etiketleri Arapçadaki gibi (görselin üstünde, numarasız) bırakıldı; Arapçada numaralı altyazı yok.
+- [Hakem g2] (ب) nüshasının "جاء على غلافها" kaydı 04b ile birleştirilerek "Zahriyesinde"; (أ) nüshasının zahriye kaydı 05 ile aynı biçimde eser adı olarak verildi.
+- [Rol A] 2.8.3 son paragraf: "أو أو" tekrarı gerçek bir boşluğa işaret ediyor: altı türden "yerinde olmayan (gayr-i müteveccih)" ve "boşa giden (zâyi')" itirazlar sayımda yok; çevirmen notu "[metinde bir unsur eksik görünmektedir]" gövdeden kaldırıldı (DECISIONS_FINAL 5); sorun yalnız burada kayıtlı. YAZAR hangi tür(ler)in düştüğünü tamamlamalı. "مأخذه عليه" → "o itiraza yönelik tenkidi (meʾhaz)" (önceki "itirazdaki zaaf" yerine).
 - [Rol A] 4. nüsha ferağ kaydı "ختم بالحر والظهر": metin olduğu gibi çevrildi ("sıcakta ve öğle vakti hitama erdi"), transkripsiyon eklendi. 711 yılı Saferinin sonu ≈ Temmuz 1311 ortası (yaz sıcağı), lafzî okuma mümkün. Ancak bu ibare ferağ kayıtlarında yaygın dua kalıbı "خُتم بالخير والظفر" ("hayır ve zaferle/başarıyla hitama erdi") olarak okunmaya çok elverişli (noktasız خ→ح, ي düşmesi, ف/ه karışması); yazar yazmadan kontrol etmeli, öyleyse çeviri "hayır ve başarıyla hitama erdi" olmalı.
 - [Rol A] Sa'deddin es-Semerkandî nüshası: Arapçada "بيردي خان"; sözlüğe uyularak "Berdi Bek Han" bırakıldı, ancak "Bek" Arapçada yok — yazar teyit etmeli.
 - [Rol B] 4. nüsha ferağ kaydı: koordinatör kararıyla "ختم بالحر والظهر" çevrilmedi; yalnız transkripsiyonla, kayıttaki gibi verildi: '*hutime bi'l-harri ve'z-zuhr*' (önceki "sıcakta ve öğle vakti ... hitama erdi" kaldırıldı). Yazar yazmadan kontrol etmeli: ibare muhtemelen "خُتم بالخير والظفر" (*hutime bi'l-hayri ve'z-zafer*, "hayır ve başarıyla hitama erdi") olmalı; öyleyse çeviri buna göre düzeltilmeli.
